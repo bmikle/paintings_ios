@@ -63,6 +63,41 @@ struct Painting: Identifiable, Codable {
         self.lastViewed = lastViewed
         self.timesViewed = timesViewed
     }
+
+    // Custom Codable implementation to handle optional learning properties
+    enum CodingKeys: String, CodingKey {
+        case id, title, artist, year, period, imageURL, thumbnailURL
+        case description, museum, location, dimensions, medium, wikiURL
+        case isFavorite, isLearned, lastViewed, timesViewed
+    }
+
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+
+        // Decode required fields
+        let idString = try container.decode(String.self, forKey: .id)
+        id = UUID(uuidString: idString) ?? UUID()
+        title = try container.decode(String.self, forKey: .title)
+        artist = try container.decode(String.self, forKey: .artist)
+        year = try container.decode(Int.self, forKey: .year)
+        period = try container.decode(ArtPeriod.self, forKey: .period)
+        imageURL = try container.decode(String.self, forKey: .imageURL)
+        description = try container.decode(String.self, forKey: .description)
+        museum = try container.decode(String.self, forKey: .museum)
+        location = try container.decode(String.self, forKey: .location)
+        medium = try container.decode(String.self, forKey: .medium)
+
+        // Decode optional fields
+        thumbnailURL = try container.decodeIfPresent(String.self, forKey: .thumbnailURL)
+        dimensions = try container.decodeIfPresent(String.self, forKey: .dimensions)
+        wikiURL = try container.decodeIfPresent(String.self, forKey: .wikiURL)
+
+        // Decode learning properties with defaults
+        isFavorite = try container.decodeIfPresent(Bool.self, forKey: .isFavorite) ?? false
+        isLearned = try container.decodeIfPresent(Bool.self, forKey: .isLearned) ?? false
+        lastViewed = try container.decodeIfPresent(Date.self, forKey: .lastViewed)
+        timesViewed = try container.decodeIfPresent(Int.self, forKey: .timesViewed) ?? 0
+    }
 }
 
 enum ArtPeriod: String, Codable, CaseIterable {

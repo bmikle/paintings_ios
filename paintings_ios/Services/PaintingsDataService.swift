@@ -7,16 +7,35 @@
 
 import Foundation
 
+// MARK: - Response Models
+struct PaintingsResponse: Codable {
+    let paintings: [Painting]
+}
+
+// MARK: - Error Types
+enum DataServiceError: Error {
+    case fileNotFound
+    case decodingError
+    case savingError
+}
+
 class PaintingsDataService {
     static let shared = PaintingsDataService()
 
     private init() {}
 
-    // Load paintings from JSON file or API
+    // Load paintings from bundled JSON file
     func loadPaintings() async throws -> [Painting] {
-        // TODO: Implement loading from JSON file or API
-        // For now, return empty array
-        return []
+        guard let url = Bundle.main.url(forResource: "paintings", withExtension: "json") else {
+            throw DataServiceError.fileNotFound
+        }
+
+        let data = try Data(contentsOf: url)
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = .iso8601
+
+        let response = try decoder.decode(PaintingsResponse.self, from: data)
+        return response.paintings
     }
 
     // Save paintings to local storage
