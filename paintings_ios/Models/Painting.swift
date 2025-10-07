@@ -13,8 +13,7 @@ struct Painting: Identifiable, Codable {
     let artist: String
     let year: Int
     let period: ArtPeriod
-    let imageURL: String
-    let thumbnailURL: String?
+    let imageName: String  // Name of image file in bundle (without extension)
     let description: String
     let museum: String
     let location: String
@@ -33,8 +32,7 @@ struct Painting: Identifiable, Codable {
          artist: String,
          year: Int,
          period: ArtPeriod,
-         imageURL: String,
-         thumbnailURL: String? = nil,
+         imageName: String,
          description: String,
          museum: String,
          location: String,
@@ -50,8 +48,7 @@ struct Painting: Identifiable, Codable {
         self.artist = artist
         self.year = year
         self.period = period
-        self.imageURL = imageURL
-        self.thumbnailURL = thumbnailURL
+        self.imageName = imageName
         self.description = description
         self.museum = museum
         self.location = location
@@ -66,7 +63,7 @@ struct Painting: Identifiable, Codable {
 
     // Custom Codable implementation to handle optional learning properties
     enum CodingKeys: String, CodingKey {
-        case id, title, artist, year, period, imageURL, thumbnailURL
+        case id, title, artist, year, period, imageName
         case description, museum, location, dimensions, medium, wikiURL
         case isFavorite, isLearned, lastViewed, timesViewed
     }
@@ -81,14 +78,13 @@ struct Painting: Identifiable, Codable {
         artist = try container.decode(String.self, forKey: .artist)
         year = try container.decode(Int.self, forKey: .year)
         period = try container.decode(ArtPeriod.self, forKey: .period)
-        imageURL = try container.decode(String.self, forKey: .imageURL)
+        imageName = try container.decode(String.self, forKey: .imageName)
         description = try container.decode(String.self, forKey: .description)
         museum = try container.decode(String.self, forKey: .museum)
         location = try container.decode(String.self, forKey: .location)
         medium = try container.decode(String.self, forKey: .medium)
 
         // Decode optional fields
-        thumbnailURL = try container.decodeIfPresent(String.self, forKey: .thumbnailURL)
         dimensions = try container.decodeIfPresent(String.self, forKey: .dimensions)
         wikiURL = try container.decodeIfPresent(String.self, forKey: .wikiURL)
 
@@ -101,21 +97,42 @@ struct Painting: Identifiable, Codable {
 }
 
 enum ArtPeriod: String, Codable, CaseIterable {
-    case renaissance = "Renaissance"
-    case baroque = "Baroque"
-    case rococo = "Rococo"
-    case neoclassicism = "Neoclassicism"
-    case romanticism = "Romanticism"
-    case realism = "Realism"
-    case impressionism = "Impressionism"
-    case postImpressionism = "Post-Impressionism"
-    case expressionism = "Expressionism"
-    case cubism = "Cubism"
-    case surrealism = "Surrealism"
-    case abstract = "Abstract"
-    case modern = "Modern"
-    case contemporary = "Contemporary"
-    case other = "Other"
+    case renaissance = "renaissance"
+    case baroque = "baroque"
+    case rococo = "rococo"
+    case neoclassicism = "neoclassicism"
+    case romanticism = "romanticism"
+    case realism = "realism"
+    case impressionism = "impressionism"
+    case postImpressionism = "postImpressionism"
+    case expressionism = "expressionism"
+    case cubism = "cubism"
+    case surrealism = "surrealism"
+    case abstract = "abstract"
+    case modern = "modern"
+    case contemporary = "contemporary"
+    case other = "other"
+
+    // Display name for UI
+    var displayName: String {
+        switch self {
+        case .renaissance: return "Renaissance"
+        case .baroque: return "Baroque"
+        case .rococo: return "Rococo"
+        case .neoclassicism: return "Neoclassicism"
+        case .romanticism: return "Romanticism"
+        case .realism: return "Realism"
+        case .impressionism: return "Impressionism"
+        case .postImpressionism: return "Post-Impressionism"
+        case .expressionism: return "Expressionism"
+        case .cubism: return "Cubism"
+        case .surrealism: return "Surrealism"
+        case .abstract: return "Abstract"
+        case .modern: return "Modern"
+        case .contemporary: return "Contemporary"
+        case .other: return "Other"
+        }
+    }
 }
 
 // MARK: - Sample Data Extension
@@ -125,7 +142,7 @@ extension Painting {
         artist: "Leonardo da Vinci",
         year: 1503,
         period: .renaissance,
-        imageURL: "https://example.com/mona-lisa.jpg",
+        imageName: "mona_lisa",
         description: "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.",
         museum: "Louvre Museum",
         location: "Paris, France",

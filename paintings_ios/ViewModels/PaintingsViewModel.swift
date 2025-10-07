@@ -7,6 +7,7 @@
 
 import Foundation
 import SwiftUI
+internal import Combine
 
 @MainActor
 class PaintingsViewModel: ObservableObject {
@@ -32,20 +33,11 @@ class PaintingsViewModel: ObservableObject {
         errorMessage = nil
 
         do {
-            // Try to load from local storage first
-            paintings = try dataService.loadLocalPaintings()
+            // Always load from bundle
+            paintings = try await dataService.loadPaintings()
             filteredPaintings = paintings
         } catch {
-            // If local load fails, try to load from remote
-            do {
-                paintings = try await dataService.loadPaintings()
-                filteredPaintings = paintings
-
-                // Save to local storage
-                try dataService.savePaintings(paintings)
-            } catch {
-                errorMessage = "Failed to load paintings: \(error.localizedDescription)"
-            }
+            errorMessage = "Failed to load paintings: \(error.localizedDescription)"
         }
 
         isLoading = false
