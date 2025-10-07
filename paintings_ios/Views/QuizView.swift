@@ -11,51 +11,78 @@ struct QuizView: View {
     @ObservedObject var viewModel: PaintingsViewModel
 
     var body: some View {
-        VStack(spacing: 30) {
-            Text("Quiz Mode")
-                .font(.largeTitle)
-                .fontWeight(.bold)
+        List {
+            // First section: Learn all periods
+            Section {
+                NavigationLink(destination: QuizLessonListView(viewModel: viewModel, lessonType: .allPeriods)) {
+                    HStack(spacing: 16) {
+                        ZStack {
+                            LinearGradient(
+                                colors: [Color.blue, Color.purple],
+                                startPoint: .topLeading,
+                                endPoint: .bottomTrailing
+                            )
 
-            ZStack {
-                LinearGradient(
-                    colors: [Color.blue.opacity(0.3), Color.purple.opacity(0.3)],
-                    startPoint: .topLeading,
-                    endPoint: .bottomTrailing
-                )
+                            Image(systemName: "calendar.badge.clock")
+                                .font(.title2)
+                                .foregroundStyle(.white)
+                        }
+                        .frame(width: 60, height: 60)
+                        .clipShape(RoundedRectangle(cornerRadius: 12))
 
-                VStack(spacing: 12) {
-                    Image(systemName: "photo.artframe")
-                        .font(.system(size: 80))
-                        .foregroundStyle(.white.opacity(0.8))
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Art Periods")
+                                .font(.headline)
 
-                    Text("Painting Image")
-                        .font(.title3)
-                        .foregroundStyle(.white.opacity(0.9))
+                            Text("Learn to distinguish art periods")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                    }
+                    .padding(.vertical, 4)
                 }
+            } header: {
+                Text("General")
             }
-            .frame(height: 300)
-            .clipShape(RoundedRectangle(cornerRadius: 20))
-            .padding(.horizontal)
 
-            VStack(spacing: 16) {
-                ForEach(1...4, id: \.self) { index in
-                    Button(action: {}) {
-                        Text("Answer Option \(index)")
-                            .font(.headline)
-                            .foregroundStyle(.primary)
-                            .frame(maxWidth: .infinity)
-                            .padding()
-                            .background(Color.gray.opacity(0.1))
-                            .clipShape(RoundedRectangle(cornerRadius: 12))
+            // Individual period lessons
+            Section {
+                ForEach(ArtPeriod.allCases, id: \.self) { period in
+                    let paintings = viewModel.paintings.filter { $0.period == period }
+                    if !paintings.isEmpty {
+                        NavigationLink(destination: QuizLessonListView(viewModel: viewModel, lessonType: .specificPeriod(period))) {
+                            HStack(spacing: 16) {
+                                ZStack {
+                                    LinearGradient(
+                                        colors: [Color.orange.opacity(0.7), Color.red.opacity(0.7)],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+
+                                    Image(systemName: "paintbrush.fill")
+                                        .font(.title3)
+                                        .foregroundStyle(.white)
+                                }
+                                .frame(width: 50, height: 50)
+                                .clipShape(RoundedRectangle(cornerRadius: 10))
+
+                                VStack(alignment: .leading, spacing: 4) {
+                                    Text(period.displayName)
+                                        .font(.headline)
+
+                                    Text("\(paintings.count) painting\(paintings.count == 1 ? "" : "s")")
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                }
+                            }
+                            .padding(.vertical, 4)
+                        }
                     }
                 }
+            } header: {
+                Text("Learn by Period")
             }
-            .padding(.horizontal)
-
-            Spacer()
         }
-        .padding()
         .navigationTitle("Quiz")
-        .navigationBarTitleDisplayMode(.inline)
     }
 }

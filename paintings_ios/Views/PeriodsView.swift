@@ -32,29 +32,32 @@ struct PeriodsView: View {
                         HStack(alignment: .center, spacing: 12) {
                             // Painting preview
                             if let painting = mostFamousPainting(for: period) {
-                                if let url = Bundle.main.url(forResource: painting.imageName, withExtension: "jpg"),
-                                   let imageData = try? Data(contentsOf: url),
-                                   let uiImage = UIImage(data: imageData) {
-                                    Image(uiImage: uiImage)
-                                        .resizable()
-                                        .scaledToFill()
+                                AsyncImage(url: Bundle.main.url(forResource: painting.imageName, withExtension: "jpg")) { phase in
+                                    switch phase {
+                                    case .success(let image):
+                                        image
+                                            .resizable()
+                                            .scaledToFill()
+                                            .frame(width: imageSize, height: imageSize)
+                                            .clipShape(RoundedRectangle(cornerRadius: 12))
+                                    case .failure(_), .empty:
+                                        // Placeholder
+                                        ZStack {
+                                            LinearGradient(
+                                                colors: [Color.orange.opacity(0.4), Color.red.opacity(0.4)],
+                                                startPoint: .topLeading,
+                                                endPoint: .bottomTrailing
+                                            )
+
+                                            Image(systemName: "photo.artframe")
+                                                .font(.title)
+                                                .foregroundStyle(.white.opacity(0.8))
+                                        }
                                         .frame(width: imageSize, height: imageSize)
                                         .clipShape(RoundedRectangle(cornerRadius: 12))
-                                } else {
-                                    // Placeholder
-                                    ZStack {
-                                        LinearGradient(
-                                            colors: [Color.orange.opacity(0.4), Color.red.opacity(0.4)],
-                                            startPoint: .topLeading,
-                                            endPoint: .bottomTrailing
-                                        )
-
-                                        Image(systemName: "photo.artframe")
-                                            .font(.title)
-                                            .foregroundStyle(.white.opacity(0.8))
+                                    @unknown default:
+                                        EmptyView()
                                     }
-                                    .frame(width: imageSize, height: imageSize)
-                                    .clipShape(RoundedRectangle(cornerRadius: 12))
                                 }
                             }
 
@@ -94,8 +97,13 @@ struct PeriodDetailView: View {
     }
 
     var body: some View {
-        List(paintings) { painting in
-            PaintingRow(painting: painting)
+        ScrollView {
+            LazyVStack(spacing: 0) {
+                ForEach(paintings) { painting in
+                    PaintingRow(painting: painting)
+                        .padding(.horizontal)
+                }
+            }
         }
         .navigationTitle(period.displayName)
     }

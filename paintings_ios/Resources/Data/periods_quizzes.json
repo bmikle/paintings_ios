@@ -1,0 +1,396 @@
+{
+  "quizzes": [
+    {
+      "id": "periods-quiz-1",
+      "title": "Quiz 1",
+      "type": "periods",
+      "coversPeriods": ["renaissance", "baroque", "rococo"],
+      "lessons": [
+        {
+          "period": "renaissance",
+          "title": "Renaissance (14th-17th century)",
+          "description": "The Renaissance marked a revival of classical learning and humanism. Artists focused on realistic human forms, perspective, and balance.",
+          "keyCharacteristics": [
+            "Realistic proportions and linear perspective",
+            "Religious and mythological themes",
+            "Use of chiaroscuro (light and shadow)",
+            "Emphasis on human form and emotion",
+            "Harmonious compositions"
+          ],
+          "examplePaintingIds": [
+            "mona_lisa",
+            "last_supper",
+            "creation_of_adam",
+            "school_of_athens",
+            "birth_of_venus",
+            "primavera"
+          ]
+        },
+        {
+          "period": "baroque",
+          "title": "Baroque (17th-18th century)",
+          "description": "Baroque art is characterized by dramatic emotion, rich color, and grandeur. It emphasizes movement, tension, and theatrical effects.",
+          "keyCharacteristics": [
+            "Dramatic use of light and shadow (tenebrism)",
+            "Rich, deep colors and ornate details",
+            "Emotional intensity and movement",
+            "Grandeur and religious drama",
+            "Dynamic compositions"
+          ],
+          "examplePaintingIds": [
+            "calling_of_st_matthew",
+            "night_watch",
+            "las_meninas",
+            "girl_with_pearl_earring",
+            "judith_slaying_holofernes"
+          ]
+        },
+        {
+          "period": "rococo",
+          "title": "Rococo (18th century)",
+          "description": "Rococo art is lighthearted, elegant, and ornamental. It features pastel colors, graceful curves, and playful themes.",
+          "keyCharacteristics": [
+            "Light, pastel color palette",
+            "Graceful, flowing forms and curves",
+            "Playful and romantic themes",
+            "Ornate decoration",
+            "Intimate scenes of aristocratic life"
+          ],
+          "examplePaintingIds": [
+            "the_swing",
+            "embarkation_for_cythera"
+          ]
+        }
+      ],
+      "questionTypes": [
+        {
+          "type": "painting-to-period",
+          "instruction": "Which period is this painting from?",
+          "weight": 5
+        },
+        {
+          "type": "period-to-painting",
+          "instruction": "Which painting represents {period}?",
+          "weight": 3
+        },
+        {
+          "type": "characteristic-to-period",
+          "instruction": "Which period is known for: {characteristic}?",
+          "weight": 2
+        }
+      ],
+      "settings": {
+        "questionsPerSession": 10,
+        "minimumCorrectToPass": 7,
+        "showExplanations": true
+      }
+    },
+    {
+      "id": "periods-quiz-2",
+      "title": "Quiz 2",
+      "type": "periods",
+      "coversPeriods": ["neoclassicism", "romanticism", "realism"],
+      "lessons": [
+        {
+          "period": "neoclassicism",
+          "title": "Neoclassicism (18th-19th century)",
+          "description": "Neoclassicism drew inspiration from ancient Greek and Roman art, emphasizing order, clarity, and heroic subjects.",
+          "keyCharacteristics": [
+            "Classical Greek and Roman influences",
+            "Clear, rational compositions",
+            "Heroic and moral themes",
+            "Emphasis on line over color",
+            "Restraint and dignity"
+          ],
+          "examplePaintingIds": [
+            "oath_of_horatii",
+            "coronation_of_napoleon",
+            "david"
+          ]
+        },
+        {
+          "period": "romanticism",
+          "title": "Romanticism (late 18th-19th century)",
+          "description": "Romanticism emphasized emotion, imagination, and the power of nature. It was a reaction against the rationalism of the Enlightenment.",
+          "keyCharacteristics": [
+            "Emotional intensity and passion",
+            "Dramatic landscapes and nature",
+            "Focus on individualism and imagination",
+            "Use of vivid colors and movement",
+            "Themes of heroism and tragedy"
+          ],
+          "examplePaintingIds": [
+            "wanderer_above_sea_fog",
+            "third_of_may"
+          ]
+        },
+        {
+          "period": "realism",
+          "title": "Realism (mid-19th century)",
+          "description": "Realism depicted everyday life and ordinary people without idealization. Artists focused on truthful representation of contemporary subjects.",
+          "keyCharacteristics": [
+            "Depiction of ordinary, everyday subjects",
+            "No idealization or romanticization",
+            "Focus on working-class life",
+            "Accurate, detailed observation",
+            "Social commentary"
+          ],
+          "examplePaintingIds": [
+            "gleaners"
+          ]
+        }
+      ],
+      "questionTypes": [
+        {
+          "type": "painting-to-period",
+          "instruction": "Which period is this painting from?",
+          "weight": 5
+        },
+        {
+          "type": "period-to-painting",
+          "instruction": "Which painting represents {period}?",
+          "weight": 3
+        },
+        {
+          "type": "characteristic-to-period",
+          "instruction": "Which period is known for: {characteristic}?",
+          "weight": 2
+        }
+      ],
+      "settings": {
+        "questionsPerSession": 10,
+        "minimumCorrectToPass": 7,
+        "showExplanations": true
+      }
+    },
+    {
+      "id": "periods-quiz-3",
+      "title": "Quiz 3",
+      "type": "periods",
+      "coversPeriods": ["impressionism", "postImpressionism", "expressionism"],
+      "lessons": [
+        {
+          "period": "impressionism",
+          "title": "Impressionism (late 19th century)",
+          "description": "Impressionism captured fleeting moments and the effects of light. Artists used visible brushstrokes and emphasized perception over detail.",
+          "keyCharacteristics": [
+            "Visible, loose brushstrokes",
+            "Emphasis on light and its changing qualities",
+            "Ordinary subject matter",
+            "Unusual visual angles",
+            "Bright, vibrant colors"
+          ],
+          "examplePaintingIds": [
+            "impression_sunrise",
+            "water_lilies"
+          ]
+        },
+        {
+          "period": "postImpressionism",
+          "title": "Post-Impressionism (late 19th-early 20th century)",
+          "description": "Post-Impressionism extended Impressionism while rejecting its limitations. Artists emphasized symbolic content, formal structure, and personal expression.",
+          "keyCharacteristics": [
+            "Bold colors and symbolic content",
+            "Emphasis on geometric forms",
+            "Personal expression and emotion",
+            "Distortion for expressive effect",
+            "Experimentation with technique"
+          ],
+          "examplePaintingIds": [
+            "starry_night",
+            "bedroom_arles",
+            "irises"
+          ]
+        },
+        {
+          "period": "expressionism",
+          "title": "Expressionism (early 20th century)",
+          "description": "Expressionism sought to express emotional experience rather than physical reality. It featured distorted forms, vivid colors, and subjective perspectives.",
+          "keyCharacteristics": [
+            "Distortion and exaggeration for emotional effect",
+            "Vivid, often clashing colors",
+            "Subjective perspective",
+            "Anxiety and alienation themes",
+            "Bold, aggressive brushwork"
+          ],
+          "examplePaintingIds": [
+            "scream",
+            "kiss_klimt"
+          ]
+        }
+      ],
+      "questionTypes": [
+        {
+          "type": "painting-to-period",
+          "instruction": "Which period is this painting from?",
+          "weight": 5
+        },
+        {
+          "type": "period-to-painting",
+          "instruction": "Which painting represents {period}?",
+          "weight": 3
+        },
+        {
+          "type": "characteristic-to-period",
+          "instruction": "Which period is known for: {characteristic}?",
+          "weight": 2
+        }
+      ],
+      "settings": {
+        "questionsPerSession": 10,
+        "minimumCorrectToPass": 7,
+        "showExplanations": true
+      }
+    },
+    {
+      "id": "periods-quiz-4",
+      "title": "Quiz 4",
+      "type": "periods",
+      "coversPeriods": ["cubism", "surrealism", "abstract"],
+      "lessons": [
+        {
+          "period": "cubism",
+          "title": "Cubism (early 20th century)",
+          "description": "Cubism revolutionized art by depicting subjects from multiple viewpoints simultaneously. It emphasized geometric shapes and fragmented forms.",
+          "keyCharacteristics": [
+            "Multiple viewpoints simultaneously",
+            "Geometric shapes and fragmentation",
+            "Rejection of traditional perspective",
+            "Muted color palette (early phase)",
+            "Analysis of form and space"
+          ],
+          "examplePaintingIds": [
+            "les_demoiselles"
+          ]
+        },
+        {
+          "period": "surrealism",
+          "title": "Surrealism (1920s-1940s)",
+          "description": "Surrealism explored the unconscious mind and dream imagery. It featured bizarre, illogical scenes that challenged reality.",
+          "keyCharacteristics": [
+            "Dream-like, illogical scenes",
+            "Unexpected juxtapositions",
+            "Exploration of the unconscious",
+            "Symbolic imagery",
+            "Hyper-realistic technique with impossible subjects"
+          ],
+          "examplePaintingIds": [
+            "persistence_of_memory",
+            "son_of_man"
+          ]
+        },
+        {
+          "period": "abstract",
+          "title": "Abstract (20th century)",
+          "description": "Abstract art uses visual language of shape, form, color, and line to create compositions independent of visual references in the world.",
+          "keyCharacteristics": [
+            "Non-representational forms",
+            "Emphasis on color, shape, and line",
+            "No recognizable subjects",
+            "Focus on formal elements",
+            "Pure visual experience"
+          ],
+          "examplePaintingIds": [
+            "composition_vii"
+          ]
+        }
+      ],
+      "questionTypes": [
+        {
+          "type": "painting-to-period",
+          "instruction": "Which period is this painting from?",
+          "weight": 5
+        },
+        {
+          "type": "period-to-painting",
+          "instruction": "Which painting represents {period}?",
+          "weight": 3
+        },
+        {
+          "type": "characteristic-to-period",
+          "instruction": "Which period is known for: {characteristic}?",
+          "weight": 2
+        }
+      ],
+      "settings": {
+        "questionsPerSession": 10,
+        "minimumCorrectToPass": 7,
+        "showExplanations": true
+      }
+    },
+    {
+      "id": "periods-quiz-5",
+      "title": "Quiz 5",
+      "type": "periods",
+      "coversPeriods": ["modern", "contemporary", "other"],
+      "lessons": [
+        {
+          "period": "modern",
+          "title": "Modern Art (20th century)",
+          "description": "Modern art encompasses diverse avant-garde movements that broke from traditional forms. It challenged conventions and explored new ways of seeing.",
+          "keyCharacteristics": [
+            "Rejection of traditional techniques",
+            "Experimentation with form and color",
+            "Emphasis on innovation",
+            "Multiple styles and movements",
+            "Focus on concept over realism"
+          ],
+          "examplePaintingIds": [
+            "christina_world"
+          ]
+        },
+        {
+          "period": "contemporary",
+          "title": "Contemporary Art (late 20th century-present)",
+          "description": "Contemporary art reflects current social, political, and cultural issues. It often uses diverse media and challenges traditional boundaries.",
+          "keyCharacteristics": [
+            "Diverse media and techniques",
+            "Social and political commentary",
+            "Global perspectives",
+            "Conceptual emphasis",
+            "Breaking traditional boundaries"
+          ],
+          "examplePaintingIds": []
+        },
+        {
+          "period": "other",
+          "title": "Ancient and Classical Art",
+          "description": "Ancient art includes works from prehistoric times through classical antiquity, featuring cave paintings, ancient artifacts, and foundational cultural works.",
+          "keyCharacteristics": [
+            "Historical significance",
+            "Cultural and religious importance",
+            "Early artistic techniques",
+            "Symbolic representation",
+            "Foundation of art history"
+          ],
+          "examplePaintingIds": [
+            "lascaux_cave_paintings",
+            "rosetta_stone"
+          ]
+        }
+      ],
+      "questionTypes": [
+        {
+          "type": "painting-to-period",
+          "instruction": "Which period is this painting from?",
+          "weight": 5
+        },
+        {
+          "type": "period-to-painting",
+          "instruction": "Which painting represents {period}?",
+          "weight": 3
+        },
+        {
+          "type": "characteristic-to-period",
+          "instruction": "Which period is known for: {characteristic}?",
+          "weight": 2
+        }
+      ],
+      "settings": {
+        "questionsPerSession": 10,
+        "minimumCorrectToPass": 7,
+        "showExplanations": true
+      }
+    }
+  ]
+}

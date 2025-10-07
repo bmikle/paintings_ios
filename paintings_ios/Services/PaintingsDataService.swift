@@ -42,7 +42,8 @@ class PaintingsDataService {
     func savePaintings(_ paintings: [Painting]) throws {
         let encoder = JSONEncoder()
         encoder.dateEncodingStrategy = .iso8601
-        let data = try encoder.encode(paintings)
+        let response = PaintingsResponse(paintings: paintings)
+        let data = try encoder.encode(response)
 
         let documentsURL = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)[0]
         let fileURL = documentsURL.appendingPathComponent("paintings.json")
@@ -59,7 +60,8 @@ class PaintingsDataService {
         let decoder = JSONDecoder()
         decoder.dateDecodingStrategy = .iso8601
 
-        return try decoder.decode([Painting].self, from: data)
+        let response = try decoder.decode(PaintingsResponse.self, from: data)
+        return response.paintings
     }
 
     // Search paintings
