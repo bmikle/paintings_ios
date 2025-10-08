@@ -4,7 +4,7 @@
       "id": "periods-quiz-1",
       "title": "Quiz 1",
       "type": "periods",
-      "coversPeriods": ["renaissance", "baroque", "rococo"],
+      "coversPeriods": ["renaissance", "baroque", "rococo", "neoclassicism"],
       "lessons": [
         {
           "period": "renaissance",
@@ -77,6 +77,30 @@
             "the_shepherdess",
             "progress_of_love"
           ]
+        },
+        {
+          "period": "neoclassicism",
+          "title": "Neoclassicism (18th-19th century)",
+          "description": "Neoclassicism drew inspiration from ancient Greek and Roman art, emphasizing order, clarity, and heroic subjects.",
+          "keyCharacteristics": [
+            "Classical Greek and Roman influences",
+            "Clear, rational compositions",
+            "Heroic and moral themes",
+            "Emphasis on line over color",
+            "Restraint and dignity"
+          ],
+          "examplePaintingIds": [
+            "oath_of_the_horatii",
+            "death_of_marat",
+            "napoleon_crossing_alps",
+            "grande_odalisque",
+            "turkish_bath",
+            "sabine_women",
+            "la_source",
+            "apotheosis_of_homer",
+            "death_of_socrates",
+            "psyche_revived"
+          ]
         }
       ],
       "questionTypes": [
@@ -106,32 +130,8 @@
       "id": "periods-quiz-2",
       "title": "Quiz 2",
       "type": "periods",
-      "coversPeriods": ["neoclassicism", "romanticism", "realism"],
+      "coversPeriods": ["romanticism", "realism", "impressionism", "postImpressionism"],
       "lessons": [
-        {
-          "period": "neoclassicism",
-          "title": "Neoclassicism (18th-19th century)",
-          "description": "Neoclassicism drew inspiration from ancient Greek and Roman art, emphasizing order, clarity, and heroic subjects.",
-          "keyCharacteristics": [
-            "Classical Greek and Roman influences",
-            "Clear, rational compositions",
-            "Heroic and moral themes",
-            "Emphasis on line over color",
-            "Restraint and dignity"
-          ],
-          "examplePaintingIds": [
-            "oath_of_the_horatii",
-            "death_of_marat",
-            "napoleon_crossing_alps",
-            "grande_odalisque",
-            "turkish_bath",
-            "sabine_women",
-            "la_source",
-            "apotheosis_of_homer",
-            "death_of_socrates",
-            "psyche_revived"
-          ]
-        },
         {
           "period": "romanticism",
           "title": "Romanticism (late 18th-19th century)",
@@ -179,37 +179,7 @@
             "barge_haulers_volga",
             "artists_studio"
           ]
-        }
-      ],
-      "questionTypes": [
-        {
-          "type": "painting-to-period",
-          "instruction": "Which period is this painting from?",
-          "weight": 5
         },
-        {
-          "type": "period-to-painting",
-          "instruction": "Which painting represents {period}?",
-          "weight": 3
-        },
-        {
-          "type": "characteristic-to-period",
-          "instruction": "Which period is known for: {characteristic}?",
-          "weight": 2
-        }
-      ],
-      "settings": {
-        "questionsPerSession": 10,
-        "minimumCorrectToPass": 7,
-        "showExplanations": true
-      }
-    },
-    {
-      "id": "periods-quiz-3",
-      "title": "Quiz 3",
-      "type": "periods",
-      "coversPeriods": ["impressionism", "postImpressionism", "expressionism"],
-      "lessons": [
         {
           "period": "impressionism",
           "title": "Impressionism (late 19th century)",
@@ -257,30 +227,6 @@
             "vision_after_sermon",
             "at_moulin_rouge"
           ]
-        },
-        {
-          "period": "expressionism",
-          "title": "Expressionism (early 20th century)",
-          "description": "Expressionism sought to express emotional experience rather than physical reality. It featured distorted forms, vivid colors, and subjective perspectives.",
-          "keyCharacteristics": [
-            "Distortion and exaggeration for emotional effect",
-            "Vivid, often clashing colors",
-            "Subjective perspective",
-            "Anxiety and alienation themes",
-            "Bold, aggressive brushwork"
-          ],
-          "examplePaintingIds": [
-            "the_scream",
-            "the_kiss_munch",
-            "blue_rider",
-            "street_berlin",
-            "bride_of_wind",
-            "self_portrait_chinese_lantern",
-            "tower_blue_horses",
-            "large_blue_horses",
-            "madonna_munch",
-            "yellow_cow"
-          ]
         }
       ],
       "questionTypes": [
@@ -307,11 +253,35 @@
       }
     },
     {
-      "id": "periods-quiz-4",
-      "title": "Quiz 4",
+      "id": "periods-quiz-3",
+      "title": "Quiz 3",
       "type": "periods",
-      "coversPeriods": ["cubism", "surrealism", "abstract"],
+      "coversPeriods": ["expressionism", "cubism", "surrealism", "abstract"],
       "lessons": [
+        {
+          "period": "expressionism",
+          "title": "Expressionism (early 20th century)",
+          "description": "Expressionism sought to express emotional experience rather than physical reality. It featured distorted forms, vivid colors, and subjective perspectives.",
+          "keyCharacteristics": [
+            "Distortion and exaggeration for emotional effect",
+            "Vivid, often clashing colors",
+            "Subjective perspective",
+            "Anxiety and alienation themes",
+            "Bold, aggressive brushwork"
+          ],
+          "examplePaintingIds": [
+            "the_scream",
+            "the_kiss_munch",
+            "blue_rider",
+            "street_berlin",
+            "bride_of_wind",
+            "self_portrait_chinese_lantern",
+            "tower_blue_horses",
+            "large_blue_horses",
+            "madonna_munch",
+            "yellow_cow"
+          ]
+        },
         {
           "period": "cubism",
           "title": "Cubism (early 20th century)",
@@ -382,108 +352,6 @@
             "convergence",
             "woman_i",
             "orange_red_yellow"
-          ]
-        }
-      ],
-      "questionTypes": [
-        {
-          "type": "painting-to-period",
-          "instruction": "Which period is this painting from?",
-          "weight": 5
-        },
-        {
-          "type": "period-to-painting",
-          "instruction": "Which painting represents {period}?",
-          "weight": 3
-        },
-        {
-          "type": "characteristic-to-period",
-          "instruction": "Which period is known for: {characteristic}?",
-          "weight": 2
-        }
-      ],
-      "settings": {
-        "questionsPerSession": 10,
-        "minimumCorrectToPass": 7,
-        "showExplanations": true
-      }
-    },
-    {
-      "id": "periods-quiz-5",
-      "title": "Quiz 5",
-      "type": "periods",
-      "coversPeriods": ["modern", "contemporary", "other"],
-      "lessons": [
-        {
-          "period": "modern",
-          "title": "Modern Art (20th century)",
-          "description": "Modern art encompasses diverse avant-garde movements that broke from traditional forms. It challenged conventions and explored new ways of seeing.",
-          "keyCharacteristics": [
-            "Rejection of traditional techniques",
-            "Experimentation with form and color",
-            "Emphasis on innovation",
-            "Multiple styles and movements",
-            "Focus on concept over realism"
-          ],
-          "examplePaintingIds": [
-            "christinas_world",
-            "the_kiss",
-            "the_dance_matisse",
-            "american_gothic",
-            "nighthawks",
-            "joy_of_life",
-            "adele_bloch_bauer",
-            "campbells_soup_cans",
-            "marilyn_diptych",
-            "the_lovers_ii"
-          ]
-        },
-        {
-          "period": "contemporary",
-          "title": "Contemporary Art (late 20th century-present)",
-          "description": "Contemporary art reflects current social, political, and cultural issues. It often uses diverse media and challenges traditional boundaries.",
-          "keyCharacteristics": [
-            "Diverse media and techniques",
-            "Social and political commentary",
-            "Global perspectives",
-            "Conceptual emphasis",
-            "Breaking traditional boundaries"
-          ],
-          "examplePaintingIds": [
-            "balloon_dog",
-            "portrait_of_ross",
-            "my_bed",
-            "shark_hirst",
-            "perfect_lovers",
-            "rhythm_0",
-            "puppy_koons",
-            "for_love_of_god",
-            "sleeping_muse",
-            "the_gates"
-          ]
-        },
-        {
-          "period": "other",
-          "title": "Ancient and Classical Art",
-          "description": "Ancient art includes works from prehistoric times through classical antiquity, featuring cave paintings, ancient artifacts, and foundational cultural works.",
-          "keyCharacteristics": [
-            "Historical significance",
-            "Cultural and religious importance",
-            "Early artistic techniques",
-            "Symbolic representation",
-            "Foundation of art history"
-          ],
-          "examplePaintingIds": [
-            "lascaux_cave",
-            "great_wave_kanagawa",
-            "bayeux_tapestry",
-            "hagia_sophia_mosaics",
-            "book_of_kells",
-            "wilton_diptych",
-            "terracotta_army",
-            "nefertiti_bust",
-            "standard_of_ur",
-            "mask_of_tutankhamun"
           ]
         }
       ],
