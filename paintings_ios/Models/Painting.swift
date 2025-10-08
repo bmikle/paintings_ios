@@ -14,12 +14,8 @@ struct Painting: Identifiable, Codable {
     let year: Int
     let period: ArtPeriod
     let imageName: String  // Name of image file in bundle (without extension)
-    let description: String
     let museum: String
     let location: String
-    let dimensions: String?
-    let medium: String
-    let wikiURL: String?
 
     // Learning-related properties
     var isFavorite: Bool = false
@@ -33,12 +29,8 @@ struct Painting: Identifiable, Codable {
          year: Int,
          period: ArtPeriod,
          imageName: String,
-         description: String,
          museum: String,
          location: String,
-         dimensions: String? = nil,
-         medium: String,
-         wikiURL: String? = nil,
          isFavorite: Bool = false,
          isLearned: Bool = false,
          lastViewed: Date? = nil,
@@ -49,12 +41,8 @@ struct Painting: Identifiable, Codable {
         self.year = year
         self.period = period
         self.imageName = imageName
-        self.description = description
         self.museum = museum
         self.location = location
-        self.dimensions = dimensions
-        self.medium = medium
-        self.wikiURL = wikiURL
         self.isFavorite = isFavorite
         self.isLearned = isLearned
         self.lastViewed = lastViewed
@@ -64,7 +52,7 @@ struct Painting: Identifiable, Codable {
     // Custom Codable implementation to handle optional learning properties
     enum CodingKeys: String, CodingKey {
         case id, title, artist, year, period, imageName
-        case description, museum, location, dimensions, medium, wikiURL
+        case museum, location
         case isFavorite, isLearned, lastViewed, timesViewed
     }
 
@@ -79,14 +67,8 @@ struct Painting: Identifiable, Codable {
         year = try container.decode(Int.self, forKey: .year)
         period = try container.decode(ArtPeriod.self, forKey: .period)
         imageName = try container.decode(String.self, forKey: .imageName)
-        description = try container.decode(String.self, forKey: .description)
         museum = try container.decode(String.self, forKey: .museum)
         location = try container.decode(String.self, forKey: .location)
-        medium = try container.decode(String.self, forKey: .medium)
-
-        // Decode optional fields
-        dimensions = try container.decodeIfPresent(String.self, forKey: .dimensions)
-        wikiURL = try container.decodeIfPresent(String.self, forKey: .wikiURL)
 
         // Decode learning properties with defaults
         isFavorite = try container.decodeIfPresent(Bool.self, forKey: .isFavorite) ?? false
@@ -143,11 +125,7 @@ extension Painting {
         year: 1503,
         period: .renaissance,
         imageName: "mona_lisa",
-        description: "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.",
         museum: "Louvre Museum",
-        location: "Paris, France",
-        dimensions: "77 cm × 53 cm",
-        medium: "Oil on poplar panel",
-        wikiURL: "https://en.wikipedia.org/wiki/Mona_Lisa"
+        location: "Paris, France"
     )
 }
