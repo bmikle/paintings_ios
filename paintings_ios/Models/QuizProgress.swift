@@ -17,6 +17,8 @@ struct QuizProgress: Codable {
         completedQuizIds.insert(id)
         quizScores[id] = score
 
+        print("📝 Quiz completed: \(id), Score: \(score)/\(totalQuestions), Passed: \(passed)")
+
         // If passed with 80%+, unlock next quiz
         if passed {
             unlockNextQuiz(after: id)
@@ -28,6 +30,10 @@ struct QuizProgress: Codable {
         if let currentNumber = extractQuizNumber(from: quizId) {
             let nextQuizId = "periods-quiz-\(currentNumber + 1)"
             unlockedQuizIds.insert(nextQuizId)
+            print("🔓 Unlocked next quiz: \(nextQuizId)")
+            print("   All unlocked quizzes: \(unlockedQuizIds)")
+        } else {
+            print("⚠️ Could not extract quiz number from: \(quizId)")
         }
     }
 
@@ -75,7 +81,12 @@ class QuizProgressManager: ObservableObject {
     func completeQuiz(id: String, score: Int, totalQuestions: Int) {
         let percentage = Double(score) / Double(totalQuestions)
         let passed = percentage >= 0.8
-        progress.completeQuiz(id: id, score: score, totalQuestions: totalQuestions, passed: passed)
+
+        // Create a copy to trigger @Published update
+        var updatedProgress = progress
+        updatedProgress.completeQuiz(id: id, score: score, totalQuestions: totalQuestions, passed: passed)
+        progress = updatedProgress
+
         save()
     }
 
