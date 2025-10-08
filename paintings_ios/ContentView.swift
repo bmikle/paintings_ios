@@ -32,6 +32,13 @@ struct ContentView: View {
             .tabItem {
                 Label("Artists", systemImage: "paintpalette")
             }
+
+            NavigationStack {
+                SettingsView()
+            }
+            .tabItem {
+                Label("Settings", systemImage: "gearshape")
+            }
         }
     }
 }
