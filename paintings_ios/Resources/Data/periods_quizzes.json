@@ -23,7 +23,11 @@
             "creation_of_adam",
             "school_of_athens",
             "birth_of_venus",
-            "primavera"
+            "primavera",
+            "arnolfini_portrait",
+            "garden_of_earthly_delights",
+            "david_michelangelo",
+            "sistine_madonna"
           ]
         },
         {
@@ -38,11 +42,16 @@
             "Dynamic compositions"
           ],
           "examplePaintingIds": [
-            "calling_of_st_matthew",
+            "calling_of_saint_matthew",
             "night_watch",
             "las_meninas",
             "girl_with_pearl_earring",
-            "judith_slaying_holofernes"
+            "judith_slaying_holofernes",
+            "anatomy_lesson",
+            "art_of_painting",
+            "ecstasy_of_saint_teresa",
+            "judgment_of_paris_rubens",
+            "the_milkmaid"
           ]
         },
         {
@@ -58,7 +67,15 @@
           ],
           "examplePaintingIds": [
             "the_swing",
-            "embarkation_for_cythera"
+            "embarkation_for_cythera",
+            "pilgrimage_to_cythera",
+            "toilet_of_venus_boucher",
+            "madame_de_pompadour",
+            "gersaints_shopsign",
+            "music_lesson_boucher",
+            "diana_after_hunt",
+            "the_shepherdess",
+            "progress_of_love"
           ]
         }
       ],
@@ -103,9 +120,16 @@
             "Restraint and dignity"
           ],
           "examplePaintingIds": [
-            "oath_of_horatii",
-            "coronation_of_napoleon",
-            "david"
+            "oath_of_the_horatii",
+            "death_of_marat",
+            "napoleon_crossing_alps",
+            "grande_odalisque",
+            "turkish_bath",
+            "sabine_women",
+            "la_source",
+            "apotheosis_of_homer",
+            "death_of_socrates",
+            "psyche_revived"
           ]
         },
         {
@@ -121,7 +145,15 @@
           ],
           "examplePaintingIds": [
             "wanderer_above_sea_fog",
-            "third_of_may"
+            "third_of_may_1808",
+            "liberty_leading_people",
+            "raft_of_medusa",
+            "the_nightmare",
+            "death_of_sardanapalus",
+            "the_hay_wain",
+            "fighting_temeraire",
+            "the_slave_ship",
+            "saturn_devouring_son"
           ]
         },
         {
@@ -136,7 +168,16 @@
             "Social commentary"
           ],
           "examplePaintingIds": [
-            "gleaners"
+            "the_gleaners",
+            "stone_breakers",
+            "burial_at_ornans",
+            "the_angelus",
+            "the_horse_fair",
+            "third_class_carriage",
+            "gross_clinic",
+            "the_thinker",
+            "barge_haulers_volga",
+            "artists_studio"
           ]
         }
       ],
@@ -182,7 +223,15 @@
           ],
           "examplePaintingIds": [
             "impression_sunrise",
-            "water_lilies"
+            "water_lilies",
+            "luncheon_boating_party",
+            "dance_moulin_galette",
+            "boulevard_montmartre",
+            "ballet_class",
+            "woman_with_parasol",
+            "absinthe_drinker",
+            "poplars",
+            "floor_scrapers"
           ]
         },
         {
@@ -198,8 +247,15 @@
           ],
           "examplePaintingIds": [
             "starry_night",
-            "bedroom_arles",
-            "irises"
+            "the_bedroom",
+            "sunday_afternoon_grande_jatte",
+            "cafe_terrace_night",
+            "night_cafe",
+            "card_players",
+            "mont_sainte_victoire",
+            "where_do_we_come_from",
+            "vision_after_sermon",
+            "at_moulin_rouge"
           ]
         },
         {
@@ -214,8 +270,16 @@
             "Bold, aggressive brushwork"
           ],
           "examplePaintingIds": [
-            "scream",
-            "kiss_klimt"
+            "the_scream",
+            "the_kiss_munch",
+            "blue_rider",
+            "street_berlin",
+            "bride_of_wind",
+            "self_portrait_chinese_lantern",
+            "tower_blue_horses",
+            "large_blue_horses",
+            "madonna_munch",
+            "yellow_cow"
           ]
         }
       ],
@@ -260,7 +324,16 @@
             "Analysis of form and space"
           ],
           "examplePaintingIds": [
-            "les_demoiselles"
+            "les_demoiselles_avignon",
+            "guernica",
+            "weeping_woman",
+            "three_musicians",
+            "violin_candlestick",
+            "houses_estaque",
+            "girl_with_mandolin",
+            "portrait_ambroise_vollard",
+            "still_life_chair_caning",
+            "the_portuguese"
           ]
         },
         {
@@ -276,7 +349,15 @@
           ],
           "examplePaintingIds": [
             "persistence_of_memory",
-            "son_of_man"
+            "son_of_man",
+            "treachery_of_images",
+            "the_elephants",
+            "burning_giraffe",
+            "swans_reflecting_elephants",
+            "harlequins_carnival",
+            "great_masturbator",
+            "the_lovers",
+            "time_transfixed"
           ]
         },
         {
@@ -291,7 +372,16 @@
             "Pure visual experience"
           ],
           "examplePaintingIds": [
-            "composition_vii"
+            "composition_viii",
+            "broadway_boogie_woogie",
+            "composition_red_blue_yellow",
+            "black_square",
+            "no_5_1948",
+            "autumn_rhythm",
+            "white_on_white",
+            "convergence",
+            "woman_i",
+            "orange_red_yellow"
           ]
         }
       ],
@@ -336,7 +426,16 @@
             "Focus on concept over realism"
           ],
           "examplePaintingIds": [
-            "christina_world"
+            "christinas_world",
+            "the_kiss",
+            "the_dance_matisse",
+            "american_gothic",
+            "nighthawks",
+            "joy_of_life",
+            "adele_bloch_bauer",
+            "campbells_soup_cans",
+            "marilyn_diptych",
+            "the_lovers_ii"
           ]
         },
         {
@@ -350,7 +449,18 @@
             "Conceptual emphasis",
             "Breaking traditional boundaries"
           ],
-          "examplePaintingIds": []
+          "examplePaintingIds": [
+            "balloon_dog",
+            "portrait_of_ross",
+            "my_bed",
+            "shark_hirst",
+            "perfect_lovers",
+            "rhythm_0",
+            "puppy_koons",
+            "for_love_of_god",
+            "sleeping_muse",
+            "the_gates"
+          ]
         },
         {
           "period": "other",
@@ -364,8 +474,16 @@
             "Foundation of art history"
           ],
           "examplePaintingIds": [
-            "lascaux_cave_paintings",
-            "rosetta_stone"
+            "lascaux_cave",
+            "great_wave_kanagawa",
+            "bayeux_tapestry",
+            "hagia_sophia_mosaics",
+            "book_of_kells",
+            "wilton_diptych",
+            "terracotta_army",
+            "nefertiti_bust",
+            "standard_of_ur",
+            "mask_of_tutankhamun"
           ]
         }
       ],
