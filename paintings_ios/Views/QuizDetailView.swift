@@ -13,6 +13,7 @@ struct QuizDetailView: View {
     @ObservedObject var progressManager: QuizProgressManager
     @State private var selectedPainting: Painting?
     @State private var currentLessonIndex: Int = 0
+    @Environment(\.dismiss) var dismiss
 
     var body: some View {
         VStack(spacing: 0) {
@@ -167,7 +168,15 @@ struct QuizDetailView: View {
                     .padding()
                 } else {
                     // Start Quiz button (last lesson)
-                    NavigationLink(destination: QuizSessionView(quiz: quiz, viewModel: viewModel, progressManager: progressManager)) {
+                    NavigationLink(destination: QuizSessionView(
+                        quiz: quiz,
+                        viewModel: viewModel,
+                        progressManager: progressManager,
+                        onQuizPassed: {
+                            // When quiz is passed, dismiss this detail view too
+                            dismiss()
+                        }
+                    )) {
                         HStack {
                             Image(systemName: "play.circle.fill")
                                 .font(.title2)

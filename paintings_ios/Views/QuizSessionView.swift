@@ -25,6 +25,7 @@ struct QuizSessionView: View {
     let quiz: PeriodsQuiz
     @ObservedObject var viewModel: PaintingsViewModel
     @ObservedObject var progressManager: QuizProgressManager
+    var onQuizPassed: (() -> Void)? = nil
 
     @State private var questions: [QuizQuestion] = []
     @State private var currentQuestionIndex = 0
@@ -70,7 +71,15 @@ struct QuizSessionView: View {
                         .padding()
 
                     Button(action: {
-                        dismiss()
+                        let percentage = Double(score) / Double(questions.count)
+                        if percentage >= 0.8 {
+                            // If passed, call callback and dismiss
+                            dismiss()
+                            onQuizPassed?()
+                        } else {
+                            // If failed, just dismiss
+                            dismiss()
+                        }
                     }) {
                         Text("Done")
                             .font(.headline)
