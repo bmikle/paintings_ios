@@ -11,6 +11,7 @@ struct QuizDetailView: View {
     let quiz: PeriodsQuiz
     @ObservedObject var viewModel: PaintingsViewModel
     @ObservedObject var progressManager: QuizProgressManager
+    @State private var selectedPainting: Painting?
 
     var body: some View {
         ScrollView {
@@ -94,6 +95,9 @@ struct QuizDetailView: View {
                                                             EmptyView()
                                                         }
                                                     }
+                                                    .onTapGesture {
+                                                        selectedPainting = painting
+                                                    }
 
                                                     Text(painting.title)
                                                         .font(.caption)
@@ -146,5 +150,105 @@ struct QuizDetailView: View {
         }
         .navigationTitle("Lesson")
         .navigationBarTitleDisplayMode(.inline)
+        .fullScreenCover(item: $selectedPainting) { painting in
+            FullScreenImageView(painting: painting, isPresented: Binding(
+                get: { selectedPainting != nil },
+                set: { if !$0 { selectedPainting = nil } }
+            ))
+        }
+    }
+}
+
+// Full-screen image viewer
+struct FullScreenImageView: View {
+    let painting: Painting
+    @Binding var isPresented: Bool
+    @State private var scale: CGFloat = 1.0
+    @State private var lastScale: CGFloat = 1.0
+
+    var body: some View {
+        ZStack {
+            Color.black.ignoresSafeArea()
+
+            VStack(spacing: 0) {
+                // Close button
+                HStack {
+                    Button(action: { isPresented = false }) {
+                        Image(systemName: "xmark.circle.fill")
+                            .font(.title)
+                            .foregroundStyle(.white)
+                            .padding()
+                    }
+                    Spacer()
+                }
+
+                // Image
+                ScrollView([.horizontal, .vertical], showsIndicators: false) {
+                    AsyncImage(url: Bundle.main.url(forResource: painting.imageName, withExtension: "jpg")) { phase in
+                        switch phase {
+                        case .success(let image):
+                            image
+                                .resizable()
+                                .scaledToFit()
+                                .scaleEffect(scale)
+                                .gesture(
+                                    MagnificationGesture()
+                                        .onChanged { value in
+                                            scale = lastScale * value
+                                        }
+                                        .onEnded { _ in
+                                            lastScale = scale
+                                            // Limit zoom
+                                            if scale < 1.0 {
+                                                scale = 1.0
+                                                lastScale = 1.0
+                                            } else if scale > 5.0 {
+                                                scale = 5.0
+                                                lastScale = 5.0
+                                            }
+                                        }
+                                )
+                                .onTapGesture(count: 2) {
+                                    // Double tap to reset zoom
+                                    withAnimation {
+                                        scale = 1.0
+                                        lastScale = 1.0
+                                    }
+                                }
+                        case .failure(_), .empty:
+                            ZStack {
+                                Color.gray.opacity(0.3)
+                                Image(systemName: "photo.artframe")
+                                    .font(.system(size: 80))
+                                    .foregroundStyle(.white)
+                            }
+                        @unknown default:
+                            EmptyView()
+                        }
+                    }
+                }
+
+                // Painting info
+                VStack(spacing: 8) {
+                    Text(painting.title)
+                        .font(.title3)
+                        .fontWeight(.bold)
+                        .foregroundStyle(.white)
+                        .multilineTextAlignment(.center)
+
+                    Text(painting.artist)
+                        .font(.subheadline)
+                        .foregroundStyle(.white.opacity(0.8))
+
+                    if let year = painting.year {
+                        Text(year)
+                            .font(.caption)
+                            .foregroundStyle(.white.opacity(0.6))
+                    }
+                }
+                .padding()
+                .background(Color.black.opacity(0.7))
+            }
+        }
     }
 }
