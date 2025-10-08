@@ -165,88 +165,98 @@ struct FullScreenImageView: View {
     @Binding var isPresented: Bool
     @State private var scale: CGFloat = 1.0
     @State private var lastScale: CGFloat = 1.0
+    @State private var offset: CGSize = .zero
+    @State private var lastOffset: CGSize = .zero
 
     var body: some View {
         ZStack {
             Color.black.ignoresSafeArea()
 
-            VStack(spacing: 0) {
-                // Close button
+            // Image
+            GeometryReader { geometry in
+                AsyncImage(url: Bundle.main.url(forResource: painting.imageName, withExtension: "jpg")) { phase in
+                    switch phase {
+                    case .success(let image):
+                        image
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: geometry.size.width, height: geometry.size.height)
+                            .scaleEffect(scale)
+                            .offset(offset)
+                            .gesture(
+                                MagnificationGesture()
+                                    .onChanged { value in
+                                        scale = lastScale * value
+                                    }
+                                    .onEnded { _ in
+                                        lastScale = scale
+                                        // Limit zoom
+                                        if scale < 1.0 {
+                                            withAnimation {
+                                                scale = 1.0
+                                                lastScale = 1.0
+                                                offset = .zero
+                                                lastOffset = .zero
+                                            }
+                                        } else if scale > 5.0 {
+                                            scale = 5.0
+                                            lastScale = 5.0
+                                        }
+                                    }
+                            )
+                            .gesture(
+                                DragGesture()
+                                    .onChanged { value in
+                                        if scale > 1.0 {
+                                            offset = CGSize(
+                                                width: lastOffset.width + value.translation.width,
+                                                height: lastOffset.height + value.translation.height
+                                            )
+                                        }
+                                    }
+                                    .onEnded { _ in
+                                        lastOffset = offset
+                                    }
+                            )
+                            .onTapGesture(count: 2) {
+                                // Double tap to reset zoom
+                                withAnimation {
+                                    scale = 1.0
+                                    lastScale = 1.0
+                                    offset = .zero
+                                    lastOffset = .zero
+                                }
+                            }
+                    case .failure(_), .empty:
+                        ZStack {
+                            Color.gray.opacity(0.3)
+                            Image(systemName: "photo.artframe")
+                                .font(.system(size: 80))
+                                .foregroundStyle(.white)
+                        }
+                        .frame(width: geometry.size.width, height: geometry.size.height)
+                    @unknown default:
+                        EmptyView()
+                    }
+                }
+            }
+            .ignoresSafeArea()
+
+            // Close button overlay
+            VStack {
                 HStack {
+                    Spacer()
                     Button(action: { isPresented = false }) {
                         Image(systemName: "xmark.circle.fill")
                             .font(.title)
                             .foregroundStyle(.white)
+                            .shadow(color: .black.opacity(0.5), radius: 4)
                             .padding()
                     }
-                    Spacer()
                 }
-
-                // Image
-                ScrollView([.horizontal, .vertical], showsIndicators: false) {
-                    AsyncImage(url: Bundle.main.url(forResource: painting.imageName, withExtension: "jpg")) { phase in
-                        switch phase {
-                        case .success(let image):
-                            image
-                                .resizable()
-                                .scaledToFit()
-                                .scaleEffect(scale)
-                                .gesture(
-                                    MagnificationGesture()
-                                        .onChanged { value in
-                                            scale = lastScale * value
-                                        }
-                                        .onEnded { _ in
-                                            lastScale = scale
-                                            // Limit zoom
-                                            if scale < 1.0 {
-                                                scale = 1.0
-                                                lastScale = 1.0
-                                            } else if scale > 5.0 {
-                                                scale = 5.0
-                                                lastScale = 5.0
-                                            }
-                                        }
-                                )
-                                .onTapGesture(count: 2) {
-                                    // Double tap to reset zoom
-                                    withAnimation {
-                                        scale = 1.0
-                                        lastScale = 1.0
-                                    }
-                                }
-                        case .failure(_), .empty:
-                            ZStack {
-                                Color.gray.opacity(0.3)
-                                Image(systemName: "photo.artframe")
-                                    .font(.system(size: 80))
-                                    .foregroundStyle(.white)
-                            }
-                        @unknown default:
-                            EmptyView()
-                        }
-                    }
-                }
-
-                // Painting info
-                VStack(spacing: 8) {
-                    Text(painting.title)
-                        .font(.title3)
-                        .fontWeight(.bold)
-                        .foregroundStyle(.white)
-                        .multilineTextAlignment(.center)
-
-                    Text(painting.artist)
-                        .font(.subheadline)
-                        .foregroundStyle(.white.opacity(0.8))
-
-                    Text(String(painting.year))
-                        .font(.caption)
-                        .foregroundStyle(.white.opacity(0.6))
-                }
-                .padding()
-                .background(Color.black.opacity(0.7))
+                Spacer()
             }
+            .ignoresSafeArea()
         }
     }
 }
