@@ -240,11 +240,9 @@ struct FullScreenImageView: View {
                         .font(.subheadline)
                         .foregroundStyle(.white.opacity(0.8))
 
-                    if let year = painting.year {
-                        Text(year)
-                            .font(.caption)
-                            .foregroundStyle(.white.opacity(0.6))
-                    }
+                    Text(String(painting.year))
+                        .font(.caption)
+                        .foregroundStyle(.white.opacity(0.6))
                 }
                 .padding()
                 .background(Color.black.opacity(0.7))
