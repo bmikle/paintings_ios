@@ -19,7 +19,7 @@ struct QuizProgress: Codable {
 
         print("📝 Quiz completed: \(id), Score: \(score)/\(totalQuestions), Passed: \(passed)")
 
-        // If passed with 80%+, unlock next quiz
+        // Unlock next quiz (temporarily no minimum score required)
         if passed {
             unlockNextQuiz(after: id)
         }
@@ -80,7 +80,7 @@ class QuizProgressManager: ObservableObject {
 
     func completeQuiz(id: String, score: Int, totalQuestions: Int) {
         let percentage = Double(score) / Double(totalQuestions)
-        let passed = percentage >= 0.8
+        let passed = percentage >= 0.0  // Temporarily set to 0% to always pass
 
         // Create a copy to trigger @Published update
         var updatedProgress = progress

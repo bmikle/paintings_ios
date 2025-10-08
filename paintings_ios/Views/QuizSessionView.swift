@@ -72,7 +72,7 @@ struct QuizSessionView: View {
 
                     Button(action: {
                         let percentage = Double(score) / Double(questions.count)
-                        if percentage >= 0.8 {
+                        if percentage >= 0.0 {  // Temporarily set to 0% to always pass
                             // If passed, call callback and dismiss
                             dismiss()
                             onQuizPassed?()
@@ -338,10 +338,10 @@ struct QuizSessionView: View {
 
     var scoreMessage: String {
         let percentage = Double(score) / Double(questions.count)
-        if percentage >= 0.8 {
-            return "Great job! You passed and unlocked the next quiz! 🎉"
+        if percentage >= 0.0 {
+            return "Quiz completed! The next quiz has been unlocked! 🎉"
         } else {
-            return "You need 80% to pass and unlock the next quiz. Keep practicing!"
+            return "Keep practicing!"
         }
     }
 
