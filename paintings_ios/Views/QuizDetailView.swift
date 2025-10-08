@@ -247,16 +247,22 @@ struct FullScreenImageView: View {
                 HStack {
                     Spacer()
                     Button(action: { isPresented = false }) {
-                        Image(systemName: "xmark.circle.fill")
-                            .font(.title)
-                            .foregroundStyle(.white)
-                            .shadow(color: .black.opacity(0.5), radius: 4)
-                            .padding()
+                        ZStack {
+                            Circle()
+                                .fill(Color.black.opacity(0.5))
+                                .frame(width: 44, height: 44)
+
+                            Image(systemName: "xmark")
+                                .font(.title2)
+                                .foregroundStyle(.white)
+                        }
                     }
+                    .padding()
                 }
                 Spacer()
             }
-            .ignoresSafeArea()
+            .zIndex(10)
+            .allowsHitTesting(true)
         }
     }
 }
