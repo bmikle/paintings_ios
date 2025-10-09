@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "d7a7328c-9cf5-4868-8575-3c2ab00de31b",
+      "title": "Les Demoiselles d’Avignon",
+      "artist": "Pablo Picasso",
+      "year": 1907,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "pablo-picasso-les-demoiselles-davignon.jpg"
+    },
+    {
+      "id": "f2c24a77-13db-4f6f-98ad-9ff70fc8aadb",
+      "title": "Girl with a Mandolin (Fanny Tellier)",
+      "artist": "Pablo Picasso",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "94af8b31-f993-4cf1-99ee-195c3e17a10a",
+      "title": "Still Life with Chair Caning",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Musée Picasso",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "c722bbf0-f9d1-4c39-8d7d-85d2c9f8ed03",
+      "title": "Ma Jolie",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "1bff73db-7a9c-40c0-a55a-ddeabefb00c4",
+      "title": "Three Musicians",
+      "artist": "Pablo Picasso",
+      "year": 1921,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "26a18f45-d4c3-4ab7-a00e-3c3ffda14491",
+      "title": "Man with a Guitar",
+      "artist": "Georges Braque",
+      "year": 1911,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "georges-braque-man-with-a-guitar.jpg"
+    },
+    {
+      "id": "c61a2b04-6d45-4f3c-81d2-c86cc6f32789",
+      "title": "Violin and Candlestick",
+      "artist": "Georges Braque",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA",
+      "imageName": "georges-braque-violin-and-candlestick.jpg"
+    },
+    {
+      "id": "e3ab5b87-1f32-4843-99e3-50f2c7e2c687",
+      "title": "Houses at L’Estaque",
+      "artist": "Georges Braque",
+      "year": 1908,
+      "period": "Cubism",
+      "museum": "Musée National d’Art Moderne",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "7a86e594-f7a3-46e1-8e8b-b3850315674b",
+      "title": "Bottle and Fishes",
+      "artist": "Georges Braque",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "georges-braque-bottle-and-fishes.jpg"
+    },
+    {
+      "id": "3b04667c-11b5-4ef3-9ee9-27e32cce1c58",
+      "title": "Violin and Palette",
+      "artist": "Georges Braque",
+      "year": 1909,
+      "period": "Cubism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "georges-braque-violin-and-palette.jpg"
+    },
+    {
+      "id": "5cb2f490-7f5d-4a25-b8a5-2c962f4adbc7",
+      "title": "Portrait of Pablo Picasso",
+      "artist": "Juan Gris",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": "juan-gris-portrait-of-pablo-picasso.jpg"
+    },
+    {
+      "id": "5f30e1f9-0c0c-4e1c-8a53-47f061e6aaf1",
+      "title": "The Sunblind",
+      "artist": "Juan Gris",
+      "year": 1914,
+      "period": "Cubism",
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "location": "Madrid, Spain",
+      "imageName": "juan-gris-the-sunblind.jpg"
+    },
+    {
+      "id": "4b4a3ab7-32a4-40f3-8d6b-19c2f0d79e44",
+      "title": "Still Life with Checked Tablecloth",
+      "artist": "Juan Gris",
+      "year": 1915,
+      "period": "Cubism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": "juan-gris-still-life-with-checked-tablecloth.jpg"
+    },
+    {
+      "id": "7c5da8b2-43cb-4049-8e2c-f7b74a7f5958",
+      "title": "Glass of Beer and Playing Cards",
+      "artist": "Juan Gris",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "8cbe7c37-4231-4cbb-8a7c-6a4d04701911",
+      "title": "Man in a Café",
+      "artist": "Juan Gris",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "3e2ad671-1e7e-48d9-9ab3-661f063bfc8d",
+      "title": "Woman with a Guitar",
+      "artist": "Fernand Léger",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": ""
+    },
+    {
+      "id": "f0b8ac90-6b9c-49db-8a71-41a331e3d61f",
+      "title": "The City",
+      "artist": "Fernand Léger",
+      "year": 1919,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "fbd8cb3c-8ffb-4cb1-9f14-0b4caa17f706",
+      "title": "Still Life with a Pipe",
+      "artist": "Fernand Léger",
+      "year": 1920,
+      "period": "Cubism",
+      "museum": "Musée d’Art Moderne de la Ville de Paris",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "c9f318ff-1cc9-46ed-a967-0a07b04b1450",
+      "title": "Woman with a Guitar (After Braque)",
+      "artist": "Pablo Picasso",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Musée Picasso",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "b3a4cfa7-1d57-4057-8d19-37c9b2483dcb",
+      "title": "Glass and Bottle of Suze",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": "pablo-picasso-glass-and-bottle-of-suze.jpg"
+    },
+    {
+      "id": "91f2e288-88d2-41dc-a7ad-344f7d2ab6ea",
+      "title": "Man with a Clarinet",
+      "artist": "Georges Braque",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "a38b7d56-37a5-46a0-899d-3d41efbbeb36",
+      "title": "Still Life with Metronome",
+      "artist": "Juan Gris",
+      "year": 1914,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "1541db87-6eb5-4df7-86e5-82b2fa50f416",
+      "title": "The Portuguese",
+      "artist": "Georges Braque",
+      "year": 1911,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": ""
+    },
+    {
+      "id": "61fbc9ee-4c92-4f60-b9cf-6f82a08dfb33",
+      "title": "Seated Woman",
+      "artist": "Pablo Picasso",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    }
+  ]
+}

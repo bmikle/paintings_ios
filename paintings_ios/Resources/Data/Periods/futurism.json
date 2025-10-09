@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "c14b87a3-f22f-4e83-9ab5-98c7edb929b8",
+      "title": "Unique Forms of Continuity in Space",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-unique-forms-of-continuity-in-space.jpg"
+    },
+    {
+      "id": "c8bca4ef-3a4c-4387-8f84-13f6c5a90d2e",
+      "title": "The City Rises",
+      "artist": "Umberto Boccioni",
+      "year": 1910,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-the-city-rises-1910-c8bca4ef.jpg"
+    },
+    {
+      "id": "2329b5a9-4a22-4a88-bc90-4535200154e9",
+      "title": "Dynamism of a Cyclist",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Peggy Guggenheim Collection",
+      "location": "Venice, Italy",
+      "imageName": "umberto-boccioni-dynamism-of-a-cyclist.jpg"
+    },
+    {
+      "id": "b9b7e5fc-cdbd-4a46-b4a8-3a68f1b18711",
+      "title": "States of Mind I: The Farewells",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-states-of-mind-i-the-farewells.jpg"
+    },
+    {
+      "id": "edba76c4-fcf8-4ef8-9c39-6b7c5022e2c5",
+      "title": "States of Mind II: Those Who Go",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-states-of-mind-ii-those-who-go.jpg"
+    },
+    {
+      "id": "2e0ef8ea-7024-4a62-8178-4271f946efb7",
+      "title": "States of Mind III: Those Who Stay",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-states-of-mind-iii-those-who-stay.jpg"
+    },
+    {
+      "id": "fe356f8b-998d-4a9f-8e61-73ce2e9a2ed8",
+      "title": "The Laugh",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-the-laugh.jpg"
+    },
+    {
+      "id": "2f04b812-0db9-4a35-b0a5-dcf25227a10d",
+      "title": "Dynamism of a Dog on a Leash",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA",
+      "imageName": "giacomo-balla-dynamism-of-a-dog-on-a-leash.jpg"
+    },
+    {
+      "id": "171e0ec2-5984-46d3-a19d-4a5d4051ce84",
+      "title": "Abstract Speed + Sound",
+      "artist": "Giacomo Balla",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Peggy Guggenheim Collection",
+      "location": "Venice, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "8cb5f5b0-5dfc-45c5-9263-0de28e30b39b",
+      "title": "Street Light",
+      "artist": "Giacomo Balla",
+      "year": 1910,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "12b8f6c9-8e83-48d2-bf9f-5ef0b17fbdc4",
+      "title": "Speeding Automobile",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy",
+      "imageName": "giacomo-balla-speeding-automobile.jpg"
+    },
+    {
+      "id": "c64d1347-62ac-4a16-97a9-f7e8d7b2573d",
+      "title": "The Dance of the Pan-Pans at the Monico",
+      "artist": "Gino Severini",
+      "year": 1909,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "0f2c52ac-749d-4f92-996b-c2678d2f5c44",
+      "title": "Armored Train in Action",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "gino-severini-armored-train-in-action.jpg"
+    },
+    {
+      "id": "2d44e672-423c-4220-b43b-c53a53d01f1a",
+      "title": "Dynamic Hieroglyph of the Bal Tabarin",
+      "artist": "Gino Severini",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "6d21f6c7-2b1c-4403-8f3b-c52a671a04d3",
+      "title": "Blue Dancer",
+      "artist": "Gino Severini",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Musée d’Art Moderne de la Ville de Paris",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "aa452e11-038c-4b1b-90cb-8b948f77cf0f",
+      "title": "The Cyclist",
+      "artist": "Natalia Goncharova",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "State Russian Museum",
+      "location": "Saint Petersburg, Russia",
+      "imageName": ""
+    },
+    {
+      "id": "f64a6c2c-b745-478c-b6cf-55ec9e748a04",
+      "title": "The Knife Grinder",
+      "artist": "Kazimir Malevich",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA",
+      "imageName": ""
+    },
+    {
+      "id": "a0e783b4-4d4b-4e9e-b731-8e59809e19db",
+      "title": "Train + Landscape",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "63a5fbea-05e1-4710-b15c-304573d6b869",
+      "title": "Flying Over the Coliseum in a Spiral",
+      "artist": "Tullio Crali",
+      "year": 1939,
+      "period": "Futurism",
+      "museum": "Museo del Novecento",
+      "location": "Milan, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "8c23cf90-46bb-47a3-b5d7-cb3b41e95f8c",
+      "title": "Plastic Synthesis of a Woman on a Balcony",
+      "artist": "Umberto Boccioni",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Estorick Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "cb6cfb5a-8c79-47de-b0c3-247f050e61b7",
+      "title": "Speeding Train",
+      "artist": "Ivo Pannaggi",
+      "year": 1922,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy",
+      "imageName": ""
+    },
+    {
+      "id": "b42c3ee4-7e63-4ecf-bbe5-8533ab7b5f64",
+      "title": "Aeroplane over the Colosseum in Rome",
+      "artist": "Tullio Crali",
+      "year": 1930,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy",
+      "imageName": ""
+    },
+    {
+      "id": "fcf98b1b-f4cc-4f41-94e0-37d815a24a69",
+      "title": "The Cyclist’s Dynamism",
+      "artist": "Luigi Russolo",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "742bb8e2-63b4-4ad4-8a4e-1825a01a4d94",
+      "title": "Dynamism of a Car",
+      "artist": "Luigi Russolo",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy",
+      "imageName": "luigi-russolo-dynamism-of-a-car.jpg"
+    }
+  ]
+}

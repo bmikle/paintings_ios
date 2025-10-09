@@ -79,41 +79,26 @@ struct Painting: Identifiable, Codable {
 }
 
 enum ArtPeriod: String, Codable, CaseIterable {
-    case renaissance = "renaissance"
-    case baroque = "baroque"
-    case rococo = "rococo"
-    case neoclassicism = "neoclassicism"
-    case romanticism = "romanticism"
-    case realism = "realism"
-    case impressionism = "impressionism"
-    case postImpressionism = "postImpressionism"
-    case expressionism = "expressionism"
-    case cubism = "cubism"
-    case surrealism = "surrealism"
-    case abstract = "abstract"
-    case modern = "modern"
-    case contemporary = "contemporary"
-    case other = "other"
+    case renaissance = "Renaissance"
+    case baroque = "Baroque"
+    case rococo = "Rococo"
+    case neoclassicism = "Neoclassicism"
+    case realism = "Realism"
+    case impressionism = "Impressionism"
+    case postImpressionism = "Post-Impressionism"
+    case expressionism = "Expressionism"
+    case cubism = "Cubism"
+    case surrealism = "Surrealism"
+    case abstractExpressionism = "Abstract Expressionism"
+    case futurism = "Futurism"
+    case minimalism = "Minimalism"
+    case popArt = "Pop Art"
+    case symbolism = "Symbolism"
+    case contemporaryConceptual = "Contemporary / Conceptual Art"
 
     // Display name for UI
     var displayName: String {
-        switch self {
-        case .renaissance: return "Renaissance"
-        case .baroque: return "Baroque"
-        case .rococo: return "Rococo"
-        case .neoclassicism: return "Neoclassicism"
-        case .romanticism: return "Romanticism"
-        case .realism: return "Realism"
-        case .impressionism: return "Impressionism"
-        case .postImpressionism: return "Post-Impressionism"
-        case .expressionism: return "Expressionism"
-        case .cubism: return "Cubism"
-        case .surrealism: return "Surrealism"
-        case .abstract: return "Abstract"
-        case .modern: return "Modern"
-        case .contemporary: return "Contemporary"
-        case .other: return "Other"
-        }
+        return self.rawValue
     }
 }
 

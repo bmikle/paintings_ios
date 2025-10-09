@@ -1,0 +1,274 @@
+{
+  "paintings": [
+    {
+      "id": "2df4b62b-5ee5-49b4-8196-b86e94cf39d0",
+      "title": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "vincent-van-gogh-starry-night.jpg"
+    },
+    {
+      "id": "eaa2e1d8-36f0-4c52-8e68-36ab1979d3a7",
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "vincent-van-gogh-sunflowers.jpg"
+    },
+    {
+      "id": "b0f4f7ef-7ec3-44f4-b412-3d4e3af233e8",
+      "title": "The Bedroom",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": ""
+    },
+    {
+      "id": "c3173f9e-4147-4ff4-8a7a-2c91f0e8ff76",
+      "title": "Irises",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "J. Paul Getty Museum",
+      "location": "Los Angeles, USA",
+      "imageName": "vincent-van-gogh-irises.jpg"
+    },
+    {
+      "id": "bd0873e8-70f7-4f4f-a4b2-3d08c7c63a8d",
+      "title": "Wheatfield with Crows",
+      "artist": "Vincent van Gogh",
+      "year": 1890,
+      "period": "Post-Impressionism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": "vincent-van-gogh-wheatfield-with-crows.jpg"
+    },
+    {
+      "id": "b14a8f9a-c21d-4e13-8f67-b617d0e5079f",
+      "title": "The Night Café",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA",
+      "imageName": ""
+    },
+    {
+      "id": "af26b27d-2f19-4c72-a7b8-82bc9856f272",
+      "title": "Café Terrace at Night",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Kröller-Müller Museum",
+      "location": "Otterlo, Netherlands",
+      "imageName": ""
+    },
+    {
+      "id": "771eaec1-6679-4723-b5dc-d6b894b7805c",
+      "title": "The Card Players",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "f0561d19-f0fc-4a6f-9780-5c49cf663f32",
+      "title": "Mont Sainte-Victoire",
+      "artist": "Paul Cézanne",
+      "year": 1902,
+      "period": "Post-Impressionism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "e8a01086-6079-47d7-b03d-31797c7b7b90",
+      "title": "The Basket of Apples",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": ""
+    },
+    {
+      "id": "cf3eac7b-7d88-4a60-bf86-b158b56b2081",
+      "title": "Still Life with a Curtain",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Hermitage Museum",
+      "location": "St. Petersburg, Russia",
+      "imageName": ""
+    },
+    {
+      "id": "0d4270d9-cb2c-4b8a-a46e-b67acb8f3b90",
+      "title": "The Large Bathers",
+      "artist": "Paul Cézanne",
+      "year": 1906,
+      "period": "Post-Impressionism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "f70c3534-9fd7-48c5-a8ea-b9e1ed2b4058",
+      "title": "Where Do We Come From? What Are We? Where Are We Going?",
+      "artist": "Paul Gauguin",
+      "year": 1897,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Fine Arts",
+      "location": "Boston, USA",
+      "imageName": "paul-gauguin-where-do-we-come-from-what-are-we-where-are-we-going.jpg"
+    },
+    {
+      "id": "1a169229-9a49-4378-9c43-177f518b47cd",
+      "title": "Vision After the Sermon",
+      "artist": "Paul Gauguin",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "National Galleries of Scotland",
+      "location": "Edinburgh, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "5e49ec2e-21d9-4c04-bcb5-19edff54f89a",
+      "title": "Tahitian Women on the Beach",
+      "artist": "Paul Gauguin",
+      "year": 1891,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "cbe34c5d-7e2b-4ec2-b2c3-2b11cf57e1b3",
+      "title": "The Yellow Christ",
+      "artist": "Paul Gauguin",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA",
+      "imageName": ""
+    },
+    {
+      "id": "e3406422-7e19-4805-91de-94e3126b760b",
+      "title": "Self-Portrait with Halo and Snake",
+      "artist": "Paul Gauguin",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "e2dc50de-2a7b-437f-aeac-b1609e02d07f",
+      "title": "At the Moulin Rouge",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": ""
+    },
+    {
+      "id": "82f5c76f-6a1e-4c8f-a826-06e223255730",
+      "title": "Jane Avril Dancing",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "henri-de-toulouse-lautrec-jane-avril-dancing.jpg"
+    },
+    {
+      "id": "b4df7b2d-9c91-48b7-a3b2-5b9d3af88d3d",
+      "title": "La Goulue Entering the Moulin Rouge",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "894b1ec8-d85d-4013-b0c2-7da357e50933",
+      "title": "The Siesta",
+      "artist": "Paul Gauguin",
+      "year": 1894,
+      "period": "Post-Impressionism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "7f607bc8-2e86-4924-a45d-57cb5d9bb517",
+      "title": "Still Life with Apples and Oranges",
+      "artist": "Paul Cézanne",
+      "year": 1899,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "178b11d5-7da0-4c3a-b6da-8a4f36a326b0",
+      "title": "Portrait of Dr. Gachet",
+      "artist": "Vincent van Gogh",
+      "year": 1890,
+      "period": "Post-Impressionism",
+      "museum": "Private Collection",
+      "location": "France",
+      "imageName": ""
+    },
+    {
+      "id": "0ad1784d-d58f-479f-bb62-4ef85fcd4d72",
+      "title": "Self-Portrait with Bandaged Ear",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "vincent-van-gogh-self-portrait-with-bandaged-ear.jpg"
+    },
+    {
+      "id": "fa9c84f0-5cdd-4ed1-88f6-b98b50a4a6d0",
+      "title": "The Red Vineyard",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Pushkin State Museum of Fine Arts",
+      "location": "Moscow, Russia",
+      "imageName": ""
+    },
+    {
+      "id": "cd8b37a8-9fd9-470c-96a3-d12b612a3872",
+      "title": "Still Life with Plaster Cupid",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "bf35a5a9-0028-4b42-a9cf-356ba57b3b39",
+      "title": "Cafe at Arles",
+      "artist": "Paul Gauguin",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Pushkin Museum",
+      "location": "Moscow, Russia",
+      "imageName": ""
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "e2b9d02d-13e1-46c1-bd47-3ab6c6a7d9a1",
+      "title": "The Physical Impossibility of Death in the Mind of Someone Living",
+      "artist": "Damien Hirst",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "damien-hirst-the-physical-impossibility-of-death-in-the-mind-of-someone-living.jpg"
+    },
+    {
+      "id": "d0ac8f73-2e8d-4c5a-9d4b-3b18a7397a0d",
+      "title": "For the Love of God",
+      "artist": "Damien Hirst",
+      "year": 2007,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "White Cube Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "damien-hirst-for-the-love-of-god.jpg"
+    },
+    {
+      "id": "82d57a28-6b14-4a9a-bc5e-56b94b39e7a4",
+      "title": "Spot Painting (Pharmaceutical)",
+      "artist": "Damien Hirst",
+      "year": 1988,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Gagosian Gallery",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "9c539c2e-0cf5-4f74-80c4-4bb90239c154",
+      "title": "Balloon Dog (Orange)",
+      "artist": "Jeff Koons",
+      "year": 1994,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "5b25356c-0b7f-4b35-b254-607c3f2a3f7a",
+      "title": "Rabbit",
+      "artist": "Jeff Koons",
+      "year": 1986,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Christie’s Auction Record Holder",
+      "location": "USA",
+      "imageName": "jeff-koons-rabbit.jpg"
+    },
+    {
+      "id": "998be948-3e41-4f5c-9e69-bdb86a91df84",
+      "title": "Michael Jackson and Bubbles",
+      "artist": "Jeff Koons",
+      "year": 1988,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA",
+      "imageName": "jeff-koons-michael-jackson-and-bubbles.jpg"
+    },
+    {
+      "id": "b7e7c372-94cc-46dc-bf5b-bdf8c944f7a3",
+      "title": "Untitled Film Still #21",
+      "artist": "Cindy Sherman",
+      "year": 1978,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "86b8e874-cd13-4ff9-89e3-32ab34b6c293",
+      "title": "Untitled #96",
+      "artist": "Cindy Sherman",
+      "year": 1981,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "cindy-sherman-untitled-96.jpg"
+    },
+    {
+      "id": "d4a514b8-018f-4f83-bdf8-1ec90dddeae4",
+      "title": "Girl with Balloon",
+      "artist": "Banksy",
+      "year": 2002,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection / Street Art",
+      "location": "London, United Kingdom",
+      "imageName": "banksy-girl-with-balloon.jpg"
+    },
+    {
+      "id": "0cc2189b-47ef-4b16-b02e-c9c6168c4e1c",
+      "title": "There Is Always Hope",
+      "artist": "Banksy",
+      "year": 2002,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Street Installation",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "ef124af3-b2d8-47d3-a307-1847a1dbed23",
+      "title": "Love Is in the Air (Flower Thrower)",
+      "artist": "Banksy",
+      "year": 2003,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "2c9df923-7bc2-40e4-aad3-8c7e41e94f4b",
+      "title": "Infinity Mirror Room – Phalli’s Field",
+      "artist": "Yayoi Kusama",
+      "year": 1965,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Yayoi Kusama Museum",
+      "location": "Tokyo, Japan",
+      "imageName": ""
+    },
+    {
+      "id": "b0f871c1-0499-49e7-a790-dcb7198793c9",
+      "title": "Pumpkin",
+      "artist": "Yayoi Kusama",
+      "year": 1990,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Naoshima Art Island",
+      "location": "Naoshima, Japan",
+      "imageName": "yayoi-kusama-pumpkin.jpg"
+    },
+    {
+      "id": "3d6014df-bc6d-40f2-9a0e-cba414d9cd4d",
+      "title": "Infinity Mirrored Room – The Souls of Millions of Light Years Away",
+      "artist": "Yayoi Kusama",
+      "year": 2013,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "The Broad Museum",
+      "location": "Los Angeles, USA",
+      "imageName": ""
+    },
+    {
+      "id": "01a97a2b-981b-4db4-8f67-498999c82c9c",
+      "title": "Dropping a Han Dynasty Urn",
+      "artist": "Ai Weiwei",
+      "year": 1995,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "China",
+      "imageName": "ai-weiwei-dropping-a-han-dynasty-urn.jpg"
+    },
+    {
+      "id": "3510410f-faf1-4d0d-9330-18d533a1e086",
+      "title": "Sunflower Seeds",
+      "artist": "Ai Weiwei",
+      "year": 2010,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "ai-weiwei-sunflower-seeds.jpg"
+    },
+    {
+      "id": "cc961c8e-7f3a-46c2-b227-9f8c5cf29c63",
+      "title": "Bed",
+      "artist": "Tracey Emin",
+      "year": 1998,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "d46921c0-c354-4d34-b7ef-fb4eb1b2d85c",
+      "title": "Everyone I Have Ever Slept With 1963–1995",
+      "artist": "Tracey Emin",
+      "year": 1995,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Destroyed (Momart fire)",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "f8b6f471-3858-40b0-9510-f5e8c21c248d",
+      "title": "Untitled (Skull)",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1981,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": "jean-michel-basquiat-untitled-1981.jpg"
+    },
+    {
+      "id": "25cf52b7-6e6a-4f5b-9a90-d61d5048b798",
+      "title": "Untitled (1982)",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1982,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": "jean-michel-basquiat-untitled-1982.jpg"
+    },
+    {
+      "id": "9ea2db25-376d-4df7-95b9-2dd82dcdd4c4",
+      "title": "Hollywood Africans",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1983,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA",
+      "imageName": "jean-michel-basquiat-hollywood-africans.jpg"
+    },
+    {
+      "id": "b19f1ef2-164c-40d1-8291-59d531b73a52",
+      "title": "Untitled (Portrait of Ross in L.A.)",
+      "artist": "Felix Gonzalez-Torres",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": "felix-gonzalez-torres-untitled-1991-b19f1ef2.jpg"
+    },
+    {
+      "id": "b3d9d617-b9b9-42f4-b9ac-3d4a7c8dd8e3",
+      "title": "One and Three Chairs",
+      "artist": "Joseph Kosuth",
+      "year": 1965,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "joseph-kosuth-one-and-three-chairs.jpg"
+    },
+    {
+      "id": "15ef8ce4-9dc2-4ce7-a57c-f2d18a55a9c3",
+      "title": "Untitled (Perfect Lovers)",
+      "artist": "Felix Gonzalez-Torres",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "felix-gonzalez-torres-untitled-1991-15ef8ce4.jpg"
+    }
+  ]
+}

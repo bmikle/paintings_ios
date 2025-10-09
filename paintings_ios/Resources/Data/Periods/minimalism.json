@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "5f3e408f-cf2d-4bcf-835f-b4802a1b6de1",
+      "title": "Die Fahne Hoch!",
+      "artist": "Frank Stella",
+      "year": 1959,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA",
+      "imageName": "frank-stella-die-fahne-hoch.jpg"
+    },
+    {
+      "id": "2cde87e4-905d-49bb-b3cf-44d1ef53cf0c",
+      "title": "Harran II",
+      "artist": "Frank Stella",
+      "year": 1967,
+      "period": "Minimalism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "frank-stella-harran-ii.jpg"
+    },
+    {
+      "id": "91f73aa2-56e0-4e7a-b7e1-3d897ed84f57",
+      "title": "Empress of India",
+      "artist": "Frank Stella",
+      "year": 1965,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "frank-stella-empress-of-india.jpg"
+    },
+    {
+      "id": "29a8d541-056b-4a5c-95f5-c6cda58b39ff",
+      "title": "Untitled (Stack)",
+      "artist": "Donald Judd",
+      "year": 1967,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "donald-judd-untitled-1967.jpg"
+    },
+    {
+      "id": "6c30fcab-f3e7-43ff-a9a1-71dbf89e5f7c",
+      "title": "100 Untitled Works in Mill Aluminum",
+      "artist": "Donald Judd",
+      "year": 1982,
+      "period": "Minimalism",
+      "museum": "Chinati Foundation",
+      "location": "Marfa, USA",
+      "imageName": ""
+    },
+    {
+      "id": "d5c04b03-46d1-4e9a-9ac4-b1f5e6fa4a4d",
+      "title": "Untitled (Marfa Installation)",
+      "artist": "Donald Judd",
+      "year": 1980,
+      "period": "Minimalism",
+      "museum": "Chinati Foundation",
+      "location": "Marfa, USA",
+      "imageName": "donald-judd-untitled-1980.jpg"
+    },
+    {
+      "id": "2df20b1d-6639-429f-9bcd-2172b5fa9cf2",
+      "title": "Yellow Piece",
+      "artist": "Ellsworth Kelly",
+      "year": 1966,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "dbdbf685-3294-4e53-9b72-5e22931460b8",
+      "title": "Colors for a Large Wall",
+      "artist": "Ellsworth Kelly",
+      "year": 1951,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "ellsworth-kelly-colors-for-a-large-wall.jpg"
+    },
+    {
+      "id": "cae25277-3f4e-4af2-bd56-2a8baf2a9828",
+      "title": "Blue Red Green",
+      "artist": "Ellsworth Kelly",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Museum of Fine Arts",
+      "location": "Houston, USA",
+      "imageName": ""
+    },
+    {
+      "id": "9a1dff69-6c42-46b7-a80e-f9a3124e4fd1",
+      "title": "White Stone",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "ac8e9498-4c58-4b41-93bb-df3e7f6bfc0c",
+      "title": "The Tree",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "agnes-martin-the-tree.jpg"
+    },
+    {
+      "id": "2a6788e9-c8ee-4d5d-a225-58664d3bb963",
+      "title": "Friendship",
+      "artist": "Agnes Martin",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "ba25c7c9-cb0c-4e2e-9b43-46f7d1b5a881",
+      "title": "Pink Pyramids",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "92e0d6ed-3b8a-4a27-a3e0-292f83acfc29",
+      "title": "Wall Drawing #1136",
+      "artist": "Sol LeWitt",
+      "year": 2004,
+      "period": "Minimalism",
+      "museum": "Mass MoCA",
+      "location": "North Adams, USA",
+      "imageName": "sol-lewitt-wall-drawing-1136.jpg"
+    },
+    {
+      "id": "10b4a02d-15a2-4a24-bcf6-c2a7a91dd6c8",
+      "title": "Incomplete Open Cubes",
+      "artist": "Sol LeWitt",
+      "year": 1974,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "6a7b6a36-25ac-4e52-88db-00470379ce2f",
+      "title": "Serial Project, I (ABCD)",
+      "artist": "Sol LeWitt",
+      "year": 1966,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "c0b510e8-8c2c-4b32-8d4f-f0a537bfa7bb",
+      "title": "Monument for V. Tatlin",
+      "artist": "Dan Flavin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "29a9e36a-478f-49d3-b053-8b3a55c7b54f",
+      "title": "Untitled (to you, Heiner, with admiration and affection)",
+      "artist": "Dan Flavin",
+      "year": 1973,
+      "period": "Minimalism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "1b7b64d3-dc15-4e23-89c1-bb252d2e0e0b",
+      "title": "Untitled (to Barnett Newman)",
+      "artist": "Dan Flavin",
+      "year": 1971,
+      "period": "Minimalism",
+      "museum": "Dia Beacon",
+      "location": "Beacon, USA",
+      "imageName": ""
+    },
+    {
+      "id": "dc3d08da-848b-41b8-a85b-1e385d19824e",
+      "title": "Black Painting",
+      "artist": "Ad Reinhardt",
+      "year": 1960,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "5bde5d70-fb5d-4582-a32f-c1c032ab5bc0",
+      "title": "Abstract Painting, Red",
+      "artist": "Ad Reinhardt",
+      "year": 1952,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA",
+      "imageName": "ad-reinhardt-abstract-painting-red.jpg"
+    },
+    {
+      "id": "1a9ff3bb-b218-4b5c-833c-1b06215f9cc2",
+      "title": "Untitled (Black and White)",
+      "artist": "Robert Ryman",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "robert-ryman-untitled.jpg"
+    },
+    {
+      "id": "ee50e25e-9c64-40c0-bb9f-d1cf63c3187a",
+      "title": "Ledger",
+      "artist": "Robert Ryman",
+      "year": 1982,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "4a2b5bda-0f7a-4cf0-80bb-13af8c4f4066",
+      "title": "Untitled (White Painting)",
+      "artist": "Robert Rauschenberg",
+      "year": 1951,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    }
+  ]
+}

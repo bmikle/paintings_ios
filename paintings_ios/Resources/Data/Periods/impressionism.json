@@ -1,0 +1,284 @@
+{
+  "paintings": [
+    {
+      "id": "e6b8e0b3-2388-47b9-8324-bf6c893e9f2d",
+      "title": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "year": 1872,
+      "period": "Impressionism",
+      "museum": "Musée Marmottan Monet",
+      "location": "Paris, France",
+      "imageName": "claude-monet-impression-sunrise.jpg"
+    },
+    {
+      "id": "d2552a42-3b5c-4a1b-9e91-418c90d8a0cf",
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "year": 1916,
+      "period": "Impressionism",
+      "museum": "Musée de l'Orangerie",
+      "location": "Paris, France",
+      "imageName": "claude-monet-water-lilies.jpg"
+    },
+    {
+      "id": "9a413b45-b747-44c3-918c-b105403164a8",
+      "title": "Woman with a Parasol",
+      "artist": "Claude Monet",
+      "year": 1875,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "e3b377fa-007d-4fd9-a3a5-50cf5f5b31f8",
+      "title": "The Artist's Garden at Giverny",
+      "artist": "Claude Monet",
+      "year": 1900,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "claude-monet-the-artists-garden-at-giverny.jpg"
+    },
+    {
+      "id": "b46cc0a9-7053-4da2-a77c-b529d86e7bb3",
+      "title": "Rouen Cathedral, Facade (Sunset)",
+      "artist": "Claude Monet",
+      "year": 1894,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "4b911d2a-b38b-4f73-b2c3-9a9f6a5e9469",
+      "title": "Haystacks (End of Summer)",
+      "artist": "Claude Monet",
+      "year": 1891,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "b527d9cf-2c70-4b5c-b1a7-f06725a87d7d",
+      "title": "Dance at Le Moulin de la Galette",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "c171de9f-06d5-4b3f-8c09-d0bb706b7e72",
+      "title": "Luncheon of the Boating Party",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1881,
+      "period": "Impressionism",
+      "museum": "The Phillips Collection",
+      "location": "Washington, D.C., USA",
+      "imageName": "pierre-auguste-renoir-luncheon-of-the-boating-party.jpg"
+    },
+    {
+      "id": "8b1a8d35-3e79-4f29-96e0-292195da31c4",
+      "title": "The Swing",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "5d49ce02-0e36-4b49-9b5a-1fdc9d33a099",
+      "title": "La Loge",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1874,
+      "period": "Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "pierre-auguste-renoir-la-loge.jpg"
+    },
+    {
+      "id": "e2f218e9-bdc1-4938-b8c9-2ac09cf6c238",
+      "title": "Two Sisters (On the Terrace)",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1881,
+      "period": "Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": ""
+    },
+    {
+      "id": "a53775e2-7ed5-4b58-8364-3b016fd89a2b",
+      "title": "The Ballet Class",
+      "artist": "Edgar Degas",
+      "year": 1874,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "edgar-degas-the-ballet-class.jpg"
+    },
+    {
+      "id": "2e17b6c4-cdb5-495b-944a-3ce9c77a78f1",
+      "title": "The Absinthe Drinker",
+      "artist": "Edgar Degas",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "edgar-degas-the-absinthe-drinker.jpg"
+    },
+    {
+      "id": "38e5932a-9a3e-4f3d-95e0-1a62e9b529c7",
+      "title": "L'Étoile (The Star)",
+      "artist": "Edgar Degas",
+      "year": 1878,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "fbbaf3e5-f1c3-4f7a-8336-f2c99bb1d473",
+      "title": "Woman Ironing",
+      "artist": "Edgar Degas",
+      "year": 1884,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "edgar-degas-woman-ironing.jpg"
+    },
+    {
+      "id": "6bc4b729-155a-4782-9b47-f511a7b64e09",
+      "title": "The Boulevard Montmartre at Night",
+      "artist": "Camille Pissarro",
+      "year": 1897,
+      "period": "Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "camille-pissarro-the-boulevard-montmartre-at-night.jpg"
+    },
+    {
+      "id": "b4cf64cf-4512-4b58-8f64-fec364b9968e",
+      "title": "The Red Roofs, Corner of a Village",
+      "artist": "Camille Pissarro",
+      "year": 1877,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "a42e7c3d-d222-41c3-a229-9cb6674f8a43",
+      "title": "Peasants Planting Potatoes",
+      "artist": "Camille Pissarro",
+      "year": 1885,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "b6f4f7b7-9248-449b-90ed-389a1f94491a",
+      "title": "Rue Saint-Honoré, Afternoon, Rain Effect",
+      "artist": "Camille Pissarro",
+      "year": 1897,
+      "period": "Impressionism",
+      "museum": "Museo Thyssen-Bornemisza",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "e53bc8d1-9775-469d-aeb3-bbd64db2702d",
+      "title": "The Cradle",
+      "artist": "Berthe Morisot",
+      "year": 1872,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "berthe-morisot-the-cradle.jpg"
+    },
+    {
+      "id": "bbaf0841-2d77-474a-8efb-32d615d9e2f7",
+      "title": "Summer’s Day",
+      "artist": "Berthe Morisot",
+      "year": 1879,
+      "period": "Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "berthe-morisot-summers-day.jpg"
+    },
+    {
+      "id": "99860e06-95b1-4a52-a1c1-890ce8b4b9dc",
+      "title": "The Boating Party",
+      "artist": "Mary Cassatt",
+      "year": 1893,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "3cb0c13b-f2f8-4ec4-b312-3079cc7c015f",
+      "title": "The Child’s Bath",
+      "artist": "Mary Cassatt",
+      "year": 1893,
+      "period": "Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": "mary-cassatt-the-childs-bath.jpg"
+    },
+    {
+      "id": "a4f40f3d-b0a9-4e76-89a9-8c6cc47eaf9d",
+      "title": "Lilacs in the Sun",
+      "artist": "Mary Cassatt",
+      "year": 1880,
+      "period": "Impressionism",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "f993da79-08f3-4b7a-9950-50f835a34e14",
+      "title": "The Gare Saint-Lazare",
+      "artist": "Claude Monet",
+      "year": 1877,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "245b5806-92d9-40cf-b34a-340f77d768d3",
+      "title": "Boating on the Seine",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1879,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "63e7b035-fc89-4cc7-b9a4-32e9116f7f1c",
+      "title": "Self-Portrait",
+      "artist": "Claude Monet",
+      "year": 1886,
+      "period": "Impressionism",
+      "museum": "Private Collection",
+      "location": "France",
+      "imageName": ""
+    },
+    {
+      "id": "118e2720-ff2b-4796-88aa-68a9bb8b81d5",
+      "title": "The Houses of Parliament, London, Sunset",
+      "artist": "Claude Monet",
+      "year": 1903,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    }
+  ]
+}

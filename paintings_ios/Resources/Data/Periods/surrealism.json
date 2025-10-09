@@ -1,0 +1,284 @@
+{
+  "paintings": [
+    {
+      "id": "26cb93c9-b6b1-43b2-9e3f-969e537d8cb2",
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "year": 1931,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "b9c96d42-1b23-4b4f-8a74-9d21e3b8ad31",
+      "title": "Swans Reflecting Elephants",
+      "artist": "Salvador Dalí",
+      "year": 1937,
+      "period": "Surrealism",
+      "museum": "Dalí Theatre-Museum",
+      "location": "Figueres, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "72f207b8-4825-47dc-95b3-1a64b9efdc62",
+      "title": "Metamorphosis of Narcissus",
+      "artist": "Salvador Dalí",
+      "year": 1937,
+      "period": "Surrealism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "2ccca372-3177-42e4-8ef7-f98a88bba00e",
+      "title": "The Elephants",
+      "artist": "Salvador Dalí",
+      "year": 1948,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Spain",
+      "imageName": ""
+    },
+    {
+      "id": "ea5a5f2a-fba7-4ef2-9615-bb1bb174acb2",
+      "title": "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening",
+      "artist": "Salvador Dalí",
+      "year": 1944,
+      "period": "Surrealism",
+      "museum": "Thyssen-Bornemisza Museum",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "7a32c29f-b4d8-499c-a64e-8e2a52c33ee9",
+      "title": "The Lovers",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "77a59a61-5fda-46f4-b4e5-13f7b4b9cf09",
+      "title": "The Son of Man",
+      "artist": "René Magritte",
+      "year": 1964,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "b3d4a1a1-f98c-476f-8105-8c3e9a17c55e",
+      "title": "The Treachery of Images",
+      "artist": "René Magritte",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Los Angeles County Museum of Art",
+      "location": "Los Angeles, USA",
+      "imageName": ""
+    },
+    {
+      "id": "f9d347e7-44ab-40b3-a7f4-69916fdc7a3e",
+      "title": "Golconda",
+      "artist": "René Magritte",
+      "year": 1953,
+      "period": "Surrealism",
+      "museum": "Menil Collection",
+      "location": "Houston, USA",
+      "imageName": ""
+    },
+    {
+      "id": "983c83cf-6b67-47cd-82c4-65e3cf4e4a6a",
+      "title": "The Human Condition",
+      "artist": "René Magritte",
+      "year": 1933,
+      "period": "Surrealism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "258f17c1-8ad1-4921-9009-69d4d5df93b5",
+      "title": "The False Mirror",
+      "artist": "René Magritte",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "dc5a047c-288c-4c15-9740-83979cf76c6b",
+      "title": "Carnival of Harlequin",
+      "artist": "Joan Miró",
+      "year": 1924,
+      "period": "Surrealism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA",
+      "imageName": ""
+    },
+    {
+      "id": "7e8f4450-12b8-4699-872d-4c4a7e721e07",
+      "title": "The Tilled Field",
+      "artist": "Joan Miró",
+      "year": 1923,
+      "period": "Surrealism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "3314d5e7-b91f-4f9e-9084-49957c835f7b",
+      "title": "Dog Barking at the Moon",
+      "artist": "Joan Miró",
+      "year": 1926,
+      "period": "Surrealism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "b9df568f-2f63-4c73-a9ac-779706d1c733",
+      "title": "Women and Bird in the Moonlight",
+      "artist": "Joan Miró",
+      "year": 1949,
+      "period": "Surrealism",
+      "museum": "Fundació Joan Miró",
+      "location": "Barcelona, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "e52fda06-05c7-462d-968a-c06f1b7bde72",
+      "title": "Europe After the Rain II",
+      "artist": "Max Ernst",
+      "year": 1942,
+      "period": "Surrealism",
+      "museum": "Wadsworth Atheneum",
+      "location": "Hartford, USA",
+      "imageName": "max-ernst-europe-after-the-rain-ii.jpg"
+    },
+    {
+      "id": "28d86f73-51f4-4d77-9cf0-bc15f34c4421",
+      "title": "The Elephant Celebes",
+      "artist": "Max Ernst",
+      "year": 1921,
+      "period": "Surrealism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "max-ernst-the-elephant-celebes.jpg"
+    },
+    {
+      "id": "7b321d7f-4f2a-495a-9d7e-2bb283af91b5",
+      "title": "Two Children Are Threatened by a Nightingale",
+      "artist": "Max Ernst",
+      "year": 1924,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "max-ernst-two-children-are-threatened-by-a-nightingale.jpg"
+    },
+    {
+      "id": "77b1c05d-09d4-4218-9a7b-5a1ce99f741d",
+      "title": "The Entire City",
+      "artist": "Max Ernst",
+      "year": 1936,
+      "period": "Surrealism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "max-ernst-the-entire-city.jpg"
+    },
+    {
+      "id": "d55e0a45-8f50-49b1-8b8a-38d5e034e35d",
+      "title": "The Lovers II",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "e45e7c1d-0c2a-48f3-925b-4df17aab6227",
+      "title": "Apparition of Face and Fruit Dish on a Beach",
+      "artist": "Salvador Dalí",
+      "year": 1938,
+      "period": "Surrealism",
+      "museum": "Wadsworth Atheneum",
+      "location": "Hartford, USA",
+      "imageName": ""
+    },
+    {
+      "id": "94494663-b469-4d59-8197-463315256bd9",
+      "title": "Soft Construction with Boiled Beans (Premonition of Civil War)",
+      "artist": "Salvador Dalí",
+      "year": 1936,
+      "period": "Surrealism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA",
+      "imageName": ""
+    },
+    {
+      "id": "70590c45-8163-47ce-b7a2-0f94a06a5eb3",
+      "title": "The Disintegration of the Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "year": 1954,
+      "period": "Surrealism",
+      "museum": "Dalí Museum",
+      "location": "St. Petersburg, USA",
+      "imageName": ""
+    },
+    {
+      "id": "46e1ab49-0a48-4cf6-a238-278d4fa0b184",
+      "title": "Time Transfixed",
+      "artist": "René Magritte",
+      "year": 1938,
+      "period": "Surrealism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": ""
+    },
+    {
+      "id": "0e8d040e-74a0-44a2-a727-29a6e8b2b92b",
+      "title": "The Lovers III",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "5e3fbc88-013a-4f61-96f1-f9dc7e87f597",
+      "title": "The Red Tower",
+      "artist": "Giorgio de Chirico",
+      "year": 1913,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "giorgio-de-chirico-the-red-tower.jpg"
+    },
+    {
+      "id": "b9ab9b1e-1b47-44fc-87c5-d0cfa4e87cc4",
+      "title": "Mystery and Melancholy of a Street",
+      "artist": "Giorgio de Chirico",
+      "year": 1914,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Italy",
+      "imageName": "giorgio-de-chirico-mystery-and-melancholy-of-a-street.jpg"
+    },
+    {
+      "id": "4b1e6b47-5a2e-4b18-93b9-bffb27d0ec04",
+      "title": "The Great Masturbator",
+      "artist": "Salvador Dalí",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    }
+  ]
+}

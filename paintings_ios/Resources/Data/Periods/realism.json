@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "a7c4f112-4a1d-49b0-8e33-21e4c89ebff7",
+      "title": "The Stone Breakers",
+      "artist": "Gustave Courbet",
+      "year": 1849,
+      "period": "Realism",
+      "museum": "Formerly Gemäldegalerie Dresden (destroyed in WWII)",
+      "location": "Dresden, Germany",
+      "imageName": "gustave-courbet-the-stone-breakers.jpg"
+    },
+    {
+      "id": "9f04e0a5-65b3-4e9d-b74a-11d760a36d2f",
+      "title": "A Burial at Ornans",
+      "artist": "Gustave Courbet",
+      "year": 1850,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "gustave-courbet-a-burial-at-ornans.jpg"
+    },
+    {
+      "id": "f64c2e42-dc8c-4a1c-bd24-b0e6f22d39c4",
+      "title": "The Painter's Studio",
+      "artist": "Gustave Courbet",
+      "year": 1855,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "1dd40de2-e3ce-41b9-84a3-0cf586a8b2c2",
+      "title": "The Meeting (Bonjour Monsieur Courbet)",
+      "artist": "Gustave Courbet",
+      "year": 1854,
+      "period": "Realism",
+      "museum": "Musée Fabre",
+      "location": "Montpellier, France",
+      "imageName": ""
+    },
+    {
+      "id": "9edcb178-c858-4f7a-b1b4-faf9c92ff23d",
+      "title": "The Gleaners",
+      "artist": "Jean-François Millet",
+      "year": 1857,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "3a40b11e-0d73-4b91-8aa9-775f71dbeef3",
+      "title": "The Angelus",
+      "artist": "Jean-François Millet",
+      "year": 1859,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "ef524af1-c42a-4a29-b0da-0e1df0e6cf32",
+      "title": "The Sower",
+      "artist": "Jean-François Millet",
+      "year": 1850,
+      "period": "Realism",
+      "museum": "Museum of Fine Arts",
+      "location": "Boston, USA",
+      "imageName": ""
+    },
+    {
+      "id": "d6fef0a5-401d-42b2-8c10-91cdd741313e",
+      "title": "Man with a Hoe",
+      "artist": "Jean-François Millet",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "J. Paul Getty Museum",
+      "location": "Los Angeles, USA",
+      "imageName": ""
+    },
+    {
+      "id": "f93a37d8-b2d9-4c34-940f-1b460dbf27d7",
+      "title": "Rue Transnonain",
+      "artist": "Honoré Daumier",
+      "year": 1834,
+      "period": "Realism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA",
+      "imageName": ""
+    },
+    {
+      "id": "6aef1c48-d99e-4e46-8fa4-b8c3cdb13202",
+      "title": "The Third-Class Carriage",
+      "artist": "Honoré Daumier",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "b4047d8e-cb64-4f6c-8e1e-f6e3b8d713da",
+      "title": "The Washerwomen",
+      "artist": "Honoré Daumier",
+      "year": 1860,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "aa5df657-041c-4c31-bca7-42a639b97abf",
+      "title": "The Horse Fair",
+      "artist": "Rosa Bonheur",
+      "year": 1855,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": "rosa-bonheur-the-horse-fair.jpg"
+    },
+    {
+      "id": "672b37a3-2b8a-4b34-b4ee-2cbca4e519d2",
+      "title": "Plowing in the Nivernais",
+      "artist": "Rosa Bonheur",
+      "year": 1849,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "rosa-bonheur-plowing-in-the-nivernais.jpg"
+    },
+    {
+      "id": "1a4e1c83-b6e2-4c1d-9c2b-b96caa3e30d3",
+      "title": "Barge Haulers on the Volga",
+      "artist": "Ilya Repin",
+      "year": 1873,
+      "period": "Realism",
+      "museum": "State Russian Museum",
+      "location": "Saint Petersburg, Russia",
+      "imageName": "ilya-repin-barge-haulers-on-the-volga.jpg"
+    },
+    {
+      "id": "c9ad03b3-bcda-4b67-8464-f9edcfe99eb4",
+      "title": "Religious Procession in Kursk Province",
+      "artist": "Ilya Repin",
+      "year": 1883,
+      "period": "Realism",
+      "museum": "State Tretyakov Gallery",
+      "location": "Moscow, Russia",
+      "imageName": ""
+    },
+    {
+      "id": "b257bf68-cb10-4fdc-bb29-f344ddc4149d",
+      "title": "The Return of the Flock",
+      "artist": "Julien Dupré",
+      "year": 1880,
+      "period": "Realism",
+      "museum": "Private collection",
+      "location": "France",
+      "imageName": ""
+    },
+    {
+      "id": "b468eab5-f3c4-4e6d-bcf3-1ec2c6c7bff5",
+      "title": "The Potato Eaters",
+      "artist": "Vincent van Gogh",
+      "year": 1885,
+      "period": "Realism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": "vincent-van-gogh-the-potato-eaters.jpg"
+    },
+    {
+      "id": "14a208b0-8b8d-4a5a-8082-d099099b3290",
+      "title": "The Young Schoolmistress",
+      "artist": "Jean-Baptiste Greuze",
+      "year": 1769,
+      "period": "Realism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "d53d979a-9f67-4d4b-b66a-5229da5a63dc",
+      "title": "Peasants Returning from the Fields",
+      "artist": "Jules Breton",
+      "year": 1870,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "0b8943ac-216b-46cb-91b3-7f8b0f90ebcf",
+      "title": "The Weeders",
+      "artist": "Jules Breton",
+      "year": 1868,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": "jules-breton-the-weeders.jpg"
+    },
+    {
+      "id": "993802a2-69e1-4897-b05e-c21b33d3450b",
+      "title": "Washerwomen at Arles",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1852,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "f9e413c8-2b26-423a-961b-588a1b6f8f54",
+      "title": "The Bridge at Narni",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1826,
+      "period": "Realism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "c5898b49-fbb1-4f4a-b9ad-70a25b5e8153",
+      "title": "Souvenir of Mortefontaine",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1864,
+      "period": "Realism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "jean-baptiste-camille-corot-souvenir-of-mortefontaine.jpg"
+    },
+    {
+      "id": "4f03c30d-4706-4d9b-962f-168b1aefb2d7",
+      "title": "Man with a Hoe",
+      "artist": "Jean-François Millet",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "Getty Museum",
+      "location": "Los Angeles, USA",
+      "imageName": ""
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "paintings": [
+    {
+      "id": "4e1e8d8c-7292-43ef-8b70-39bfb0f7a328",
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "period": "Expressionism",
+      "museum": "National Gallery",
+      "location": "Oslo, Norway",
+      "imageName": "edvard-munch-the-scream.jpg"
+    },
+    {
+      "id": "6a9a14a3-3c42-4d76-8a44-8905a4c93889",
+      "title": "The Dance of Life",
+      "artist": "Edvard Munch",
+      "year": 1899,
+      "period": "Expressionism",
+      "museum": "National Gallery",
+      "location": "Oslo, Norway",
+      "imageName": ""
+    },
+    {
+      "id": "1ce8e7c5-25a2-4f4d-9d31-f9b592a6b4df",
+      "title": "The Madonna",
+      "artist": "Edvard Munch",
+      "year": 1894,
+      "period": "Expressionism",
+      "museum": "Munch Museum",
+      "location": "Oslo, Norway",
+      "imageName": ""
+    },
+    {
+      "id": "0f6d3b4e-8f14-4b64-a1b4-2e2b755ed69c",
+      "title": "Street, Berlin",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "ernst-ludwig-kirchner-street-berlin.jpg"
+    },
+    {
+      "id": "47b8af1c-78a5-47e5-8eb9-30401cb59ef0",
+      "title": "Self-Portrait as a Soldier",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1915,
+      "period": "Expressionism",
+      "museum": "Allen Memorial Art Museum",
+      "location": "Oberlin, USA",
+      "imageName": "ernst-ludwig-kirchner-self-portrait-as-a-soldier.jpg"
+    },
+    {
+      "id": "cd9a4e7c-d016-4b76-bc9a-b54f59fbb680",
+      "title": "Street, Dresden",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1908,
+      "period": "Expressionism",
+      "museum": "Galerie Neue Meister",
+      "location": "Dresden, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "7f441df8-dfb5-45a0-82de-f602c5c253a8",
+      "title": "Composition VII",
+      "artist": "Wassily Kandinsky",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Tretyakov Gallery",
+      "location": "Moscow, Russia",
+      "imageName": "wassily-kandinsky-composition-vii.jpg"
+    },
+    {
+      "id": "b3bcae4d-3287-4e7d-bd10-8fbbd82fdc2a",
+      "title": "Improvisation 28 (Second Version)",
+      "artist": "Wassily Kandinsky",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "9b4a54f5-c260-4674-bbc1-fb958e26a5e2",
+      "title": "The Blue Rider",
+      "artist": "Wassily Kandinsky",
+      "year": 1903,
+      "period": "Expressionism",
+      "museum": "Lenbachhaus",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "a77710ff-1260-4963-b11b-4ebc3fc03f57",
+      "title": "The Large Blue Horses",
+      "artist": "Franz Marc",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Walker Art Center",
+      "location": "Minneapolis, USA",
+      "imageName": "franz-marc-the-large-blue-horses.jpg"
+    },
+    {
+      "id": "8f00de91-76e2-4e3f-bfa8-67138b496530",
+      "title": "Fate of the Animals",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": "franz-marc-fate-of-the-animals.jpg"
+    },
+    {
+      "id": "f4562f10-f8db-4ecf-bdb0-84e218a56eb9",
+      "title": "Deer in the Forest",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": "franz-marc-deer-in-the-forest.jpg"
+    },
+    {
+      "id": "1c40917d-5e35-4a91-9058-818066eb15f9",
+      "title": "Self-Portrait with Model",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Neue Nationalgalerie",
+      "location": "Berlin, Germany",
+      "imageName": "ernst-ludwig-kirchner-self-portrait-with-model.jpg"
+    },
+    {
+      "id": "993b1778-7391-49de-bdcc-6cf2b918e218",
+      "title": "Portrait of the Journalist Sylvia von Harden",
+      "artist": "Otto Dix",
+      "year": 1926,
+      "period": "Expressionism",
+      "museum": "Centre Pompidou",
+      "location": "Paris, France",
+      "imageName": "otto-dix-portrait-of-the-journalist-sylvia-von-harden.jpg"
+    },
+    {
+      "id": "93a76a1b-d17b-4d8b-a4b0-1a10b688b17e",
+      "title": "War Triptych",
+      "artist": "Otto Dix",
+      "year": 1932,
+      "period": "Expressionism",
+      "museum": "Staatliche Kunstsammlungen",
+      "location": "Dresden, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "64b453c0-f256-4b9b-b2e3-3b4183269862",
+      "title": "The Tempest",
+      "artist": "Oskar Kokoschka",
+      "year": 1914,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": ""
+    },
+    {
+      "id": "ae02d0d9-c08a-4f73-a4a5-26e08f6eb52f",
+      "title": "Self-Portrait with Hands",
+      "artist": "Egon Schiele",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Leopold Museum",
+      "location": "Vienna, Austria",
+      "imageName": ""
+    },
+    {
+      "id": "dcd23f62-dc2d-4f2d-8e5d-b8d63e75eb0e",
+      "title": "Death and the Maiden",
+      "artist": "Egon Schiele",
+      "year": 1915,
+      "period": "Expressionism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria",
+      "imageName": "egon-schiele-death-and-the-maiden.jpg"
+    },
+    {
+      "id": "70325559-0d18-4f9f-9507-0fc40dcf9405",
+      "title": "The Family",
+      "artist": "Egon Schiele",
+      "year": 1918,
+      "period": "Expressionism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria",
+      "imageName": "egon-schiele-the-family.jpg"
+    },
+    {
+      "id": "3f2b0df1-29ad-4f0b-bd7d-b68ddf8fcae9",
+      "title": "Still Life with Masks",
+      "artist": "Emil Nolde",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Nationalgalerie",
+      "location": "Berlin, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "cb6a73c9-01b7-4e4c-bb5f-d3d21736b428",
+      "title": "The Prophet",
+      "artist": "Emil Nolde",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "c84471a0-3c7c-46a7-b6b4-ff1e1fdf4221",
+      "title": "Masks (Still Life III)",
+      "artist": "Emil Nolde",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "National Gallery of Denmark",
+      "location": "Copenhagen, Denmark",
+      "imageName": ""
+    },
+    {
+      "id": "dcdf21b0-4b0e-486c-a99e-279bb25323d1",
+      "title": "The City Rises",
+      "artist": "Umberto Boccioni",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "umberto-boccioni-the-city-rises-1910-dcdf21b0.jpg"
+    },
+    {
+      "id": "c5b06d11-7cf1-4e92-b02f-25795c7374b3",
+      "title": "Tower of Blue Horses",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Destroyed or missing (WWII)",
+      "location": "Formerly Berlin, Germany",
+      "imageName": "franz-marc-tower-of-blue-horses.jpg"
+    },
+    {
+      "id": "acacdd6c-08e3-4b1b-88dc-3a3c0c3e80a7",
+      "title": "The Green Face",
+      "artist": "Alexej von Jawlensky",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Lenbachhaus",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "5b788e9b-4d47-4f2c-a4b3-dcb3dbf97c62",
+      "title": "The Last Judgment",
+      "artist": "Franz Marc",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Kunsthalle Hamburg",
+      "location": "Hamburg, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "7cebc5f1-171b-421d-bc22-02eb788a9944",
+      "title": "Winter Landscape",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Winterthur",
+      "location": "Winterthur, Switzerland",
+      "imageName": ""
+    }
+  ]
+}

@@ -1,1504 +1,3686 @@
 {
   "paintings": [
     {
-      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "id": "c95ab6d3-54b4-4cf2-9ad1-47e12996e501",
       "title": "Mona Lisa",
       "artist": "Leonardo da Vinci",
       "year": 1503,
-      "period": "renaissance",
-      "imageName": "mona_lisa",
+      "period": "Renaissance",
       "museum": "Louvre Museum",
       "location": "Paris, France"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440002",
-      "title": "The Starry Night",
-      "artist": "Vincent van Gogh",
-      "year": 1889,
-      "period": "postImpressionism",
-      "imageName": "starry_night",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "id": "a3e70c2e-df24-478d-a79c-9e8ed4e55c11",
       "title": "The Last Supper",
       "artist": "Leonardo da Vinci",
       "year": 1498,
-      "period": "renaissance",
-      "imageName": "last_supper",
+      "period": "Renaissance",
       "museum": "Santa Maria delle Grazie",
       "location": "Milan, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440004",
-      "title": "Girl with a Pearl Earring",
-      "artist": "Johannes Vermeer",
-      "year": 1665,
-      "period": "baroque",
-      "imageName": "girl_with_pearl_earring",
-      "museum": "Mauritshuis",
-      "location": "The Hague, Netherlands"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440005",
-      "title": "The Persistence of Memory",
-      "artist": "Salvador Dal\u00ed",
-      "year": 1931,
-      "period": "surrealism",
-      "imageName": "persistence_of_memory",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440006",
-      "title": "The Creation of Adam",
-      "artist": "Michelangelo",
-      "year": 1512,
-      "period": "renaissance",
-      "imageName": "creation_of_adam",
-      "museum": "Sistine Chapel",
-      "location": "Vatican City"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440007",
-      "title": "The Night Watch",
-      "artist": "Rembrandt van Rijn",
-      "year": 1642,
-      "period": "baroque",
-      "imageName": "night_watch",
-      "museum": "Rijksmuseum",
-      "location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440008",
-      "title": "The Kiss",
-      "artist": "Gustav Klimt",
-      "year": 1908,
-      "period": "modern",
-      "imageName": "the_kiss",
-      "museum": "\u00d6sterreichische Galerie Belvedere",
-      "location": "Vienna, Austria"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440009",
+      "id": "7e13e41c-8b68-4f08-b099-b69e11f3f6ef",
       "title": "The Birth of Venus",
       "artist": "Sandro Botticelli",
       "year": 1485,
-      "period": "renaissance",
-      "imageName": "birth_of_venus",
+      "period": "Renaissance",
       "museum": "Uffizi Gallery",
       "location": "Florence, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440010",
-      "title": "Guernica",
-      "artist": "Pablo Picasso",
-      "year": 1937,
-      "period": "cubism",
-      "imageName": "guernica",
-      "museum": "Museo Reina Sof\u00eda",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440011",
-      "title": "The School of Athens",
-      "artist": "Raphael",
-      "year": 1511,
-      "period": "renaissance",
-      "imageName": "school_of_athens",
-      "museum": "Apostolic Palace",
-      "location": "Vatican City"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440012",
+      "id": "8d1a92de-0322-4954-9dc2-14e92cb9392a",
       "title": "Primavera",
       "artist": "Sandro Botticelli",
       "year": 1482,
-      "period": "renaissance",
-      "imageName": "primavera",
+      "period": "Renaissance",
       "museum": "Uffizi Gallery",
       "location": "Florence, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440013",
-      "title": "The Arnolfini Portrait",
-      "artist": "Jan van Eyck",
-      "year": 1434,
-      "period": "renaissance",
-      "imageName": "arnolfini_portrait",
-      "museum": "National Gallery",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440014",
-      "title": "The Garden of Earthly Delights",
-      "artist": "Hieronymus Bosch",
-      "year": 1515,
-      "period": "renaissance",
-      "imageName": "garden_of_earthly_delights",
-      "museum": "Museo del Prado",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440015",
-      "title": "David",
-      "artist": "Michelangelo",
-      "year": 1504,
-      "period": "renaissance",
-      "imageName": "david_michelangelo",
-      "museum": "Galleria dell'Accademia",
-      "location": "Florence, Italy"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440016",
-      "title": "The Sistine Madonna",
+      "id": "2cb17d87-7864-4797-b76b-bae86e62ad9e",
+      "title": "The School of Athens",
       "artist": "Raphael",
-      "year": 1512,
-      "period": "renaissance",
-      "imageName": "sistine_madonna",
-      "museum": "Gem\u00e4ldegalerie Alte Meister",
+      "year": 1511,
+      "period": "Renaissance",
+      "museum": "Vatican Museums",
+      "location": "Vatican City"
+    },
+    {
+      "id": "9f21d802-69cb-49df-98b0-50d6eb3ec4c8",
+      "title": "Sistine Madonna",
+      "artist": "Raphael",
+      "year": 1513,
+      "period": "Renaissance",
+      "museum": "Gemäldegalerie Alte Meister",
       "location": "Dresden, Germany"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440017",
-      "title": "Las Meninas",
-      "artist": "Diego Vel\u00e1zquez",
-      "year": 1656,
-      "period": "baroque",
-      "imageName": "las_meninas",
-      "museum": "Museo del Prado",
-      "location": "Madrid, Spain"
+      "id": "f12eec7a-6eb0-4f43-b0c4-7a31a71e1cc2",
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "year": 1512,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440018",
-      "title": "The Calling of Saint Matthew",
-      "artist": "Caravaggio",
-      "year": 1600,
-      "period": "baroque",
-      "imageName": "calling_of_saint_matthew",
-      "museum": "San Luigi dei Francesi",
-      "location": "Rome, Italy"
+      "id": "c02cecb8-64db-4dcb-8f9e-64c6e1f25a24",
+      "title": "The Last Judgment",
+      "artist": "Michelangelo",
+      "year": 1541,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440019",
-      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
-      "artist": "Rembrandt van Rijn",
-      "year": 1632,
-      "period": "baroque",
-      "imageName": "anatomy_lesson",
-      "museum": "Mauritshuis",
-      "location": "The Hague, Netherlands"
+      "id": "cd69ab09-5cf8-4b9f-833a-5ad680e0ec84",
+      "title": "The Annunciation",
+      "artist": "Leonardo da Vinci",
+      "year": 1475,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440020",
-      "title": "The Art of Painting",
-      "artist": "Johannes Vermeer",
-      "year": 1668,
-      "period": "baroque",
-      "imageName": "art_of_painting",
+      "id": "1a6f0a35-13a0-4514-930d-69dc9a3e60b5",
+      "title": "Lady with an Ermine",
+      "artist": "Leonardo da Vinci",
+      "year": 1489,
+      "period": "Renaissance",
+      "museum": "Czartoryski Museum",
+      "location": "Kraków, Poland"
+    },
+    {
+      "id": "251d237c-5d75-4013-9a52-430dc3ab776a",
+      "title": "Adoration of the Magi",
+      "artist": "Leonardo da Vinci",
+      "year": 1481,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "734cbe9a-d0c7-46ee-a33a-4e98a77720b4",
+      "title": "The Arnolfini Portrait",
+      "artist": "Jan van Eyck",
+      "year": 1434,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "ad4f6a0c-d0a0-4d29-bf8a-f12c6168917d",
+      "title": "The Ghent Altarpiece",
+      "artist": "Jan van Eyck",
+      "year": 1432,
+      "period": "Renaissance",
+      "museum": "St. Bavo’s Cathedral",
+      "location": "Ghent, Belgium"
+    },
+    {
+      "id": "f8c66563-c1dc-4a52-8d09-f252705ea454",
+      "title": "The Adoration of the Lamb (detail from Ghent Altarpiece)",
+      "artist": "Hubert and Jan van Eyck",
+      "year": 1432,
+      "period": "Renaissance",
+      "museum": "St. Bavo’s Cathedral",
+      "location": "Ghent, Belgium"
+    },
+    {
+      "id": "84a9eaf2-17c9-49c1-92e4-c76f8dc0b2cf",
+      "title": "The Tribute Money",
+      "artist": "Masaccio",
+      "year": 1425,
+      "period": "Renaissance",
+      "museum": "Brancacci Chapel, Santa Maria del Carmine",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "3b2368f7-4f5f-4c29-975c-38c62373c9f0",
+      "title": "The Holy Trinity",
+      "artist": "Masaccio",
+      "year": 1427,
+      "period": "Renaissance",
+      "museum": "Santa Maria Novella",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "df2b9980-5e1f-4ab3-9b32-053dc81fcd84",
+      "title": "The Delivery of the Keys to Saint Peter",
+      "artist": "Perugino",
+      "year": 1482,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City"
+    },
+    {
+      "id": "c112d39e-0c3c-4bb1-a957-3897b46d786b",
+      "title": "The Tempest",
+      "artist": "Giorgione",
+      "year": 1508,
+      "period": "Renaissance",
+      "museum": "Gallerie dell’Accademia",
+      "location": "Venice, Italy"
+    },
+    {
+      "id": "eb38b07b-2984-4e48-8b70-b6aef3cb9a68",
+      "title": "Assumption of the Virgin",
+      "artist": "Titian",
+      "year": 1518,
+      "period": "Renaissance",
+      "museum": "Basilica di Santa Maria Gloriosa dei Frari",
+      "location": "Venice, Italy"
+    },
+    {
+      "id": "89c0438b-96fc-4d21-a0df-f9d57f47a579",
+      "title": "Venus of Urbino",
+      "artist": "Titian",
+      "year": 1538,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "d874df91-6b0f-463f-b5c0-1246b2b5e0f8",
+      "title": "Madonna of the Meadow",
+      "artist": "Raphael",
+      "year": 1506,
+      "period": "Renaissance",
       "museum": "Kunsthistorisches Museum",
       "location": "Vienna, Austria"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440021",
-      "title": "The Ecstasy of Saint Teresa",
-      "artist": "Gian Lorenzo Bernini",
-      "year": 1652,
-      "period": "baroque",
-      "imageName": "ecstasy_of_saint_teresa",
-      "museum": "Santa Maria della Vittoria",
-      "location": "Rome, Italy"
+      "id": "5832d33c-f146-492b-91f3-305b3a929b0d",
+      "title": "The Battle of San Romano",
+      "artist": "Paolo Uccello",
+      "year": 1438,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440022",
-      "title": "The Judgment of Paris",
-      "artist": "Peter Paul Rubens",
-      "year": 1639,
-      "period": "baroque",
-      "imageName": "judgment_of_paris_rubens",
-      "museum": "Museo del Prado",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440023",
-      "title": "Judith Slaying Holofernes",
-      "artist": "Artemisia Gentileschi",
-      "year": 1620,
-      "period": "baroque",
-      "imageName": "judith_slaying_holofernes",
+      "id": "2c171093-9eab-40cc-91d5-4ef44cb9e1da",
+      "title": "The Adoration of the Magi",
+      "artist": "Gentile da Fabriano",
+      "year": 1423,
+      "period": "Renaissance",
       "museum": "Uffizi Gallery",
       "location": "Florence, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440024",
-      "title": "The Milkmaid",
-      "artist": "Johannes Vermeer",
-      "year": 1658,
-      "period": "baroque",
-      "imageName": "the_milkmaid",
+      "id": "4baf7dc9-1e03-40b1-b007-dfa1c47eb3b8",
+      "title": "Portrait of a Man with a Blue Sleeve",
+      "artist": "Titian",
+      "year": 1512,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "44f7c816-8d38-4a7a-b66f-2c7d9d3c6e12",
+      "title": "The Madonna of the Rocks",
+      "artist": "Leonardo da Vinci",
+      "year": 1486,
+      "period": "Renaissance",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "cbad1f8c-02f5-4a91-8e53-7ebd9a55316f",
+      "title": "Portrait of Baldassare Castiglione",
+      "artist": "Raphael",
+      "year": 1515,
+      "period": "Renaissance",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "f807dbb7-0cb1-4cf1-84ec-8e0d9dfb3a38",
+      "title": "Madonna and Child with Two Angels",
+      "artist": "Filippo Lippi",
+      "year": 1465,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "a4cf9e31-1bb6-4f94-b51e-04a2c5e05a76",
+      "title": "Saint George and the Dragon",
+      "artist": "Raphael",
+      "year": 1506,
+      "period": "Renaissance",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "1b3a9378-9084-41da-9ef8-d9a233eb54b8",
+      "title": "The Dead Christ",
+      "artist": "Andrea Mantegna",
+      "year": 1480,
+      "period": "Renaissance",
+      "museum": "Pinacoteca di Brera",
+      "location": "Milan, Italy"
+    },
+    {
+      "id": "90dfb379-4b25-4fa9-9ad4-c1a8a6fa00b5",
+      "title": "Portrait of a Young Man",
+      "artist": "Sandro Botticelli",
+      "year": 1480,
+      "period": "Renaissance",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "bfc5a452-b68c-4e3a-8d65-80c5a1dc6129",
+      "title": "The Calling of Saint Matthew",
+      "artist": "Caravaggio",
+      "year": 1600,
+      "period": "Baroque",
+      "museum": "Contarelli Chapel, San Luigi dei Francesi",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "3de1a6b0-278a-4bc0-9a1c-34932adfcb94",
+      "title": "Judith Beheading Holofernes",
+      "artist": "Caravaggio",
+      "year": 1599,
+      "period": "Baroque",
+      "museum": "Galleria Nazionale d'Arte Antica",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "8f58ad17-04cd-42ad-a357-d0e7e635e3d1",
+      "title": "The Supper at Emmaus",
+      "artist": "Caravaggio",
+      "year": 1601,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "7f10de6a-d74f-4951-90d7-5e3cfb3c3c81",
+      "title": "David with the Head of Goliath",
+      "artist": "Caravaggio",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "Galleria Borghese",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "ef9f661e-f09a-4d59-8c3b-d167da7465ae",
+      "title": "The Night Watch",
+      "artist": "Rembrandt van Rijn",
+      "year": 1642,
+      "period": "Baroque",
       "museum": "Rijksmuseum",
       "location": "Amsterdam, Netherlands"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440025",
-      "title": "The Swing",
-      "artist": "Jean-Honor\u00e9 Fragonard",
-      "year": 1767,
-      "period": "rococo",
-      "imageName": "the_swing",
-      "museum": "Wallace Collection",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440026",
-      "title": "Pilgrimage to Cythera",
-      "artist": "Jean-Antoine Watteau",
-      "year": 1717,
-      "period": "rococo",
-      "imageName": "pilgrimage_to_cythera",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440027",
-      "title": "The Embarkation for Cythera",
-      "artist": "Jean-Antoine Watteau",
-      "year": 1718,
-      "period": "rococo",
-      "imageName": "embarkation_for_cythera",
-      "museum": "Charlottenburg Palace",
-      "location": "Berlin, Germany"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440028",
-      "title": "The Toilet of Venus",
-      "artist": "Fran\u00e7ois Boucher",
-      "year": 1751,
-      "period": "rococo",
-      "imageName": "toilet_of_venus_boucher",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440029",
-      "title": "Madame de Pompadour",
-      "artist": "Fran\u00e7ois Boucher",
-      "year": 1756,
-      "period": "rococo",
-      "imageName": "madame_de_pompadour",
-      "museum": "Alte Pinakothek",
-      "location": "Munich, Germany"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440030",
-      "title": "Gersaint's Shopsign",
-      "artist": "Jean-Antoine Watteau",
-      "year": 1721,
-      "period": "rococo",
-      "imageName": "gersaints_shopsign",
-      "museum": "Charlottenburg Palace",
-      "location": "Berlin, Germany"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440031",
-      "title": "The Music Lesson",
-      "artist": "Fran\u00e7ois Boucher",
-      "year": 1749,
-      "period": "rococo",
-      "imageName": "music_lesson_boucher",
-      "museum": "Mus\u00e9e Cognacq-Jay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440032",
-      "title": "Diana After the Hunt",
-      "artist": "Fran\u00e7ois Boucher",
-      "year": 1745,
-      "period": "rococo",
-      "imageName": "diana_after_hunt",
-      "museum": "Mus\u00e9e Cognacq-Jay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440033",
-      "title": "The Shepherdess",
-      "artist": "Jean-Honor\u00e9 Fragonard",
-      "year": 1752,
-      "period": "rococo",
-      "imageName": "the_shepherdess",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440034",
-      "title": "The Progress of Love: The Pursuit",
-      "artist": "Jean-Honor\u00e9 Fragonard",
-      "year": 1773,
-      "period": "rococo",
-      "imageName": "progress_of_love",
-      "museum": "The Frick Collection",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440035",
-      "title": "The Oath of the Horatii",
-      "artist": "Jacques-Louis David",
-      "year": 1785,
-      "period": "neoclassicism",
-      "imageName": "oath_of_the_horatii",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440036",
-      "title": "The Death of Marat",
-      "artist": "Jacques-Louis David",
-      "year": 1793,
-      "period": "neoclassicism",
-      "imageName": "death_of_marat",
-      "museum": "Royal Museums of Fine Arts of Belgium",
-      "location": "Brussels, Belgium"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440037",
-      "title": "Napoleon Crossing the Alps",
-      "artist": "Jacques-Louis David",
-      "year": 1801,
-      "period": "neoclassicism",
-      "imageName": "napoleon_crossing_alps",
-      "museum": "Ch\u00e2teau de Malmaison",
-      "location": "Rueil-Malmaison, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440038",
-      "title": "The Grande Odalisque",
-      "artist": "Jean-Auguste-Dominique Ingres",
-      "year": 1814,
-      "period": "neoclassicism",
-      "imageName": "grande_odalisque",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440039",
-      "title": "The Turkish Bath",
-      "artist": "Jean-Auguste-Dominique Ingres",
-      "year": 1862,
-      "period": "neoclassicism",
-      "imageName": "turkish_bath",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440040",
-      "title": "The Intervention of the Sabine Women",
-      "artist": "Jacques-Louis David",
-      "year": 1799,
-      "period": "neoclassicism",
-      "imageName": "sabine_women",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440041",
-      "title": "La Source",
-      "artist": "Jean-Auguste-Dominique Ingres",
-      "year": 1856,
-      "period": "neoclassicism",
-      "imageName": "la_source",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440042",
-      "title": "The Apotheosis of Homer",
-      "artist": "Jean-Auguste-Dominique Ingres",
-      "year": 1827,
-      "period": "neoclassicism",
-      "imageName": "apotheosis_of_homer",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440043",
-      "title": "The Death of Socrates",
-      "artist": "Jacques-Louis David",
-      "year": 1787,
-      "period": "neoclassicism",
-      "imageName": "death_of_socrates",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440044",
-      "title": "Psyche Revived by Cupid's Kiss",
-      "artist": "Antonio Canova",
-      "year": 1793,
-      "period": "neoclassicism",
-      "imageName": "psyche_revived",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440045",
-      "title": "Liberty Leading the People",
-      "artist": "Eug\u00e8ne Delacroix",
-      "year": 1830,
-      "period": "romanticism",
-      "imageName": "liberty_leading_people",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440046",
-      "title": "Wanderer above the Sea of Fog",
-      "artist": "Caspar David Friedrich",
-      "year": 1818,
-      "period": "romanticism",
-      "imageName": "wanderer_above_sea_fog",
-      "museum": "Kunsthalle Hamburg",
-      "location": "Hamburg, Germany"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440047",
-      "title": "The Raft of the Medusa",
-      "artist": "Th\u00e9odore G\u00e9ricault",
-      "year": 1819,
-      "period": "romanticism",
-      "imageName": "raft_of_medusa",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440048",
-      "title": "The Third of May 1808",
-      "artist": "Francisco Goya",
-      "year": 1814,
-      "period": "romanticism",
-      "imageName": "third_of_may_1808",
-      "museum": "Museo del Prado",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440049",
-      "title": "The Nightmare",
-      "artist": "Henry Fuseli",
-      "year": 1781,
-      "period": "romanticism",
-      "imageName": "the_nightmare",
-      "museum": "Detroit Institute of Arts",
-      "location": "Detroit, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440050",
-      "title": "The Death of Sardanapalus",
-      "artist": "Eug\u00e8ne Delacroix",
-      "year": 1827,
-      "period": "romanticism",
-      "imageName": "death_of_sardanapalus",
-      "museum": "Louvre Museum",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440051",
-      "title": "The Hay Wain",
-      "artist": "John Constable",
-      "year": 1821,
-      "period": "romanticism",
-      "imageName": "the_hay_wain",
-      "museum": "National Gallery",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440052",
-      "title": "The Fighting Temeraire",
-      "artist": "J.M.W. Turner",
-      "year": 1839,
-      "period": "romanticism",
-      "imageName": "fighting_temeraire",
-      "museum": "National Gallery",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440053",
-      "title": "The Slave Ship",
-      "artist": "J.M.W. Turner",
-      "year": 1840,
-      "period": "romanticism",
-      "imageName": "the_slave_ship",
-      "museum": "Museum of Fine Arts",
-      "location": "Boston, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440054",
-      "title": "Saturn Devouring His Son",
-      "artist": "Francisco Goya",
-      "year": 1823,
-      "period": "romanticism",
-      "imageName": "saturn_devouring_son",
-      "museum": "Museo del Prado",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440055",
-      "title": "The Stone Breakers",
-      "artist": "Gustave Courbet",
-      "year": 1849,
-      "period": "realism",
-      "imageName": "stone_breakers",
-      "museum": "Destroyed in World War II",
-      "location": "Originally Dresden, Germany"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440056",
-      "title": "The Gleaners",
-      "artist": "Jean-Fran\u00e7ois Millet",
-      "year": 1857,
-      "period": "realism",
-      "imageName": "the_gleaners",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440057",
-      "title": "A Burial at Ornans",
-      "artist": "Gustave Courbet",
-      "year": 1850,
-      "period": "realism",
-      "imageName": "burial_at_ornans",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440058",
-      "title": "The Angelus",
-      "artist": "Jean-Fran\u00e7ois Millet",
-      "year": 1859,
-      "period": "realism",
-      "imageName": "the_angelus",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440059",
-      "title": "The Horse Fair",
-      "artist": "Rosa Bonheur",
-      "year": 1855,
-      "period": "realism",
-      "imageName": "the_horse_fair",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440060",
-      "title": "The Third-Class Carriage",
-      "artist": "Honor\u00e9 Daumier",
-      "year": 1864,
-      "period": "realism",
-      "imageName": "third_class_carriage",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440061",
-      "title": "The Gross Clinic",
-      "artist": "Thomas Eakins",
-      "year": 1875,
-      "period": "realism",
-      "imageName": "gross_clinic",
-      "museum": "Philadelphia Museum of Art",
-      "location": "Philadelphia, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440062",
-      "title": "The Thinker",
-      "artist": "Auguste Rodin",
-      "year": 1904,
-      "period": "realism",
-      "imageName": "the_thinker",
-      "museum": "Mus\u00e9e Rodin",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440063",
-      "title": "Barge Haulers on the Volga",
-      "artist": "Ilya Repin",
-      "year": 1873,
-      "period": "realism",
-      "imageName": "barge_haulers_volga",
-      "museum": "Russian Museum",
-      "location": "St. Petersburg, Russia"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440064",
-      "title": "The Artist's Studio",
-      "artist": "Gustave Courbet",
-      "year": 1855,
-      "period": "realism",
-      "imageName": "artists_studio",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440065",
-      "title": "Impression, Sunrise",
-      "artist": "Claude Monet",
-      "year": 1872,
-      "period": "impressionism",
-      "imageName": "impression_sunrise",
-      "museum": "Mus\u00e9e Marmottan Monet",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440066",
-      "title": "Water Lilies",
-      "artist": "Claude Monet",
-      "year": 1906,
-      "period": "impressionism",
-      "imageName": "water_lilies",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440067",
-      "title": "Luncheon of the Boating Party",
-      "artist": "Pierre-Auguste Renoir",
-      "year": 1881,
-      "period": "impressionism",
-      "imageName": "luncheon_boating_party",
-      "museum": "Phillips Collection",
-      "location": "Washington D.C., USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440068",
-      "title": "Dance at Le Moulin de la Galette",
-      "artist": "Pierre-Auguste Renoir",
-      "year": 1876,
-      "period": "impressionism",
-      "imageName": "dance_moulin_galette",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440069",
-      "title": "Boulevard Montmartre on a Winter Morning",
-      "artist": "Camille Pissarro",
-      "year": 1897,
-      "period": "impressionism",
-      "imageName": "boulevard_montmartre",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440070",
-      "title": "The Ballet Class",
-      "artist": "Edgar Degas",
-      "year": 1874,
-      "period": "impressionism",
-      "imageName": "ballet_class",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440071",
-      "title": "Woman with a Parasol",
-      "artist": "Claude Monet",
-      "year": 1875,
-      "period": "impressionism",
-      "imageName": "woman_with_parasol",
-      "museum": "National Gallery of Art",
-      "location": "Washington D.C., USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440072",
-      "title": "The Absinthe Drinker",
-      "artist": "Edgar Degas",
-      "year": 1876,
-      "period": "impressionism",
-      "imageName": "absinthe_drinker",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440073",
-      "title": "Poplars",
-      "artist": "Claude Monet",
-      "year": 1891,
-      "period": "impressionism",
-      "imageName": "poplars",
-      "museum": "Philadelphia Museum of Art",
-      "location": "Philadelphia, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440074",
-      "title": "The Floor Scrapers",
-      "artist": "Gustave Caillebotte",
-      "year": 1875,
-      "period": "impressionism",
-      "imageName": "floor_scrapers",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440075",
-      "title": "A Sunday Afternoon on the Island of La Grande Jatte",
-      "artist": "Georges Seurat",
-      "year": 1886,
-      "period": "postImpressionism",
-      "imageName": "sunday_afternoon_grande_jatte",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440076",
-      "title": "Caf\u00e9 Terrace at Night",
-      "artist": "Vincent van Gogh",
-      "year": 1888,
-      "period": "postImpressionism",
-      "imageName": "cafe_terrace_night",
-      "museum": "Kr\u00f6ller-M\u00fcller Museum",
-      "location": "Otterlo, Netherlands"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440077",
-      "title": "The Night Caf\u00e9",
-      "artist": "Vincent van Gogh",
-      "year": 1888,
-      "period": "postImpressionism",
-      "imageName": "night_cafe",
-      "museum": "Yale University Art Gallery",
-      "location": "New Haven, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440078",
-      "title": "The Card Players",
-      "artist": "Paul C\u00e9zanne",
-      "year": 1895,
-      "period": "postImpressionism",
-      "imageName": "card_players",
-      "museum": "Mus\u00e9e d'Orsay",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440079",
-      "title": "Mont Sainte-Victoire",
-      "artist": "Paul C\u00e9zanne",
-      "year": 1887,
-      "period": "postImpressionism",
-      "imageName": "mont_sainte_victoire",
-      "museum": "Courtauld Gallery",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440080",
-      "title": "Where Do We Come From? What Are We? Where Are We Going?",
-      "artist": "Paul Gauguin",
-      "year": 1897,
-      "period": "postImpressionism",
-      "imageName": "where_do_we_come_from",
-      "museum": "Museum of Fine Arts",
-      "location": "Boston, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440081",
-      "title": "Vision After the Sermon",
-      "artist": "Paul Gauguin",
-      "year": 1888,
-      "period": "postImpressionism",
-      "imageName": "vision_after_sermon",
-      "museum": "National Galleries of Scotland",
-      "location": "Edinburgh, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440082",
-      "title": "At the Moulin Rouge",
-      "artist": "Henri de Toulouse-Lautrec",
-      "year": 1895,
-      "period": "postImpressionism",
-      "imageName": "at_moulin_rouge",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440083",
-      "title": "The Bedroom",
-      "artist": "Vincent van Gogh",
-      "year": 1888,
-      "period": "postImpressionism",
-      "imageName": "the_bedroom",
-      "museum": "Van Gogh Museum",
-      "location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440084",
-      "title": "The Scream",
-      "artist": "Edvard Munch",
-      "year": 1893,
-      "period": "expressionism",
-      "imageName": "the_scream",
-      "museum": "National Museum of Norway",
-      "location": "Oslo, Norway"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440085",
-      "title": "The Kiss",
-      "artist": "Edvard Munch",
-      "year": 1897,
-      "period": "expressionism",
-      "imageName": "the_kiss_munch",
-      "museum": "Munch Museum",
-      "location": "Oslo, Norway"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440086",
-      "title": "The Blue Rider",
-      "artist": "Wassily Kandinsky",
-      "year": 1903,
-      "period": "expressionism",
-      "imageName": "blue_rider",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440087",
-      "title": "Street, Berlin",
-      "artist": "Ernst Ludwig Kirchner",
-      "year": 1913,
-      "period": "expressionism",
-      "imageName": "street_berlin",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440088",
-      "title": "The Bride of the Wind",
-      "artist": "Oskar Kokoschka",
-      "year": 1914,
-      "period": "expressionism",
-      "imageName": "bride_of_wind",
-      "museum": "Kunstmuseum Basel",
-      "location": "Basel, Switzerland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440089",
-      "title": "Self-Portrait with Chinese Lantern Plant",
-      "artist": "Egon Schiele",
-      "year": 1912,
-      "period": "expressionism",
-      "imageName": "self_portrait_chinese_lantern",
-      "museum": "Leopold Museum",
-      "location": "Vienna, Austria"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440090",
-      "title": "The Tower of Blue Horses",
-      "artist": "Franz Marc",
-      "year": 1913,
-      "period": "expressionism",
-      "imageName": "tower_blue_horses",
-      "museum": "Lost or destroyed",
-      "location": "Unknown"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440091",
-      "title": "The Large Blue Horses",
-      "artist": "Franz Marc",
-      "year": 1911,
-      "period": "expressionism",
-      "imageName": "large_blue_horses",
-      "museum": "Walker Art Center",
-      "location": "Minneapolis, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440092",
-      "title": "Madonna",
-      "artist": "Edvard Munch",
-      "year": 1894,
-      "period": "expressionism",
-      "imageName": "madonna_munch",
-      "museum": "Munch Museum",
-      "location": "Oslo, Norway"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440093",
-      "title": "The Yellow Cow",
-      "artist": "Franz Marc",
-      "year": 1911,
-      "period": "expressionism",
-      "imageName": "yellow_cow",
-      "museum": "Solomon R. Guggenheim Museum",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440094",
-      "title": "Les Demoiselles d'Avignon",
-      "artist": "Pablo Picasso",
-      "year": 1907,
-      "period": "cubism",
-      "imageName": "les_demoiselles_avignon",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440095",
-      "title": "The Weeping Woman",
-      "artist": "Pablo Picasso",
-      "year": 1937,
-      "period": "cubism",
-      "imageName": "weeping_woman",
-      "museum": "Tate Modern",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440096",
-      "title": "Three Musicians",
-      "artist": "Pablo Picasso",
-      "year": 1921,
-      "period": "cubism",
-      "imageName": "three_musicians",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440097",
-      "title": "Violin and Candlestick",
-      "artist": "Georges Braque",
-      "year": 1910,
-      "period": "cubism",
-      "imageName": "violin_candlestick",
-      "museum": "San Francisco Museum of Modern Art",
-      "location": "San Francisco, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440098",
-      "title": "Houses at L'Estaque",
-      "artist": "Georges Braque",
-      "year": 1908,
-      "period": "cubism",
-      "imageName": "houses_estaque",
-      "museum": "Kunstmuseum Bern",
-      "location": "Bern, Switzerland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440099",
-      "title": "Girl with a Mandolin",
-      "artist": "Pablo Picasso",
-      "year": 1910,
-      "period": "cubism",
-      "imageName": "girl_with_mandolin",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440100",
-      "title": "Portrait of Ambroise Vollard",
-      "artist": "Pablo Picasso",
-      "year": 1910,
-      "period": "cubism",
-      "imageName": "portrait_ambroise_vollard",
-      "museum": "Pushkin Museum",
-      "location": "Moscow, Russia"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440101",
-      "title": "Still Life with Chair Caning",
-      "artist": "Pablo Picasso",
-      "year": 1912,
-      "period": "cubism",
-      "imageName": "still_life_chair_caning",
-      "museum": "Mus\u00e9e Picasso",
-      "location": "Paris, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440102",
-      "title": "The Portuguese",
-      "artist": "Georges Braque",
-      "year": 1911,
-      "period": "cubism",
-      "imageName": "the_portuguese",
-      "museum": "Kunstmuseum Basel",
-      "location": "Basel, Switzerland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440103",
-      "title": "The Son of Man",
-      "artist": "Ren\u00e9 Magritte",
-      "year": 1964,
-      "period": "surrealism",
-      "imageName": "son_of_man",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440104",
-      "title": "The Treachery of Images",
-      "artist": "Ren\u00e9 Magritte",
-      "year": 1929,
-      "period": "surrealism",
-      "imageName": "treachery_of_images",
-      "museum": "Los Angeles County Museum of Art",
-      "location": "Los Angeles, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440105",
-      "title": "The Elephants",
-      "artist": "Salvador Dal\u00ed",
-      "year": 1948,
-      "period": "surrealism",
-      "imageName": "the_elephants",
-      "museum": "Salvador Dal\u00ed Museum",
-      "location": "St. Petersburg, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440106",
-      "title": "The Burning Giraffe",
-      "artist": "Salvador Dal\u00ed",
-      "year": 1937,
-      "period": "surrealism",
-      "imageName": "burning_giraffe",
-      "museum": "Kunstmuseum Basel",
-      "location": "Basel, Switzerland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440107",
-      "title": "Swans Reflecting Elephants",
-      "artist": "Salvador Dal\u00ed",
-      "year": 1937,
-      "period": "surrealism",
-      "imageName": "swans_reflecting_elephants",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440108",
-      "title": "The Harlequin's Carnival",
-      "artist": "Joan Mir\u00f3",
-      "year": 1925,
-      "period": "surrealism",
-      "imageName": "harlequins_carnival",
-      "museum": "Albright-Knox Art Gallery",
-      "location": "Buffalo, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440109",
-      "title": "The Great Masturbator",
-      "artist": "Salvador Dal\u00ed",
-      "year": 1929,
-      "period": "surrealism",
-      "imageName": "great_masturbator",
-      "museum": "Museo Nacional Centro de Arte Reina Sof\u00eda",
-      "location": "Madrid, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440110",
-      "title": "The Lovers",
-      "artist": "Ren\u00e9 Magritte",
-      "year": 1928,
-      "period": "surrealism",
-      "imageName": "the_lovers",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440111",
-      "title": "Time Transfixed",
-      "artist": "Ren\u00e9 Magritte",
-      "year": 1938,
-      "period": "surrealism",
-      "imageName": "time_transfixed",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440112",
-      "title": "Composition VIII",
-      "artist": "Wassily Kandinsky",
-      "year": 1923,
-      "period": "abstract",
-      "imageName": "composition_viii",
-      "museum": "Solomon R. Guggenheim Museum",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440113",
-      "title": "Broadway Boogie Woogie",
-      "artist": "Piet Mondrian",
-      "year": 1943,
-      "period": "abstract",
-      "imageName": "broadway_boogie_woogie",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440114",
-      "title": "Composition with Red, Blue and Yellow",
-      "artist": "Piet Mondrian",
-      "year": 1930,
-      "period": "abstract",
-      "imageName": "composition_red_blue_yellow",
-      "museum": "Kunsthaus Z\u00fcrich",
-      "location": "Zurich, Switzerland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440115",
-      "title": "Black Square",
-      "artist": "Kazimir Malevich",
-      "year": 1915,
-      "period": "abstract",
-      "imageName": "black_square",
-      "museum": "Tretyakov Gallery",
-      "location": "Moscow, Russia"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440116",
-      "title": "No. 5, 1948",
-      "artist": "Jackson Pollock",
-      "year": 1948,
-      "period": "abstract",
-      "imageName": "no_5_1948",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440117",
-      "title": "Autumn Rhythm",
-      "artist": "Jackson Pollock",
-      "year": 1950,
-      "period": "abstract",
-      "imageName": "autumn_rhythm",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440118",
-      "title": "White on White",
-      "artist": "Kazimir Malevich",
-      "year": 1918,
-      "period": "abstract",
-      "imageName": "white_on_white",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440119",
-      "title": "Convergence",
-      "artist": "Jackson Pollock",
-      "year": 1952,
-      "period": "abstract",
-      "imageName": "convergence",
-      "museum": "Albright-Knox Art Gallery",
-      "location": "Buffalo, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440120",
-      "title": "Woman I",
-      "artist": "Willem de Kooning",
-      "year": 1952,
-      "period": "abstract",
-      "imageName": "woman_i",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440121",
-      "title": "Orange, Red, Yellow",
-      "artist": "Mark Rothko",
-      "year": 1961,
-      "period": "abstract",
-      "imageName": "orange_red_yellow",
-      "museum": "Private Collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440122",
-      "title": "The Dance",
-      "artist": "Henri Matisse",
-      "year": 1910,
-      "period": "modern",
-      "imageName": "the_dance_matisse",
+      "id": "bbd4e0fa-d56d-42a8-9ec8-96d39513ec4a",
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt van Rijn",
+      "year": 1632,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands"
+    },
+    {
+      "id": "6b85b17a-0c64-4c5e-bc72-d474ffdc4e89",
+      "title": "The Return of the Prodigal Son",
+      "artist": "Rembrandt van Rijn",
+      "year": 1669,
+      "period": "Baroque",
       "museum": "Hermitage Museum",
       "location": "St. Petersburg, Russia"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440123",
-      "title": "American Gothic",
-      "artist": "Grant Wood",
-      "year": 1930,
-      "period": "modern",
-      "imageName": "american_gothic",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
+      "id": "45a6cb3f-fc4c-45f9-b8e5-1c4f8996e749",
+      "title": "The Jewish Bride",
+      "artist": "Rembrandt van Rijn",
+      "year": 1667,
+      "period": "Baroque",
+      "museum": "Rijksmuseum",
+      "location": "Amsterdam, Netherlands"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440124",
-      "title": "Christina's World",
-      "artist": "Andrew Wyeth",
-      "year": 1948,
-      "period": "modern",
-      "imageName": "christinas_world",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
+      "id": "e1d9fae9-38a5-4627-a9d8-4fef2b92f240",
+      "title": "Las Meninas",
+      "artist": "Diego Velázquez",
+      "year": 1656,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440125",
-      "title": "Nighthawks",
-      "artist": "Edward Hopper",
-      "year": 1942,
-      "period": "modern",
-      "imageName": "nighthawks",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
+      "id": "d44a7991-9172-495a-95e0-9b77dd0c90f7",
+      "title": "The Surrender of Breda",
+      "artist": "Diego Velázquez",
+      "year": 1635,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440126",
-      "title": "The Joy of Life",
-      "artist": "Henri Matisse",
-      "year": 1906,
-      "period": "modern",
-      "imageName": "joy_of_life",
-      "museum": "Barnes Foundation",
-      "location": "Philadelphia, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440127",
-      "title": "Portrait of Adele Bloch-Bauer I",
-      "artist": "Gustav Klimt",
-      "year": 1907,
-      "period": "modern",
-      "imageName": "adele_bloch_bauer",
-      "museum": "Neue Galerie",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440128",
-      "title": "Campbell's Soup Cans",
-      "artist": "Andy Warhol",
-      "year": 1962,
-      "period": "modern",
-      "imageName": "campbells_soup_cans",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440129",
-      "title": "Marilyn Diptych",
-      "artist": "Andy Warhol",
-      "year": 1962,
-      "period": "modern",
-      "imageName": "marilyn_diptych",
-      "museum": "Tate Modern",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440130",
-      "title": "The Lovers II",
-      "artist": "Ren\u00e9 Magritte",
-      "year": 1928,
-      "period": "modern",
-      "imageName": "the_lovers_ii",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440131",
-      "title": "Balloon Dog",
-      "artist": "Jeff Koons",
-      "year": 1994,
-      "period": "contemporary",
-      "imageName": "balloon_dog",
-      "museum": "Various collections",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440132",
-      "title": "Untitled (Portrait of Ross in L.A.)",
-      "artist": "Felix Gonzalez-Torres",
-      "year": 1991,
-      "period": "contemporary",
-      "imageName": "portrait_of_ross",
-      "museum": "Art Institute of Chicago",
-      "location": "Chicago, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440133",
-      "title": "My Bed",
-      "artist": "Tracey Emin",
-      "year": 1998,
-      "period": "contemporary",
-      "imageName": "my_bed",
-      "museum": "Tate Britain",
-      "location": "London, UK"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440134",
-      "title": "The Physical Impossibility of Death in the Mind of Someone Living",
-      "artist": "Damien Hirst",
-      "year": 1991,
-      "period": "contemporary",
-      "imageName": "shark_hirst",
-      "museum": "Private collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440135",
-      "title": "Untitled (Perfect Lovers)",
-      "artist": "Felix Gonzalez-Torres",
-      "year": 1991,
-      "period": "contemporary",
-      "imageName": "perfect_lovers",
-      "museum": "Museum of Modern Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440136",
-      "title": "Rhythm 0",
-      "artist": "Marina Abramovi\u0107",
-      "year": 1974,
-      "period": "contemporary",
-      "imageName": "rhythm_0",
-      "museum": "Performance art (documented)",
-      "location": "Naples, Italy (original performance)"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440137",
-      "title": "Puppy",
-      "artist": "Jeff Koons",
-      "year": 1992,
-      "period": "contemporary",
-      "imageName": "puppy_koons",
-      "museum": "Guggenheim Museum Bilbao",
-      "location": "Bilbao, Spain"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440138",
-      "title": "For the Love of God",
-      "artist": "Damien Hirst",
-      "year": 2007,
-      "period": "contemporary",
-      "imageName": "for_love_of_god",
-      "museum": "Private collection",
-      "location": "Various"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440139",
-      "title": "Sleeping Muse",
-      "artist": "Constantin Br\u00e2ncu\u0219i",
-      "year": 1910,
-      "period": "contemporary",
-      "imageName": "sleeping_muse",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440140",
-      "title": "The Gates",
-      "artist": "Christo and Jeanne-Claude",
-      "year": 2005,
-      "period": "contemporary",
-      "imageName": "the_gates",
-      "museum": "Central Park (temporary installation)",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440141",
-      "title": "The Great Wave off Kanagawa",
-      "artist": "Katsushika Hokusai",
-      "year": 1831,
-      "period": "other",
-      "imageName": "great_wave_kanagawa",
-      "museum": "Metropolitan Museum of Art",
-      "location": "New York City, USA"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440142",
-      "title": "The Bayeux Tapestry",
-      "artist": "Unknown",
-      "year": 1077,
-      "period": "other",
-      "imageName": "bayeux_tapestry",
-      "museum": "Bayeux Museum",
-      "location": "Bayeux, France"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440143",
-      "title": "Hagia Sophia Mosaics",
-      "artist": "Byzantine artists",
-      "year": 1000,
-      "period": "other",
-      "imageName": "hagia_sophia_mosaics",
-      "museum": "Hagia Sophia",
-      "location": "Istanbul, Turkey"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440144",
-      "title": "The Book of Kells",
-      "artist": "Celtic monks",
-      "year": 800,
-      "period": "other",
-      "imageName": "book_of_kells",
-      "museum": "Trinity College Library",
-      "location": "Dublin, Ireland"
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440145",
-      "title": "The Wilton Diptych",
-      "artist": "Unknown",
-      "year": 1395,
-      "period": "other",
-      "imageName": "wilton_diptych",
+      "id": "f5d54f0f-f727-4d74-897c-3f5c86ed2ab1",
+      "title": "The Rokeby Venus",
+      "artist": "Diego Velázquez",
+      "year": 1651,
+      "period": "Baroque",
       "museum": "National Gallery",
-      "location": "London, UK"
+      "location": "London, United Kingdom"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440146",
-      "title": "Terracotta Army",
-      "artist": "Ancient Chinese artisans",
-      "year": -210,
-      "period": "other",
-      "imageName": "terracotta_army",
-      "museum": "Museum of Qin Terracotta Warriors",
-      "location": "Xi'an, China"
+      "id": "e8e8a2f0-4569-40b7-8f1b-92d8b78e03d0",
+      "title": "Portrait of Innocent X",
+      "artist": "Diego Velázquez",
+      "year": 1650,
+      "period": "Baroque",
+      "museum": "Galleria Doria Pamphilj",
+      "location": "Rome, Italy"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440147",
-      "title": "Lascaux Cave Paintings",
-      "artist": "Paleolithic humans",
-      "year": -15000,
-      "period": "other",
-      "imageName": "lascaux_cave",
-      "museum": "Lascaux Cave (replica)",
-      "location": "Dordogne, France"
+      "id": "c3b61c7b-c6b3-4fbb-86c8-1a1290e0f8e4",
+      "title": "The Elevation of the Cross",
+      "artist": "Peter Paul Rubens",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "Cathedral of Our Lady",
+      "location": "Antwerp, Belgium"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440148",
-      "title": "Nefertiti Bust",
-      "artist": "Thutmose",
-      "year": -1345,
-      "period": "other",
-      "imageName": "nefertiti_bust",
-      "museum": "Neues Museum",
+      "id": "8f6abdd1-c803-4825-a154-0a597ca7d213",
+      "title": "The Descent from the Cross",
+      "artist": "Peter Paul Rubens",
+      "year": 1612,
+      "period": "Baroque",
+      "museum": "Cathedral of Our Lady",
+      "location": "Antwerp, Belgium"
+    },
+    {
+      "id": "cb97e41e-8799-46f7-91b7-7f00dc3f87cc",
+      "title": "The Garden of Love",
+      "artist": "Peter Paul Rubens",
+      "year": 1633,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "eb38cb8a-6b43-4f10-bae3-88f3c3b9e56c",
+      "title": "Samson and Delilah",
+      "artist": "Peter Paul Rubens",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "0f88e79c-034b-4b63-9a21-99c60d9f34d8",
+      "title": "The Triumph of Bacchus",
+      "artist": "Diego Velázquez",
+      "year": 1628,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "be91bc74-86a7-4d53-b02b-ecddbcf87164",
+      "title": "The Rape of the Daughters of Leucippus",
+      "artist": "Peter Paul Rubens",
+      "year": 1618,
+      "period": "Baroque",
+      "museum": "Alte Pinakothek",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "b2d80830-0ac4-4fd7-9150-0300d23049f2",
+      "title": "The Conversion of Saint Paul",
+      "artist": "Caravaggio",
+      "year": 1601,
+      "period": "Baroque",
+      "museum": "Santa Maria del Popolo",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "067f1d8f-6f14-48f3-9f5a-6e7f9e0e3138",
+      "title": "The Inspiration of Saint Matthew",
+      "artist": "Caravaggio",
+      "year": 1602,
+      "period": "Baroque",
+      "museum": "Contarelli Chapel, San Luigi dei Francesi",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "d44a52f2-c6c3-48f4-bdbc-8ff5fc7a9807",
+      "title": "The Ecstasy of Saint Teresa",
+      "artist": "Gian Lorenzo Bernini",
+      "year": 1652,
+      "period": "Baroque",
+      "museum": "Santa Maria della Vittoria",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "b3c85f6a-dcdb-487d-84f3-94e2f23174b5",
+      "title": "Judith Slaying Holofernes",
+      "artist": "Artemisia Gentileschi",
+      "year": 1620,
+      "period": "Baroque",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "e3142d6b-4c9f-45d7-bb88-f18b2b2c60b4",
+      "title": "Self-Portrait as the Allegory of Painting",
+      "artist": "Artemisia Gentileschi",
+      "year": 1638,
+      "period": "Baroque",
+      "museum": "Royal Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "139fe228-1995-4b4b-b5cb-cdf4c7e22b78",
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "year": 1665,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands"
+    },
+    {
+      "id": "79a93692-8d36-4c5c-a9f4-beb407f6df16",
+      "title": "The Milkmaid",
+      "artist": "Johannes Vermeer",
+      "year": 1658,
+      "period": "Baroque",
+      "museum": "Rijksmuseum",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "1acbe594-ff61-4d8b-b75e-f01a6b4ec9de",
+      "title": "View of Delft",
+      "artist": "Johannes Vermeer",
+      "year": 1660,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands"
+    },
+    {
+      "id": "e60ef76e-d83b-4b1c-bb8b-60dbb3218c90",
+      "title": "Woman Holding a Balance",
+      "artist": "Johannes Vermeer",
+      "year": 1664,
+      "period": "Baroque",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "b9e54fc0-faa5-4d69-8f63-3ebc31a2526a",
+      "title": "The Music Lesson",
+      "artist": "Johannes Vermeer",
+      "year": 1662,
+      "period": "Baroque",
+      "museum": "Royal Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "a5131a08-3a5e-4cdb-9638-3c4b1633b164",
+      "title": "Christ in the House of Martha and Mary",
+      "artist": "Diego Velázquez",
+      "year": 1618,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "a967d1d9-4c7a-46c9-80fc-f9e7eb1f8831",
+      "title": "The Swing",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1767,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "2140f1e4-57f1-4d5a-87dc-3197283e0297",
+      "title": "The Progress of Love: The Meeting",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1773,
+      "period": "Rococo",
+      "museum": "Frick Collection",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "9b80e5f8-2c49-422a-8587-3c4ffb66e8fd",
+      "title": "The Progress of Love: The Lover Crowned",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1771,
+      "period": "Rococo",
+      "museum": "Frick Collection",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "cd3d3bb3-f52a-4e13-93d0-b1293a6a4a0e",
+      "title": "The Lock",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1777,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "1f6b07ff-3c37-4b6a-9d1d-73a9b5f75b26",
+      "title": "The Bathers",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1765,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "ac073163-604b-4bfc-b9b5-57de30debcf7",
+      "title": "Diana Leaving the Bath",
+      "artist": "François Boucher",
+      "year": 1742,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "ec32e46a-4977-4784-9c7f-dc93b77737b4",
+      "title": "The Toilet of Venus",
+      "artist": "François Boucher",
+      "year": 1751,
+      "period": "Rococo",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "8738d453-227d-4a72-9b3a-934dd158dd59",
+      "title": "Madame de Pompadour",
+      "artist": "François Boucher",
+      "year": 1756,
+      "period": "Rococo",
+      "museum": "Alte Pinakothek",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "ce0af142-b1b9-4bb2-88cf-1e7ee15fd1d9",
+      "title": "Cupid a Captive",
+      "artist": "François Boucher",
+      "year": 1754,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "5e452b39-df74-4d32-9318-4a6d3cc7ce9c",
+      "title": "The Embarkation for Cythera",
+      "artist": "Antoine Watteau",
+      "year": 1717,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "71af0733-58a1-4635-b165-cc529598dd38",
+      "title": "Gilles (Pierrot)",
+      "artist": "Antoine Watteau",
+      "year": 1718,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "545d24d7-88ba-499e-9f6c-2614ecbde9a9",
+      "title": "The Signboard of Gersaint",
+      "artist": "Antoine Watteau",
+      "year": 1721,
+      "period": "Rococo",
+      "museum": "Charlottenburg Palace",
       "location": "Berlin, Germany"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440149",
-      "title": "The Standard of Ur",
-      "artist": "Sumerian artisans",
-      "year": -2600,
-      "period": "other",
-      "imageName": "standard_of_ur",
-      "museum": "British Museum",
-      "location": "London, UK"
+      "id": "cc52e0a7-289d-4f8e-9cdb-9a6f07b16e18",
+      "title": "Breakfast Scene",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1739,
+      "period": "Rococo",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440150",
-      "title": "The Mask of Tutankhamun",
-      "artist": "Ancient Egyptian artisans",
-      "year": -1323,
-      "period": "other",
-      "imageName": "mask_of_tutankhamun",
-      "museum": "Egyptian Museum",
-      "location": "Cairo, Egypt"
+      "id": "fc81d1d5-0c77-4f35-8ec5-9b66e3ce92b7",
+      "title": "The Ray",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1728,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "8b348b6d-b70d-4d57-b247-9cfbebf9a5ea",
+      "title": "The House of Cards",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1737,
+      "period": "Rococo",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "d9a6e313-7a35-4b2d-b08f-182dfbda2c56",
+      "title": "The Morning Toilet",
+      "artist": "François Boucher",
+      "year": 1742,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "f59b83b5-4d80-4b02-937d-fd2d4b7ef69c",
+      "title": "Self-Portrait with Her Daughter",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1789,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "cba3b5b9-ec19-4d5c-a9f2-6b0f63ff6eb6",
+      "title": "Marie Antoinette and Her Children",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1787,
+      "period": "Rococo",
+      "museum": "Versailles Palace",
+      "location": "Versailles, France"
+    },
+    {
+      "id": "1e3da6a4-8cfb-43cb-8a24-fad4820d41e3",
+      "title": "Portrait of Madame de Pompadour",
+      "artist": "François Boucher",
+      "year": 1759,
+      "period": "Rococo",
+      "museum": "Fogg Art Museum",
+      "location": "Cambridge, USA"
+    },
+    {
+      "id": "bba60d50-d4f2-4b7e-bb21-25ec2647a3eb",
+      "title": "The Music Lesson",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1769,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "3f3a3d18-d9b4-4b2d-89a0-7db8c7c273c1",
+      "title": "The Love Letter",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1770,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "709f3f6f-bd33-4c61-9b9e-3ce6b63df1d1",
+      "title": "The Fountain of Love",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1785,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "c4583e7b-556b-4bb4-8f5e-ef38b5f6f779",
+      "title": "The Interrupted Sleep",
+      "artist": "François Boucher",
+      "year": 1750,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "e9e679e1-8e9d-4f13-b28b-85e5a4e9cb4f",
+      "title": "Pastoral Scene",
+      "artist": "François Boucher",
+      "year": 1749,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "a6e57a41-78c5-4d54-9b38-5ac8e2f81e3c",
+      "title": "Oath of the Horatii",
+      "artist": "Jacques-Louis David",
+      "year": 1784,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "bce8b61c-3e90-4a3b-98f3-d67b31f927b2",
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
+      "period": "Neoclassicism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "eacbdb03-1b93-4052-8f6d-20571d51dd45",
+      "title": "The Death of Marat",
+      "artist": "Jacques-Louis David",
+      "year": 1793,
+      "period": "Neoclassicism",
+      "museum": "Royal Museums of Fine Arts of Belgium",
+      "location": "Brussels, Belgium"
+    },
+    {
+      "id": "77229d0e-8e47-45c2-bfd1-13b2726118a5",
+      "title": "Napoleon Crossing the Alps",
+      "artist": "Jacques-Louis David",
+      "year": 1801,
+      "period": "Neoclassicism",
+      "museum": "Château de Malmaison",
+      "location": "Rueil-Malmaison, France"
+    },
+    {
+      "id": "d41240e4-3b23-46f0-bc02-517948e6bb7b",
+      "title": "The Coronation of Napoleon",
+      "artist": "Jacques-Louis David",
+      "year": 1807,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "d4c11a64-93d3-4ff4-91c8-fc8e83b567d4",
+      "title": "Brutus Receiving the Bodies of His Sons",
+      "artist": "Jacques-Louis David",
+      "year": 1789,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "e0a681b3-65a3-4ff0-9b39-3a2d7f61c8cb",
+      "title": "Madame Récamier",
+      "artist": "Jacques-Louis David",
+      "year": 1800,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "f5c14cc2-2888-4ac4-878e-8b75b3a6a249",
+      "title": "Grande Odalisque",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1814,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "15a4e7da-bc9a-4aa5-8ed3-f6352c2a40e2",
+      "title": "The Apotheosis of Homer",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1827,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "cc8dc52a-b05b-4047-a52a-d541c97c3ff9",
+      "title": "Portrait of Monsieur Bertin",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1832,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "0a228496-d08a-4a6b-9e57-7d204e18ed3a",
+      "title": "La Grande Baigneuse (The Valpinçon Bather)",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1808,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "2a00e199-b70c-4b4b-baf8-8e68c5d78fcb",
+      "title": "Self-Portrait at the Easel",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1790,
+      "period": "Neoclassicism",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "b0e1d248-f3c3-4ef0-a0f8-5a436f7261b7",
+      "title": "Cornelia Presenting Her Children as Her Treasures",
+      "artist": "Angelica Kauffmann",
+      "year": 1785,
+      "period": "Neoclassicism",
+      "museum": "Virginia Museum of Fine Arts",
+      "location": "Richmond, USA"
+    },
+    {
+      "id": "bc30a209-ec38-4b2a-8781-2d67b0da2c0a",
+      "title": "The Artist Hesitating Between the Arts of Music and Painting",
+      "artist": "Angelica Kauffmann",
+      "year": 1794,
+      "period": "Neoclassicism",
+      "museum": "Kenwood House",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "beebae77-1b4c-4e10-a38f-23c56e60b30a",
+      "title": "Venus Anadyomene",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1848,
+      "period": "Neoclassicism",
+      "museum": "Musée Condé, Chantilly",
+      "location": "Chantilly, France"
+    },
+    {
+      "id": "a3e1ec6b-d34b-470a-a5d9-8f3b489b9fd0",
+      "title": "Portrait of Napoleon on the Imperial Throne",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1806,
+      "period": "Neoclassicism",
+      "museum": "Musée de l'Armée",
+      "location": "Paris, France"
+    },
+    {
+      "id": "0ac57064-3a1d-4cc4-b8b2-3e17a606b7b0",
+      "title": "The Death of General Wolfe",
+      "artist": "Benjamin West",
+      "year": 1770,
+      "period": "Neoclassicism",
+      "museum": "National Gallery of Canada",
+      "location": "Ottawa, Canada"
+    },
+    {
+      "id": "c41f8f0b-7b32-4586-a087-f9f6f9c6b00c",
+      "title": "Agrippina Landing at Brundisium with the Ashes of Germanicus",
+      "artist": "Benjamin West",
+      "year": 1772,
+      "period": "Neoclassicism",
+      "museum": "Yale Center for British Art",
+      "location": "New Haven, USA"
+    },
+    {
+      "id": "5094161e-2d88-44c4-a788-d23441739f13",
+      "title": "Cupid and Psyche",
+      "artist": "Jacques-Louis David",
+      "year": 1817,
+      "period": "Neoclassicism",
+      "museum": "Hermitage Museum",
+      "location": "St. Petersburg, Russia"
+    },
+    {
+      "id": "8308eb59-d9c8-4763-b4d1-94c8a602f195",
+      "title": "The Intervention of the Sabine Women",
+      "artist": "Jacques-Louis David",
+      "year": 1799,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "3075e2da-4d2a-4785-b52c-6c856c4fbc86",
+      "title": "Portrait of Madame Moitessier",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1856,
+      "period": "Neoclassicism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "3b91c43e-6c9c-4d5b-90b2-38b2fc63a44a",
+      "title": "Pauline Bonaparte as Venus Victrix",
+      "artist": "Antonio Canova",
+      "year": 1808,
+      "period": "Neoclassicism",
+      "museum": "Galleria Borghese",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "6e6df4cb-77b1-476b-bc84-d3b88467a32f",
+      "title": "Portrait of a Lady as a Vestal Virgin",
+      "artist": "Angelica Kauffmann",
+      "year": 1780,
+      "period": "Neoclassicism",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "de6ac51c-4cf3-4b2e-8de2-3518efbdf92b",
+      "title": "The Battle of the Romans and the Sabines",
+      "artist": "Jacques-Louis David",
+      "year": 1799,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "a7c4f112-4a1d-49b0-8e33-21e4c89ebff7",
+      "title": "The Stone Breakers",
+      "artist": "Gustave Courbet",
+      "year": 1849,
+      "period": "Realism",
+      "museum": "Formerly Gemäldegalerie Dresden (destroyed in WWII)",
+      "location": "Dresden, Germany"
+    },
+    {
+      "id": "9f04e0a5-65b3-4e9d-b74a-11d760a36d2f",
+      "title": "A Burial at Ornans",
+      "artist": "Gustave Courbet",
+      "year": 1850,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "f64c2e42-dc8c-4a1c-bd24-b0e6f22d39c4",
+      "title": "The Painter's Studio",
+      "artist": "Gustave Courbet",
+      "year": 1855,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "1dd40de2-e3ce-41b9-84a3-0cf586a8b2c2",
+      "title": "The Meeting (Bonjour Monsieur Courbet)",
+      "artist": "Gustave Courbet",
+      "year": 1854,
+      "period": "Realism",
+      "museum": "Musée Fabre",
+      "location": "Montpellier, France"
+    },
+    {
+      "id": "9edcb178-c858-4f7a-b1b4-faf9c92ff23d",
+      "title": "The Gleaners",
+      "artist": "Jean-François Millet",
+      "year": 1857,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "3a40b11e-0d73-4b91-8aa9-775f71dbeef3",
+      "title": "The Angelus",
+      "artist": "Jean-François Millet",
+      "year": 1859,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "ef524af1-c42a-4a29-b0da-0e1df0e6cf32",
+      "title": "The Sower",
+      "artist": "Jean-François Millet",
+      "year": 1850,
+      "period": "Realism",
+      "museum": "Museum of Fine Arts",
+      "location": "Boston, USA"
+    },
+    {
+      "id": "d6fef0a5-401d-42b2-8c10-91cdd741313e",
+      "title": "Man with a Hoe",
+      "artist": "Jean-François Millet",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "J. Paul Getty Museum",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "f93a37d8-b2d9-4c34-940f-1b460dbf27d7",
+      "title": "Rue Transnonain",
+      "artist": "Honoré Daumier",
+      "year": 1834,
+      "period": "Realism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA"
+    },
+    {
+      "id": "6aef1c48-d99e-4e46-8fa4-b8c3cdb13202",
+      "title": "The Third-Class Carriage",
+      "artist": "Honoré Daumier",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b4047d8e-cb64-4f6c-8e1e-f6e3b8d713da",
+      "title": "The Washerwomen",
+      "artist": "Honoré Daumier",
+      "year": 1860,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "aa5df657-041c-4c31-bca7-42a639b97abf",
+      "title": "The Horse Fair",
+      "artist": "Rosa Bonheur",
+      "year": 1855,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "672b37a3-2b8a-4b34-b4ee-2cbca4e519d2",
+      "title": "Plowing in the Nivernais",
+      "artist": "Rosa Bonheur",
+      "year": 1849,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "1a4e1c83-b6e2-4c1d-9c2b-b96caa3e30d3",
+      "title": "Barge Haulers on the Volga",
+      "artist": "Ilya Repin",
+      "year": 1873,
+      "period": "Realism",
+      "museum": "State Russian Museum",
+      "location": "Saint Petersburg, Russia"
+    },
+    {
+      "id": "c9ad03b3-bcda-4b67-8464-f9edcfe99eb4",
+      "title": "Religious Procession in Kursk Province",
+      "artist": "Ilya Repin",
+      "year": 1883,
+      "period": "Realism",
+      "museum": "State Tretyakov Gallery",
+      "location": "Moscow, Russia"
+    },
+    {
+      "id": "b257bf68-cb10-4fdc-bb29-f344ddc4149d",
+      "title": "The Return of the Flock",
+      "artist": "Julien Dupré",
+      "year": 1880,
+      "period": "Realism",
+      "museum": "Private collection",
+      "location": "France"
+    },
+    {
+      "id": "b468eab5-f3c4-4e6d-bcf3-1ec2c6c7bff5",
+      "title": "The Potato Eaters",
+      "artist": "Vincent van Gogh",
+      "year": 1885,
+      "period": "Realism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "14a208b0-8b8d-4a5a-8082-d099099b3290",
+      "title": "The Young Schoolmistress",
+      "artist": "Jean-Baptiste Greuze",
+      "year": 1769,
+      "period": "Realism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "d53d979a-9f67-4d4b-b66a-5229da5a63dc",
+      "title": "Peasants Returning from the Fields",
+      "artist": "Jules Breton",
+      "year": 1870,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "0b8943ac-216b-46cb-91b3-7f8b0f90ebcf",
+      "title": "The Weeders",
+      "artist": "Jules Breton",
+      "year": 1868,
+      "period": "Realism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "993802a2-69e1-4897-b05e-c21b33d3450b",
+      "title": "Washerwomen at Arles",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1852,
+      "period": "Realism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "f9e413c8-2b26-423a-961b-588a1b6f8f54",
+      "title": "The Bridge at Narni",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1826,
+      "period": "Realism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "c5898b49-fbb1-4f4a-b9ad-70a25b5e8153",
+      "title": "Souvenir of Mortefontaine",
+      "artist": "Jean-Baptiste-Camille Corot",
+      "year": 1864,
+      "period": "Realism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France"
+    },
+    {
+      "id": "4f03c30d-4706-4d9b-962f-168b1aefb2d7",
+      "title": "Man with a Hoe",
+      "artist": "Jean-François Millet",
+      "year": 1862,
+      "period": "Realism",
+      "museum": "Getty Museum",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "e6b8e0b3-2388-47b9-8324-bf6c893e9f2d",
+      "title": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "year": 1872,
+      "period": "Impressionism",
+      "museum": "Musée Marmottan Monet",
+      "location": "Paris, France"
+    },
+    {
+      "id": "d2552a42-3b5c-4a1b-9e91-418c90d8a0cf",
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "year": 1916,
+      "period": "Impressionism",
+      "museum": "Musée de l'Orangerie",
+      "location": "Paris, France"
+    },
+    {
+      "id": "9a413b45-b747-44c3-918c-b105403164a8",
+      "title": "Woman with a Parasol",
+      "artist": "Claude Monet",
+      "year": 1875,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "e3b377fa-007d-4fd9-a3a5-50cf5f5b31f8",
+      "title": "The Artist's Garden at Giverny",
+      "artist": "Claude Monet",
+      "year": 1900,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "b46cc0a9-7053-4da2-a77c-b529d86e7bb3",
+      "title": "Rouen Cathedral, Facade (Sunset)",
+      "artist": "Claude Monet",
+      "year": 1894,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "4b911d2a-b38b-4f73-b2c3-9a9f6a5e9469",
+      "title": "Haystacks (End of Summer)",
+      "artist": "Claude Monet",
+      "year": 1891,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "b527d9cf-2c70-4b5c-b1a7-f06725a87d7d",
+      "title": "Dance at Le Moulin de la Galette",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "c171de9f-06d5-4b3f-8c09-d0bb706b7e72",
+      "title": "Luncheon of the Boating Party",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1881,
+      "period": "Impressionism",
+      "museum": "The Phillips Collection",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "8b1a8d35-3e79-4f29-96e0-292195da31c4",
+      "title": "The Swing",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "5d49ce02-0e36-4b49-9b5a-1fdc9d33a099",
+      "title": "La Loge",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1874,
+      "period": "Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "e2f218e9-bdc1-4938-b8c9-2ac09cf6c238",
+      "title": "Two Sisters (On the Terrace)",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1881,
+      "period": "Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "a53775e2-7ed5-4b58-8364-3b016fd89a2b",
+      "title": "The Ballet Class",
+      "artist": "Edgar Degas",
+      "year": 1874,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "2e17b6c4-cdb5-495b-944a-3ce9c77a78f1",
+      "title": "The Absinthe Drinker",
+      "artist": "Edgar Degas",
+      "year": 1876,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "38e5932a-9a3e-4f3d-95e0-1a62e9b529c7",
+      "title": "L'Étoile (The Star)",
+      "artist": "Edgar Degas",
+      "year": 1878,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "fbbaf3e5-f1c3-4f7a-8336-f2c99bb1d473",
+      "title": "Woman Ironing",
+      "artist": "Edgar Degas",
+      "year": 1884,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "6bc4b729-155a-4782-9b47-f511a7b64e09",
+      "title": "The Boulevard Montmartre at Night",
+      "artist": "Camille Pissarro",
+      "year": 1897,
+      "period": "Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "b4cf64cf-4512-4b58-8f64-fec364b9968e",
+      "title": "The Red Roofs, Corner of a Village",
+      "artist": "Camille Pissarro",
+      "year": 1877,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "a42e7c3d-d222-41c3-a229-9cb6674f8a43",
+      "title": "Peasants Planting Potatoes",
+      "artist": "Camille Pissarro",
+      "year": 1885,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "b6f4f7b7-9248-449b-90ed-389a1f94491a",
+      "title": "Rue Saint-Honoré, Afternoon, Rain Effect",
+      "artist": "Camille Pissarro",
+      "year": 1897,
+      "period": "Impressionism",
+      "museum": "Museo Thyssen-Bornemisza",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "e53bc8d1-9775-469d-aeb3-bbd64db2702d",
+      "title": "The Cradle",
+      "artist": "Berthe Morisot",
+      "year": 1872,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "bbaf0841-2d77-474a-8efb-32d615d9e2f7",
+      "title": "Summer’s Day",
+      "artist": "Berthe Morisot",
+      "year": 1879,
+      "period": "Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "99860e06-95b1-4a52-a1c1-890ce8b4b9dc",
+      "title": "The Boating Party",
+      "artist": "Mary Cassatt",
+      "year": 1893,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "3cb0c13b-f2f8-4ec4-b312-3079cc7c015f",
+      "title": "The Child’s Bath",
+      "artist": "Mary Cassatt",
+      "year": 1893,
+      "period": "Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "a4f40f3d-b0a9-4e76-89a9-8c6cc47eaf9d",
+      "title": "Lilacs in the Sun",
+      "artist": "Mary Cassatt",
+      "year": 1880,
+      "period": "Impressionism",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "f993da79-08f3-4b7a-9950-50f835a34e14",
+      "title": "The Gare Saint-Lazare",
+      "artist": "Claude Monet",
+      "year": 1877,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "245b5806-92d9-40cf-b34a-340f77d768d3",
+      "title": "Boating on the Seine",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1879,
+      "period": "Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "63e7b035-fc89-4cc7-b9a4-32e9116f7f1c",
+      "title": "Self-Portrait",
+      "artist": "Claude Monet",
+      "year": 1886,
+      "period": "Impressionism",
+      "museum": "Private Collection",
+      "location": "France"
+    },
+    {
+      "id": "118e2720-ff2b-4796-88aa-68a9bb8b81d5",
+      "title": "The Houses of Parliament, London, Sunset",
+      "artist": "Claude Monet",
+      "year": 1903,
+      "period": "Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "2df4b62b-5ee5-49b4-8196-b86e94cf39d0",
+      "title": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "eaa2e1d8-36f0-4c52-8e68-36ab1979d3a7",
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "b0f4f7ef-7ec3-44f4-b412-3d4e3af233e8",
+      "title": "The Bedroom",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "c3173f9e-4147-4ff4-8a7a-2c91f0e8ff76",
+      "title": "Irises",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "J. Paul Getty Museum",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "bd0873e8-70f7-4f4f-a4b2-3d08c7c63a8d",
+      "title": "Wheatfield with Crows",
+      "artist": "Vincent van Gogh",
+      "year": 1890,
+      "period": "Post-Impressionism",
+      "museum": "Van Gogh Museum",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "b14a8f9a-c21d-4e13-8f67-b617d0e5079f",
+      "title": "The Night Café",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA"
+    },
+    {
+      "id": "af26b27d-2f19-4c72-a7b8-82bc9856f272",
+      "title": "Café Terrace at Night",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Kröller-Müller Museum",
+      "location": "Otterlo, Netherlands"
+    },
+    {
+      "id": "771eaec1-6679-4723-b5dc-d6b894b7805c",
+      "title": "The Card Players",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "f0561d19-f0fc-4a6f-9780-5c49cf663f32",
+      "title": "Mont Sainte-Victoire",
+      "artist": "Paul Cézanne",
+      "year": 1902,
+      "period": "Post-Impressionism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "e8a01086-6079-47d7-b03d-31797c7b7b90",
+      "title": "The Basket of Apples",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "cf3eac7b-7d88-4a60-bf86-b158b56b2081",
+      "title": "Still Life with a Curtain",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Hermitage Museum",
+      "location": "St. Petersburg, Russia"
+    },
+    {
+      "id": "0d4270d9-cb2c-4b8a-a46e-b67acb8f3b90",
+      "title": "The Large Bathers",
+      "artist": "Paul Cézanne",
+      "year": 1906,
+      "period": "Post-Impressionism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "f70c3534-9fd7-48c5-a8ea-b9e1ed2b4058",
+      "title": "Where Do We Come From? What Are We? Where Are We Going?",
+      "artist": "Paul Gauguin",
+      "year": 1897,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Fine Arts",
+      "location": "Boston, USA"
+    },
+    {
+      "id": "1a169229-9a49-4378-9c43-177f518b47cd",
+      "title": "Vision After the Sermon",
+      "artist": "Paul Gauguin",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "National Galleries of Scotland",
+      "location": "Edinburgh, United Kingdom"
+    },
+    {
+      "id": "5e49ec2e-21d9-4c04-bcb5-19edff54f89a",
+      "title": "Tahitian Women on the Beach",
+      "artist": "Paul Gauguin",
+      "year": 1891,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "cbe34c5d-7e2b-4ec2-b2c3-2b11cf57e1b3",
+      "title": "The Yellow Christ",
+      "artist": "Paul Gauguin",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA"
+    },
+    {
+      "id": "e3406422-7e19-4805-91de-94e3126b760b",
+      "title": "Self-Portrait with Halo and Snake",
+      "artist": "Paul Gauguin",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "e2dc50de-2a7b-437f-aeac-b1609e02d07f",
+      "title": "At the Moulin Rouge",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "82f5c76f-6a1e-4c8f-a826-06e223255730",
+      "title": "Jane Avril Dancing",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "b4df7b2d-9c91-48b7-a3b2-5b9d3af88d3d",
+      "title": "La Goulue Entering the Moulin Rouge",
+      "artist": "Henri de Toulouse-Lautrec",
+      "year": 1892,
+      "period": "Post-Impressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "894b1ec8-d85d-4013-b0c2-7da357e50933",
+      "title": "The Siesta",
+      "artist": "Paul Gauguin",
+      "year": 1894,
+      "period": "Post-Impressionism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "7f607bc8-2e86-4924-a45d-57cb5d9bb517",
+      "title": "Still Life with Apples and Oranges",
+      "artist": "Paul Cézanne",
+      "year": 1899,
+      "period": "Post-Impressionism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "178b11d5-7da0-4c3a-b6da-8a4f36a326b0",
+      "title": "Portrait of Dr. Gachet",
+      "artist": "Vincent van Gogh",
+      "year": 1890,
+      "period": "Post-Impressionism",
+      "museum": "Private Collection",
+      "location": "France"
+    },
+    {
+      "id": "0ad1784d-d58f-479f-bb62-4ef85fcd4d72",
+      "title": "Self-Portrait with Bandaged Ear",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "period": "Post-Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "fa9c84f0-5cdd-4ed1-88f6-b98b50a4a6d0",
+      "title": "The Red Vineyard",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Pushkin State Museum of Fine Arts",
+      "location": "Moscow, Russia"
+    },
+    {
+      "id": "cd8b37a8-9fd9-470c-96a3-d12b612a3872",
+      "title": "Still Life with Plaster Cupid",
+      "artist": "Paul Cézanne",
+      "year": 1895,
+      "period": "Post-Impressionism",
+      "museum": "Courtauld Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "bf35a5a9-0028-4b42-a9cf-356ba57b3b39",
+      "title": "Cafe at Arles",
+      "artist": "Paul Gauguin",
+      "year": 1888,
+      "period": "Post-Impressionism",
+      "museum": "Pushkin Museum",
+      "location": "Moscow, Russia"
+    },
+    {
+      "id": "d3a4e04a-836e-4a1a-a22c-3f98aebd01bb",
+      "title": "Jupiter and Semele",
+      "artist": "Gustave Moreau",
+      "year": 1895,
+      "period": "Symbolism",
+      "museum": "Musée Gustave Moreau",
+      "location": "Paris, France"
+    },
+    {
+      "id": "cd1df94e-b4ac-42e8-bb1f-07932ec3e0d2",
+      "title": "Salome Dancing before Herod",
+      "artist": "Gustave Moreau",
+      "year": 1876,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "8e2415ab-b523-4b12-999b-f16df1da4b7a",
+      "title": "The Apparition",
+      "artist": "Gustave Moreau",
+      "year": 1876,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "607a358b-69ae-4e39-b13d-4f7a56c4f1ed",
+      "title": "The Cyclops",
+      "artist": "Odilon Redon",
+      "year": 1914,
+      "period": "Symbolism",
+      "museum": "Kröller-Müller Museum",
+      "location": "Otterlo, Netherlands"
+    },
+    {
+      "id": "efc7363e-e27a-4b9f-b931-bef71d32a544",
+      "title": "Ophelia among the Flowers",
+      "artist": "Odilon Redon",
+      "year": 1905,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "fe257ac7-5a71-4b91-828b-8f75bde14e76",
+      "title": "Spirit of the Forest",
+      "artist": "Odilon Redon",
+      "year": 1890,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "a417ee63-0df9-43db-8c81-067d40d0a9c5",
+      "title": "Isle of the Dead",
+      "artist": "Arnold Böcklin",
+      "year": 1883,
+      "period": "Symbolism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "cdab264b-6efc-4c44-90d7-6bda7e0d4305",
+      "title": "Self-Portrait with Death Playing the Fiddle",
+      "artist": "Arnold Böcklin",
+      "year": 1872,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "f0c92e94-251c-4639-80ec-8cf1e6d24a84",
+      "title": "The Silence",
+      "artist": "Fernand Khnopff",
+      "year": 1890,
+      "period": "Symbolism",
+      "museum": "Musées Royaux des Beaux-Arts de Belgique",
+      "location": "Brussels, Belgium"
+    },
+    {
+      "id": "b13e9b59-4f42-4fa7-871f-7b6d2b8f8821",
+      "title": "I Lock My Door Upon Myself",
+      "artist": "Fernand Khnopff",
+      "year": 1891,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "fcba343d-e1f2-4374-a5cf-5cd1ed72b0e1",
+      "title": "Caress of the Sphinx",
+      "artist": "Fernand Khnopff",
+      "year": 1896,
+      "period": "Symbolism",
+      "museum": "Musées Royaux des Beaux-Arts de Belgique",
+      "location": "Brussels, Belgium"
+    },
+    {
+      "id": "7b23af84-49a3-4c74-9544-d4d38f5da727",
+      "title": "Hope I",
+      "artist": "Gustav Klimt",
+      "year": 1903,
+      "period": "Symbolism",
+      "museum": "National Gallery of Canada",
+      "location": "Ottawa, Canada"
+    },
+    {
+      "id": "feac67b2-bb52-4e4f-b16a-f9b9984747a7",
+      "title": "The Kiss",
+      "artist": "Gustav Klimt",
+      "year": 1908,
+      "period": "Symbolism",
+      "museum": "Österreichische Galerie Belvedere",
+      "location": "Vienna, Austria"
+    },
+    {
+      "id": "34e3e04e-d5f2-4b8d-8881-1d889b7ec10b",
+      "title": "Judith and the Head of Holofernes",
+      "artist": "Gustav Klimt",
+      "year": 1901,
+      "period": "Symbolism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria"
+    },
+    {
+      "id": "dce40412-b12a-4d42-bf65-0c98689b15f8",
+      "title": "The Golden Knight (Life is a Struggle)",
+      "artist": "Franz von Stuck",
+      "year": 1897,
+      "period": "Symbolism",
+      "museum": "Museum Villa Stuck",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "15d55db9-69f9-49f0-81f3-3f4d8cf2a5bc",
+      "title": "The Sin",
+      "artist": "Franz von Stuck",
+      "year": 1893,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "03258b2e-5a2b-4a83-9fd2-52c009e4cf25",
+      "title": "The Bride of the Wind",
+      "artist": "Oskar Kokoschka",
+      "year": 1914,
+      "period": "Symbolism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "6d9ef583-ecf0-4fdf-8c45-16e1cbce7c90",
+      "title": "The Evil Mothers",
+      "artist": "Giovanni Segantini",
+      "year": 1894,
+      "period": "Symbolism",
+      "museum": "Galleria d’Arte Moderna",
+      "location": "Milan, Italy"
+    },
+    {
+      "id": "74493171-90e2-4d27-8fa7-1eaf0b5b9a4e",
+      "title": "The Punishment of Lust",
+      "artist": "Giovanni Segantini",
+      "year": 1891,
+      "period": "Symbolism",
+      "museum": "Walker Art Gallery",
+      "location": "Liverpool, United Kingdom"
+    },
+    {
+      "id": "2f7ed8e5-0488-4672-85ea-0c46a452f0c4",
+      "title": "The Vision",
+      "artist": "Lucien Lévy-Dhurmer",
+      "year": 1895,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "d925825d-c47c-4c86-99a7-f6adf5b08b9d",
+      "title": "The Dream",
+      "artist": "Henri Rousseau",
+      "year": 1910,
+      "period": "Symbolism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f22d2d1a-1e0d-45a5-a21c-b6e2a16a8902",
+      "title": "The Sleeping Gypsy",
+      "artist": "Henri Rousseau",
+      "year": 1897,
+      "period": "Symbolism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "a5eb58a7-4cde-43dc-9d90-daa0f40d920a",
+      "title": "The Sacred Grove",
+      "artist": "Pierre Puvis de Chavannes",
+      "year": 1884,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France"
+    },
+    {
+      "id": "4dcba8b1-36c0-4b1e-8f42-ea877d39e510",
+      "title": "Young Girls by the Sea",
+      "artist": "Pierre Puvis de Chavannes",
+      "year": 1879,
+      "period": "Symbolism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "4e1e8d8c-7292-43ef-8b70-39bfb0f7a328",
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "period": "Expressionism",
+      "museum": "National Gallery",
+      "location": "Oslo, Norway"
+    },
+    {
+      "id": "6a9a14a3-3c42-4d76-8a44-8905a4c93889",
+      "title": "The Dance of Life",
+      "artist": "Edvard Munch",
+      "year": 1899,
+      "period": "Expressionism",
+      "museum": "National Gallery",
+      "location": "Oslo, Norway"
+    },
+    {
+      "id": "1ce8e7c5-25a2-4f4d-9d31-f9b592a6b4df",
+      "title": "The Madonna",
+      "artist": "Edvard Munch",
+      "year": 1894,
+      "period": "Expressionism",
+      "museum": "Munch Museum",
+      "location": "Oslo, Norway"
+    },
+    {
+      "id": "0f6d3b4e-8f14-4b64-a1b4-2e2b755ed69c",
+      "title": "Street, Berlin",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "47b8af1c-78a5-47e5-8eb9-30401cb59ef0",
+      "title": "Self-Portrait as a Soldier",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1915,
+      "period": "Expressionism",
+      "museum": "Allen Memorial Art Museum",
+      "location": "Oberlin, USA"
+    },
+    {
+      "id": "cd9a4e7c-d016-4b76-bc9a-b54f59fbb680",
+      "title": "Street, Dresden",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1908,
+      "period": "Expressionism",
+      "museum": "Galerie Neue Meister",
+      "location": "Dresden, Germany"
+    },
+    {
+      "id": "7f441df8-dfb5-45a0-82de-f602c5c253a8",
+      "title": "Composition VII",
+      "artist": "Wassily Kandinsky",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Tretyakov Gallery",
+      "location": "Moscow, Russia"
+    },
+    {
+      "id": "b3bcae4d-3287-4e7d-bd10-8fbbd82fdc2a",
+      "title": "Improvisation 28 (Second Version)",
+      "artist": "Wassily Kandinsky",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "9b4a54f5-c260-4674-bbc1-fb958e26a5e2",
+      "title": "The Blue Rider",
+      "artist": "Wassily Kandinsky",
+      "year": 1903,
+      "period": "Expressionism",
+      "museum": "Lenbachhaus",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "a77710ff-1260-4963-b11b-4ebc3fc03f57",
+      "title": "The Large Blue Horses",
+      "artist": "Franz Marc",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Walker Art Center",
+      "location": "Minneapolis, USA"
+    },
+    {
+      "id": "8f00de91-76e2-4e3f-bfa8-67138b496530",
+      "title": "Fate of the Animals",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "f4562f10-f8db-4ecf-bdb0-84e218a56eb9",
+      "title": "Deer in the Forest",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "1c40917d-5e35-4a91-9058-818066eb15f9",
+      "title": "Self-Portrait with Model",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Neue Nationalgalerie",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "993b1778-7391-49de-bdcc-6cf2b918e218",
+      "title": "Portrait of the Journalist Sylvia von Harden",
+      "artist": "Otto Dix",
+      "year": 1926,
+      "period": "Expressionism",
+      "museum": "Centre Pompidou",
+      "location": "Paris, France"
+    },
+    {
+      "id": "93a76a1b-d17b-4d8b-a4b0-1a10b688b17e",
+      "title": "War Triptych",
+      "artist": "Otto Dix",
+      "year": 1932,
+      "period": "Expressionism",
+      "museum": "Staatliche Kunstsammlungen",
+      "location": "Dresden, Germany"
+    },
+    {
+      "id": "64b453c0-f256-4b9b-b2e3-3b4183269862",
+      "title": "The Tempest",
+      "artist": "Oskar Kokoschka",
+      "year": 1914,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "ae02d0d9-c08a-4f73-a4a5-26e08f6eb52f",
+      "title": "Self-Portrait with Hands",
+      "artist": "Egon Schiele",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Leopold Museum",
+      "location": "Vienna, Austria"
+    },
+    {
+      "id": "dcd23f62-dc2d-4f2d-8e5d-b8d63e75eb0e",
+      "title": "Death and the Maiden",
+      "artist": "Egon Schiele",
+      "year": 1915,
+      "period": "Expressionism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria"
+    },
+    {
+      "id": "70325559-0d18-4f9f-9507-0fc40dcf9405",
+      "title": "The Family",
+      "artist": "Egon Schiele",
+      "year": 1918,
+      "period": "Expressionism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria"
+    },
+    {
+      "id": "3f2b0df1-29ad-4f0b-bd7d-b68ddf8fcae9",
+      "title": "Still Life with Masks",
+      "artist": "Emil Nolde",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Nationalgalerie",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "cb6a73c9-01b7-4e4c-bb5f-d3d21736b428",
+      "title": "The Prophet",
+      "artist": "Emil Nolde",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "c84471a0-3c7c-46a7-b6b4-ff1e1fdf4221",
+      "title": "Masks (Still Life III)",
+      "artist": "Emil Nolde",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "National Gallery of Denmark",
+      "location": "Copenhagen, Denmark"
+    },
+    {
+      "id": "dcdf21b0-4b0e-486c-a99e-279bb25323d1",
+      "title": "The City Rises",
+      "artist": "Umberto Boccioni",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "c5b06d11-7cf1-4e92-b02f-25795c7374b3",
+      "title": "Tower of Blue Horses",
+      "artist": "Franz Marc",
+      "year": 1913,
+      "period": "Expressionism",
+      "museum": "Destroyed or missing (WWII)",
+      "location": "Formerly Berlin, Germany"
+    },
+    {
+      "id": "acacdd6c-08e3-4b1b-88dc-3a3c0c3e80a7",
+      "title": "The Green Face",
+      "artist": "Alexej von Jawlensky",
+      "year": 1910,
+      "period": "Expressionism",
+      "museum": "Lenbachhaus",
+      "location": "Munich, Germany"
+    },
+    {
+      "id": "5b788e9b-4d47-4f2c-a4b3-dcb3dbf97c62",
+      "title": "The Last Judgment",
+      "artist": "Franz Marc",
+      "year": 1912,
+      "period": "Expressionism",
+      "museum": "Kunsthalle Hamburg",
+      "location": "Hamburg, Germany"
+    },
+    {
+      "id": "7cebc5f1-171b-421d-bc22-02eb788a9944",
+      "title": "Winter Landscape",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1911,
+      "period": "Expressionism",
+      "museum": "Kunstmuseum Winterthur",
+      "location": "Winterthur, Switzerland"
+    },
+    {
+      "id": "d7a7328c-9cf5-4868-8575-3c2ab00de31b",
+      "title": "Les Demoiselles d’Avignon",
+      "artist": "Pablo Picasso",
+      "year": 1907,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f2c24a77-13db-4f6f-98ad-9ff70fc8aadb",
+      "title": "Girl with a Mandolin (Fanny Tellier)",
+      "artist": "Pablo Picasso",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "94af8b31-f993-4cf1-99ee-195c3e17a10a",
+      "title": "Still Life with Chair Caning",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Musée Picasso",
+      "location": "Paris, France"
+    },
+    {
+      "id": "c722bbf0-f9d1-4c39-8d7d-85d2c9f8ed03",
+      "title": "Ma Jolie",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "1bff73db-7a9c-40c0-a55a-ddeabefb00c4",
+      "title": "Three Musicians",
+      "artist": "Pablo Picasso",
+      "year": 1921,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "26a18f45-d4c3-4ab7-a00e-3c3ffda14491",
+      "title": "Man with a Guitar",
+      "artist": "Georges Braque",
+      "year": 1911,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "c61a2b04-6d45-4f3c-81d2-c86cc6f32789",
+      "title": "Violin and Candlestick",
+      "artist": "Georges Braque",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": "e3ab5b87-1f32-4843-99e3-50f2c7e2c687",
+      "title": "Houses at L’Estaque",
+      "artist": "Georges Braque",
+      "year": 1908,
+      "period": "Cubism",
+      "museum": "Musée National d’Art Moderne",
+      "location": "Paris, France"
+    },
+    {
+      "id": "7a86e594-f7a3-46e1-8e8b-b3850315674b",
+      "title": "Bottle and Fishes",
+      "artist": "Georges Braque",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "3b04667c-11b5-4ef3-9ee9-27e32cce1c58",
+      "title": "Violin and Palette",
+      "artist": "Georges Braque",
+      "year": 1909,
+      "period": "Cubism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "5cb2f490-7f5d-4a25-b8a5-2c962f4adbc7",
+      "title": "Portrait of Pablo Picasso",
+      "artist": "Juan Gris",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "5f30e1f9-0c0c-4e1c-8a53-47f061e6aaf1",
+      "title": "The Sunblind",
+      "artist": "Juan Gris",
+      "year": 1914,
+      "period": "Cubism",
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "4b4a3ab7-32a4-40f3-8d6b-19c2f0d79e44",
+      "title": "Still Life with Checked Tablecloth",
+      "artist": "Juan Gris",
+      "year": 1915,
+      "period": "Cubism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "7c5da8b2-43cb-4049-8e2c-f7b74a7f5958",
+      "title": "Glass of Beer and Playing Cards",
+      "artist": "Juan Gris",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "8cbe7c37-4231-4cbb-8a7c-6a4d04701911",
+      "title": "Man in a Café",
+      "artist": "Juan Gris",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "3e2ad671-1e7e-48d9-9ab3-661f063bfc8d",
+      "title": "Woman with a Guitar",
+      "artist": "Fernand Léger",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "f0b8ac90-6b9c-49db-8a71-41a331e3d61f",
+      "title": "The City",
+      "artist": "Fernand Léger",
+      "year": 1919,
+      "period": "Cubism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "fbd8cb3c-8ffb-4cb1-9f14-0b4caa17f706",
+      "title": "Still Life with a Pipe",
+      "artist": "Fernand Léger",
+      "year": 1920,
+      "period": "Cubism",
+      "museum": "Musée d’Art Moderne de la Ville de Paris",
+      "location": "Paris, France"
+    },
+    {
+      "id": "c9f318ff-1cc9-46ed-a967-0a07b04b1450",
+      "title": "Woman with a Guitar (After Braque)",
+      "artist": "Pablo Picasso",
+      "year": 1913,
+      "period": "Cubism",
+      "museum": "Musée Picasso",
+      "location": "Paris, France"
+    },
+    {
+      "id": "b3a4cfa7-1d57-4057-8d19-37c9b2483dcb",
+      "title": "Glass and Bottle of Suze",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "91f2e288-88d2-41dc-a7ad-344f7d2ab6ea",
+      "title": "Man with a Clarinet",
+      "artist": "Georges Braque",
+      "year": 1912,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "a38b7d56-37a5-46a0-899d-3d41efbbeb36",
+      "title": "Still Life with Metronome",
+      "artist": "Juan Gris",
+      "year": 1914,
+      "period": "Cubism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "1541db87-6eb5-4df7-86e5-82b2fa50f416",
+      "title": "The Portuguese",
+      "artist": "Georges Braque",
+      "year": 1911,
+      "period": "Cubism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland"
+    },
+    {
+      "id": "61fbc9ee-4c92-4f60-b9cf-6f82a08dfb33",
+      "title": "Seated Woman",
+      "artist": "Pablo Picasso",
+      "year": 1910,
+      "period": "Cubism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "c14b87a3-f22f-4e83-9ab5-98c7edb929b8",
+      "title": "Unique Forms of Continuity in Space",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "c8bca4ef-3a4c-4387-8f84-13f6c5a90d2e",
+      "title": "The City Rises",
+      "artist": "Umberto Boccioni",
+      "year": 1910,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2329b5a9-4a22-4a88-bc90-4535200154e9",
+      "title": "Dynamism of a Cyclist",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Peggy Guggenheim Collection",
+      "location": "Venice, Italy"
+    },
+    {
+      "id": "b9b7e5fc-cdbd-4a46-b4a8-3a68f1b18711",
+      "title": "States of Mind I: The Farewells",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "edba76c4-fcf8-4ef8-9c39-6b7c5022e2c5",
+      "title": "States of Mind II: Those Who Go",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2e0ef8ea-7024-4a62-8178-4271f946efb7",
+      "title": "States of Mind III: Those Who Stay",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "fe356f8b-998d-4a9f-8e61-73ce2e9a2ed8",
+      "title": "The Laugh",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2f04b812-0db9-4a35-b0a5-dcf25227a10d",
+      "title": "Dynamism of a Dog on a Leash",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA"
+    },
+    {
+      "id": "171e0ec2-5984-46d3-a19d-4a5d4051ce84",
+      "title": "Abstract Speed + Sound",
+      "artist": "Giacomo Balla",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Peggy Guggenheim Collection",
+      "location": "Venice, Italy"
+    },
+    {
+      "id": "8cb5f5b0-5dfc-45c5-9263-0de28e30b39b",
+      "title": "Street Light",
+      "artist": "Giacomo Balla",
+      "year": 1910,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "12b8f6c9-8e83-48d2-bf9f-5ef0b17fbdc4",
+      "title": "Speeding Automobile",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy"
+    },
+    {
+      "id": "c64d1347-62ac-4a16-97a9-f7e8d7b2573d",
+      "title": "The Dance of the Pan-Pans at the Monico",
+      "artist": "Gino Severini",
+      "year": 1909,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "0f2c52ac-749d-4f92-996b-c2678d2f5c44",
+      "title": "Armored Train in Action",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2d44e672-423c-4220-b43b-c53a53d01f1a",
+      "title": "Dynamic Hieroglyph of the Bal Tabarin",
+      "artist": "Gino Severini",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "6d21f6c7-2b1c-4403-8f3b-c52a671a04d3",
+      "title": "Blue Dancer",
+      "artist": "Gino Severini",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Musée d’Art Moderne de la Ville de Paris",
+      "location": "Paris, France"
+    },
+    {
+      "id": "aa452e11-038c-4b1b-90cb-8b948f77cf0f",
+      "title": "The Cyclist",
+      "artist": "Natalia Goncharova",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "State Russian Museum",
+      "location": "Saint Petersburg, Russia"
+    },
+    {
+      "id": "f64a6c2c-b745-478c-b6cf-55ec9e748a04",
+      "title": "The Knife Grinder",
+      "artist": "Kazimir Malevich",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA"
+    },
+    {
+      "id": "a0e783b4-4d4b-4e9e-b731-8e59809e19db",
+      "title": "Train + Landscape",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "63a5fbea-05e1-4710-b15c-304573d6b869",
+      "title": "Flying Over the Coliseum in a Spiral",
+      "artist": "Tullio Crali",
+      "year": 1939,
+      "period": "Futurism",
+      "museum": "Museo del Novecento",
+      "location": "Milan, Italy"
+    },
+    {
+      "id": "8c23cf90-46bb-47a3-b5d7-cb3b41e95f8c",
+      "title": "Plastic Synthesis of a Woman on a Balcony",
+      "artist": "Umberto Boccioni",
+      "year": 1912,
+      "period": "Futurism",
+      "museum": "Estorick Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "cb6cfb5a-8c79-47de-b0c3-247f050e61b7",
+      "title": "Speeding Train",
+      "artist": "Ivo Pannaggi",
+      "year": 1922,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy"
+    },
+    {
+      "id": "b42c3ee4-7e63-4ecf-bbe5-8533ab7b5f64",
+      "title": "Aeroplane over the Colosseum in Rome",
+      "artist": "Tullio Crali",
+      "year": 1930,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy"
+    },
+    {
+      "id": "fcf98b1b-f4cc-4f41-94e0-37d815a24a69",
+      "title": "The Cyclist’s Dynamism",
+      "artist": "Luigi Russolo",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "742bb8e2-63b4-4ad4-8a4e-1825a01a4d94",
+      "title": "Dynamism of a Car",
+      "artist": "Luigi Russolo",
+      "year": 1913,
+      "period": "Futurism",
+      "museum": "Private Collection",
+      "location": "Italy"
+    },
+    {
+      "id": "26cb93c9-b6b1-43b2-9e3f-969e537d8cb2",
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "year": 1931,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b9c96d42-1b23-4b4f-8a74-9d21e3b8ad31",
+      "title": "Swans Reflecting Elephants",
+      "artist": "Salvador Dalí",
+      "year": 1937,
+      "period": "Surrealism",
+      "museum": "Dalí Theatre-Museum",
+      "location": "Figueres, Spain"
+    },
+    {
+      "id": "72f207b8-4825-47dc-95b3-1a64b9efdc62",
+      "title": "Metamorphosis of Narcissus",
+      "artist": "Salvador Dalí",
+      "year": 1937,
+      "period": "Surrealism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "2ccca372-3177-42e4-8ef7-f98a88bba00e",
+      "title": "The Elephants",
+      "artist": "Salvador Dalí",
+      "year": 1948,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Spain"
+    },
+    {
+      "id": "ea5a5f2a-fba7-4ef2-9615-bb1bb174acb2",
+      "title": "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening",
+      "artist": "Salvador Dalí",
+      "year": 1944,
+      "period": "Surrealism",
+      "museum": "Thyssen-Bornemisza Museum",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "7a32c29f-b4d8-499c-a64e-8e2a52c33ee9",
+      "title": "The Lovers",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "77a59a61-5fda-46f4-b4e5-13f7b4b9cf09",
+      "title": "The Son of Man",
+      "artist": "René Magritte",
+      "year": 1964,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Belgium"
+    },
+    {
+      "id": "b3d4a1a1-f98c-476f-8105-8c3e9a17c55e",
+      "title": "The Treachery of Images",
+      "artist": "René Magritte",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Los Angeles County Museum of Art",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "f9d347e7-44ab-40b3-a7f4-69916fdc7a3e",
+      "title": "Golconda",
+      "artist": "René Magritte",
+      "year": 1953,
+      "period": "Surrealism",
+      "museum": "Menil Collection",
+      "location": "Houston, USA"
+    },
+    {
+      "id": "983c83cf-6b67-47cd-82c4-65e3cf4e4a6a",
+      "title": "The Human Condition",
+      "artist": "René Magritte",
+      "year": 1933,
+      "period": "Surrealism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "258f17c1-8ad1-4921-9009-69d4d5df93b5",
+      "title": "The False Mirror",
+      "artist": "René Magritte",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "dc5a047c-288c-4c15-9740-83979cf76c6b",
+      "title": "Carnival of Harlequin",
+      "artist": "Joan Miró",
+      "year": 1924,
+      "period": "Surrealism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA"
+    },
+    {
+      "id": "7e8f4450-12b8-4699-872d-4c4a7e721e07",
+      "title": "The Tilled Field",
+      "artist": "Joan Miró",
+      "year": 1923,
+      "period": "Surrealism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "3314d5e7-b91f-4f9e-9084-49957c835f7b",
+      "title": "Dog Barking at the Moon",
+      "artist": "Joan Miró",
+      "year": 1926,
+      "period": "Surrealism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b9df568f-2f63-4c73-a9ac-779706d1c733",
+      "title": "Women and Bird in the Moonlight",
+      "artist": "Joan Miró",
+      "year": 1949,
+      "period": "Surrealism",
+      "museum": "Fundació Joan Miró",
+      "location": "Barcelona, Spain"
+    },
+    {
+      "id": "e52fda06-05c7-462d-968a-c06f1b7bde72",
+      "title": "Europe After the Rain II",
+      "artist": "Max Ernst",
+      "year": 1942,
+      "period": "Surrealism",
+      "museum": "Wadsworth Atheneum",
+      "location": "Hartford, USA"
+    },
+    {
+      "id": "28d86f73-51f4-4d77-9cf0-bc15f34c4421",
+      "title": "The Elephant Celebes",
+      "artist": "Max Ernst",
+      "year": 1921,
+      "period": "Surrealism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "7b321d7f-4f2a-495a-9d7e-2bb283af91b5",
+      "title": "Two Children Are Threatened by a Nightingale",
+      "artist": "Max Ernst",
+      "year": 1924,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "77b1c05d-09d4-4218-9a7b-5a1ce99f741d",
+      "title": "The Entire City",
+      "artist": "Max Ernst",
+      "year": 1936,
+      "period": "Surrealism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "d55e0a45-8f50-49b1-8b8a-38d5e034e35d",
+      "title": "The Lovers II",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "e45e7c1d-0c2a-48f3-925b-4df17aab6227",
+      "title": "Apparition of Face and Fruit Dish on a Beach",
+      "artist": "Salvador Dalí",
+      "year": 1938,
+      "period": "Surrealism",
+      "museum": "Wadsworth Atheneum",
+      "location": "Hartford, USA"
+    },
+    {
+      "id": "94494663-b469-4d59-8197-463315256bd9",
+      "title": "Soft Construction with Boiled Beans (Premonition of Civil War)",
+      "artist": "Salvador Dalí",
+      "year": 1936,
+      "period": "Surrealism",
+      "museum": "Philadelphia Museum of Art",
+      "location": "Philadelphia, USA"
+    },
+    {
+      "id": "70590c45-8163-47ce-b7a2-0f94a06a5eb3",
+      "title": "The Disintegration of the Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "year": 1954,
+      "period": "Surrealism",
+      "museum": "Dalí Museum",
+      "location": "St. Petersburg, USA"
+    },
+    {
+      "id": "46e1ab49-0a48-4cf6-a238-278d4fa0b184",
+      "title": "Time Transfixed",
+      "artist": "René Magritte",
+      "year": 1938,
+      "period": "Surrealism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "0e8d040e-74a0-44a2-a727-29a6e8b2b92b",
+      "title": "The Lovers III",
+      "artist": "René Magritte",
+      "year": 1928,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Belgium"
+    },
+    {
+      "id": "5e3fbc88-013a-4f61-96f1-f9dc7e87f597",
+      "title": "The Red Tower",
+      "artist": "Giorgio de Chirico",
+      "year": 1913,
+      "period": "Surrealism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b9ab9b1e-1b47-44fc-87c5-d0cfa4e87cc4",
+      "title": "Mystery and Melancholy of a Street",
+      "artist": "Giorgio de Chirico",
+      "year": 1914,
+      "period": "Surrealism",
+      "museum": "Private Collection",
+      "location": "Italy"
+    },
+    {
+      "id": "4b1e6b47-5a2e-4b18-93b9-bffb27d0ec04",
+      "title": "The Great Masturbator",
+      "artist": "Salvador Dalí",
+      "year": 1929,
+      "period": "Surrealism",
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": "7fd8ac5d-4b4f-4c15-9d8a-25a9f1a7dc21",
+      "title": "No. 5, 1948",
+      "artist": "Jackson Pollock",
+      "year": 1948,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "1b9e5bcf-8011-4e89-8b75-ef505c29a5b1",
+      "title": "Autumn Rhythm (Number 30)",
+      "artist": "Jackson Pollock",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "a4c7e944-86ab-4a10-b26b-49ef22d6a7a4",
+      "title": "Blue Poles",
+      "artist": "Jackson Pollock",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Australia",
+      "location": "Canberra, Australia"
+    },
+    {
+      "id": "d02dc4fa-13e0-4cf0-9625-1c1b6c688a10",
+      "title": "Convergence",
+      "artist": "Jackson Pollock",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA"
+    },
+    {
+      "id": "e90f0e5c-90d4-47b5-878a-5134e32c2827",
+      "title": "Lavender Mist (Number 1)",
+      "artist": "Jackson Pollock",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "c84707b5-6671-4b3b-a1e5-2069a2c01a44",
+      "title": "No. 61 (Rust and Blue)",
+      "artist": "Mark Rothko",
+      "year": 1953,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Contemporary Art",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "07c38f12-14b0-48c7-8b39-f445eae50f5f",
+      "title": "Orange, Red, Yellow",
+      "artist": "Mark Rothko",
+      "year": 1961,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "fa6c3f0a-fd77-4b94-83d0-05997a2c85a5",
+      "title": "No. 14, 1960",
+      "artist": "Mark Rothko",
+      "year": 1960,
+      "period": "Abstract Expressionism",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": "bca77e7c-5928-4201-97a8-8e8f91e5c3f2",
+      "title": "White Center (Yellow, Pink and Lavender on Rose)",
+      "artist": "Mark Rothko",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "27f2e5c7-89e8-4a43-a1a7-0e90ed3f4143",
+      "title": "Untitled (Black on Grey)",
+      "artist": "Mark Rothko",
+      "year": 1970,
+      "period": "Abstract Expressionism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "db3c8c4e-80d2-4b62-9b0c-19f02879bb85",
+      "title": "Woman I",
+      "artist": "Willem de Kooning",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f27a6c63-80f0-47dc-9fd1-3a52cf7870cc",
+      "title": "Excavation",
+      "artist": "Willem de Kooning",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "d5ef94f5-2e11-4717-83f1-8c46a9cfc1b8",
+      "title": "Woman III",
+      "artist": "Willem de Kooning",
+      "year": 1953,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "e12c68b8-60b8-46d1-8ed1-0a9d69c1b6cb",
+      "title": "Gotham News",
+      "artist": "Willem de Kooning",
+      "year": 1955,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "8e7480da-746b-4dc4-9511-4baf9e078a6d",
+      "title": "Elegy to the Spanish Republic No. 110",
+      "artist": "Robert Motherwell",
+      "year": 1971,
+      "period": "Abstract Expressionism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f016e91a-52e0-4c6c-b201-4d32d01a4d7f",
+      "title": "Pancho Villa, Dead and Alive",
+      "artist": "Robert Motherwell",
+      "year": 1943,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "415e734c-2e3c-465b-97c8-cb42289f58c0",
+      "title": "Vir Heroicus Sublimis",
+      "artist": "Barnett Newman",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b78b2dc0-1e33-4ec7-95b5-40a83b02ee6f",
+      "title": "Onement I",
+      "artist": "Barnett Newman",
+      "year": 1948,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "d4ff653e-2586-4c83-8e37-dce0f33d7342",
+      "title": "Cathedra",
+      "artist": "Barnett Newman",
+      "year": 1951,
+      "period": "Abstract Expressionism",
+      "museum": "Detroit Institute of Arts",
+      "location": "Detroit, USA"
+    },
+    {
+      "id": "0c8b1f8c-08a1-4fd8-a21d-cce3b3654cd7",
+      "title": "Mahoning",
+      "artist": "Franz Kline",
+      "year": 1956,
+      "period": "Abstract Expressionism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f5a3f44b-9537-4af9-b88f-ef12d14b8e79",
+      "title": "Chief",
+      "artist": "Franz Kline",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "22adad49-2539-41a1-bb0b-b8af39457f80",
+      "title": "Cubi XVIII",
+      "artist": "David Smith",
+      "year": 1964,
+      "period": "Abstract Expressionism",
+      "museum": "Smithsonian American Art Museum",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "bb2c88f9-8f49-4cfa-b9f3-9f71a3ee9b77",
+      "title": "Mountains and Sea",
+      "artist": "Helen Frankenthaler",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "46b4f0b7-53cb-4d6f-b705-398381af4968",
+      "title": "Cool White (Thrust)",
+      "artist": "Lee Krasner",
+      "year": 1959,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "4fd20c6b-c02f-4f3e-b25d-58b493fdf92e",
+      "title": "Marilyn Diptych",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "f4c26a74-70f1-44cb-b9c8-4b66cf5a9a38",
+      "title": "Campbell’s Soup Cans",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b6274dc1-0104-4cc2-8577-567814f6e8b9",
+      "title": "Eight Elvises",
+      "artist": "Andy Warhol",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "af7802e0-1e02-456a-b5da-7bcb54a05815",
+      "title": "Gold Marilyn Monroe",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "d1b4ad89-19f4-4dfc-8d41-33e17bb04bdb",
+      "title": "Green Coca-Cola Bottles",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "6e9a3cbe-b154-46a8-9858-d366f60ff3d5",
+      "title": "Whaam!",
+      "artist": "Roy Lichtenstein",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "b2c0f02e-6074-45ff-b8e0-623fa3ad5976",
+      "title": "Drowning Girl",
+      "artist": "Roy Lichtenstein",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "0f68103f-4a65-4429-9b54-2fc94645e5b7",
+      "title": "Oh, Jeff...I Love You, Too...But...",
+      "artist": "Roy Lichtenstein",
+      "year": 1964,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "e9fa37e3-4a3c-42a2-9343-9a37cf59a14f",
+      "title": "Look Mickey",
+      "artist": "Roy Lichtenstein",
+      "year": 1961,
+      "period": "Pop Art",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA"
+    },
+    {
+      "id": "31a7b39e-46f1-46d5-949f-00d58fba236f",
+      "title": "Masterpiece",
+      "artist": "Roy Lichtenstein",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "db81cb17-9513-496b-80a1-60234ec7015d",
+      "title": "Just what is it that makes today's homes so different, so appealing?",
+      "artist": "Richard Hamilton",
+      "year": 1956,
+      "period": "Pop Art",
+      "museum": "Kunsthalle Tübingen",
+      "location": "Tübingen, Germany"
+    },
+    {
+      "id": "2b06b7b2-cc44-43a5-8f36-65b22cc8f62d",
+      "title": "Interior II",
+      "artist": "Richard Hamilton",
+      "year": 1964,
+      "period": "Pop Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "d9302f03-9ff7-4200-bb58-1e9c6613a6cb",
+      "title": "A Bigger Splash",
+      "artist": "David Hockney",
+      "year": 1967,
+      "period": "Pop Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "4a41b68b-c9ab-4dc3-b0c4-e22f70b98a3a",
+      "title": "Portrait of an Artist (Pool with Two Figures)",
+      "artist": "David Hockney",
+      "year": 1972,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "d15c7e4f-8b50-4e3c-b9f0-62b7c3657a13",
+      "title": "Peter Getting Out of Nick’s Pool",
+      "artist": "David Hockney",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Walker Art Gallery",
+      "location": "Liverpool, United Kingdom"
+    },
+    {
+      "id": "3e29d5f4-9891-49ff-b6cb-d99e10c519d9",
+      "title": "LOVE",
+      "artist": "Robert Indiana",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Indianapolis Museum of Art",
+      "location": "Indianapolis, USA"
+    },
+    {
+      "id": "2a0d65e2-46ed-4e4b-8150-03d6a542c75e",
+      "title": "Hope",
+      "artist": "Robert Indiana",
+      "year": 2008,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "54a0d30b-38b2-4ab3-975d-0b76da37de19",
+      "title": "Still Life #30",
+      "artist": "Tom Wesselmann",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "5ff6160a-3d08-402b-9f4e-81d3db8a7490",
+      "title": "Bedroom Painting #41",
+      "artist": "Tom Wesselmann",
+      "year": 1978,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "45e0b2b2-05e7-4ed1-8ac3-893554f013a4",
+      "title": "I Was a Rich Man’s Plaything",
+      "artist": "Eduardo Paolozzi",
+      "year": 1947,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "ba0e1394-dfae-4032-8a15-2c188d4b8a18",
+      "title": "Blam",
+      "artist": "Roy Lichtenstein",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA"
+    },
+    {
+      "id": "4d20aa3b-56cc-4d74-816b-7c9318ee47db",
+      "title": "100 Cans",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA"
+    },
+    {
+      "id": "54de4c39-f2a5-4e4f-baf2-98851cf0cb15",
+      "title": "Brushstrokes",
+      "artist": "Roy Lichtenstein",
+      "year": 1965,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "f63053d1-b8a5-4f6f-b3a3-50c3b06cb8fc",
+      "title": "Banana",
+      "artist": "Andy Warhol",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "5f3e408f-cf2d-4bcf-835f-b4802a1b6de1",
+      "title": "Die Fahne Hoch!",
+      "artist": "Frank Stella",
+      "year": 1959,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2cde87e4-905d-49bb-b3cf-44d1ef53cf0c",
+      "title": "Harran II",
+      "artist": "Frank Stella",
+      "year": 1967,
+      "period": "Minimalism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "91f73aa2-56e0-4e7a-b7e1-3d897ed84f57",
+      "title": "Empress of India",
+      "artist": "Frank Stella",
+      "year": 1965,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "29a8d541-056b-4a5c-95f5-c6cda58b39ff",
+      "title": "Untitled (Stack)",
+      "artist": "Donald Judd",
+      "year": 1967,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "6c30fcab-f3e7-43ff-a9a1-71dbf89e5f7c",
+      "title": "100 Untitled Works in Mill Aluminum",
+      "artist": "Donald Judd",
+      "year": 1982,
+      "period": "Minimalism",
+      "museum": "Chinati Foundation",
+      "location": "Marfa, USA"
+    },
+    {
+      "id": "d5c04b03-46d1-4e9a-9ac4-b1f5e6fa4a4d",
+      "title": "Untitled (Marfa Installation)",
+      "artist": "Donald Judd",
+      "year": 1980,
+      "period": "Minimalism",
+      "museum": "Chinati Foundation",
+      "location": "Marfa, USA"
+    },
+    {
+      "id": "2df20b1d-6639-429f-9bcd-2172b5fa9cf2",
+      "title": "Yellow Piece",
+      "artist": "Ellsworth Kelly",
+      "year": 1966,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "dbdbf685-3294-4e53-9b72-5e22931460b8",
+      "title": "Colors for a Large Wall",
+      "artist": "Ellsworth Kelly",
+      "year": 1951,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "cae25277-3f4e-4af2-bd56-2a8baf2a9828",
+      "title": "Blue Red Green",
+      "artist": "Ellsworth Kelly",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Museum of Fine Arts",
+      "location": "Houston, USA"
+    },
+    {
+      "id": "9a1dff69-6c42-46b7-a80e-f9a3124e4fd1",
+      "title": "White Stone",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "ac8e9498-4c58-4b41-93bb-df3e7f6bfc0c",
+      "title": "The Tree",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "2a6788e9-c8ee-4d5d-a225-58664d3bb963",
+      "title": "Friendship",
+      "artist": "Agnes Martin",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "ba25c7c9-cb0c-4e2e-9b43-46f7d1b5a881",
+      "title": "Pink Pyramids",
+      "artist": "Agnes Martin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "92e0d6ed-3b8a-4a27-a3e0-292f83acfc29",
+      "title": "Wall Drawing #1136",
+      "artist": "Sol LeWitt",
+      "year": 2004,
+      "period": "Minimalism",
+      "museum": "Mass MoCA",
+      "location": "North Adams, USA"
+    },
+    {
+      "id": "10b4a02d-15a2-4a24-bcf6-c2a7a91dd6c8",
+      "title": "Incomplete Open Cubes",
+      "artist": "Sol LeWitt",
+      "year": 1974,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "6a7b6a36-25ac-4e52-88db-00470379ce2f",
+      "title": "Serial Project, I (ABCD)",
+      "artist": "Sol LeWitt",
+      "year": 1966,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "c0b510e8-8c2c-4b32-8d4f-f0a537bfa7bb",
+      "title": "Monument for V. Tatlin",
+      "artist": "Dan Flavin",
+      "year": 1964,
+      "period": "Minimalism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "29a9e36a-478f-49d3-b053-8b3a55c7b54f",
+      "title": "Untitled (to you, Heiner, with admiration and affection)",
+      "artist": "Dan Flavin",
+      "year": 1973,
+      "period": "Minimalism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "1b7b64d3-dc15-4e23-89c1-bb252d2e0e0b",
+      "title": "Untitled (to Barnett Newman)",
+      "artist": "Dan Flavin",
+      "year": 1971,
+      "period": "Minimalism",
+      "museum": "Dia Beacon",
+      "location": "Beacon, USA"
+    },
+    {
+      "id": "dc3d08da-848b-41b8-a85b-1e385d19824e",
+      "title": "Black Painting",
+      "artist": "Ad Reinhardt",
+      "year": 1960,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "5bde5d70-fb5d-4582-a32f-c1c032ab5bc0",
+      "title": "Abstract Painting, Red",
+      "artist": "Ad Reinhardt",
+      "year": 1952,
+      "period": "Minimalism",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "1a9ff3bb-b218-4b5c-833c-1b06215f9cc2",
+      "title": "Untitled (Black and White)",
+      "artist": "Robert Ryman",
+      "year": 1963,
+      "period": "Minimalism",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "ee50e25e-9c64-40c0-bb9f-d1cf63c3187a",
+      "title": "Ledger",
+      "artist": "Robert Ryman",
+      "year": 1982,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "4a2b5bda-0f7a-4cf0-80bb-13af8c4f4066",
+      "title": "Untitled (White Painting)",
+      "artist": "Robert Rauschenberg",
+      "year": 1951,
+      "period": "Minimalism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "e2b9d02d-13e1-46c1-bd47-3ab6c6a7d9a1",
+      "title": "The Physical Impossibility of Death in the Mind of Someone Living",
+      "artist": "Damien Hirst",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "d0ac8f73-2e8d-4c5a-9d4b-3b18a7397a0d",
+      "title": "For the Love of God",
+      "artist": "Damien Hirst",
+      "year": 2007,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "White Cube Gallery",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "82d57a28-6b14-4a9a-bc5e-56b94b39e7a4",
+      "title": "Spot Painting (Pharmaceutical)",
+      "artist": "Damien Hirst",
+      "year": 1988,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Gagosian Gallery",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "9c539c2e-0cf5-4f74-80c4-4bb90239c154",
+      "title": "Balloon Dog (Orange)",
+      "artist": "Jeff Koons",
+      "year": 1994,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "5b25356c-0b7f-4b35-b254-607c3f2a3f7a",
+      "title": "Rabbit",
+      "artist": "Jeff Koons",
+      "year": 1986,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Christie’s Auction Record Holder",
+      "location": "USA"
+    },
+    {
+      "id": "998be948-3e41-4f5c-9e69-bdb86a91df84",
+      "title": "Michael Jackson and Bubbles",
+      "artist": "Jeff Koons",
+      "year": 1988,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": "b7e7c372-94cc-46dc-bf5b-bdf8c944f7a3",
+      "title": "Untitled Film Still #21",
+      "artist": "Cindy Sherman",
+      "year": 1978,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "86b8e874-cd13-4ff9-89e3-32ab34b6c293",
+      "title": "Untitled #96",
+      "artist": "Cindy Sherman",
+      "year": 1981,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "d4a514b8-018f-4f83-bdf8-1ec90dddeae4",
+      "title": "Girl with Balloon",
+      "artist": "Banksy",
+      "year": 2002,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection / Street Art",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "0cc2189b-47ef-4b16-b02e-c9c6168c4e1c",
+      "title": "There Is Always Hope",
+      "artist": "Banksy",
+      "year": 2002,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Street Installation",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "ef124af3-b2d8-47d3-a307-1847a1dbed23",
+      "title": "Love Is in the Air (Flower Thrower)",
+      "artist": "Banksy",
+      "year": 2003,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "2c9df923-7bc2-40e4-aad3-8c7e41e94f4b",
+      "title": "Infinity Mirror Room – Phalli’s Field",
+      "artist": "Yayoi Kusama",
+      "year": 1965,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Yayoi Kusama Museum",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": "b0f871c1-0499-49e7-a790-dcb7198793c9",
+      "title": "Pumpkin",
+      "artist": "Yayoi Kusama",
+      "year": 1990,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Naoshima Art Island",
+      "location": "Naoshima, Japan"
+    },
+    {
+      "id": "3d6014df-bc6d-40f2-9a0e-cba414d9cd4d",
+      "title": "Infinity Mirrored Room – The Souls of Millions of Light Years Away",
+      "artist": "Yayoi Kusama",
+      "year": 2013,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "The Broad Museum",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": "01a97a2b-981b-4db4-8f67-498999c82c9c",
+      "title": "Dropping a Han Dynasty Urn",
+      "artist": "Ai Weiwei",
+      "year": 1995,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "China"
+    },
+    {
+      "id": "3510410f-faf1-4d0d-9330-18d533a1e086",
+      "title": "Sunflower Seeds",
+      "artist": "Ai Weiwei",
+      "year": 2010,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "cc961c8e-7f3a-46c2-b227-9f8c5cf29c63",
+      "title": "Bed",
+      "artist": "Tracey Emin",
+      "year": 1998,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "d46921c0-c354-4d34-b7ef-fb4eb1b2d85c",
+      "title": "Everyone I Have Ever Slept With 1963–1995",
+      "artist": "Tracey Emin",
+      "year": 1995,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Destroyed (Momart fire)",
+      "location": "London, United Kingdom"
+    },
+    {
+      "id": "f8b6f471-3858-40b0-9510-f5e8c21c248d",
+      "title": "Untitled (Skull)",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1981,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "25cf52b7-6e6a-4f5b-9a90-d61d5048b798",
+      "title": "Untitled (1982)",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1982,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Private Collection",
+      "location": "USA"
+    },
+    {
+      "id": "9ea2db25-376d-4df7-95b9-2dd82dcdd4c4",
+      "title": "Hollywood Africans",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1983,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "b19f1ef2-164c-40d1-8291-59d531b73a52",
+      "title": "Untitled (Portrait of Ross in L.A.)",
+      "artist": "Felix Gonzalez-Torres",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": "b3d9d617-b9b9-42f4-b9ac-3d4a7c8dd8e3",
+      "title": "One and Three Chairs",
+      "artist": "Joseph Kosuth",
+      "year": 1965,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
+    },
+    {
+      "id": "15ef8ce4-9dc2-4ce7-a57c-f2d18a55a9c3",
+      "title": "Untitled (Perfect Lovers)",
+      "artist": "Felix Gonzalez-Torres",
+      "year": 1991,
+      "period": "Contemporary / Conceptual Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA"
     }
   ]
 }
+    

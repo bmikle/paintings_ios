@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "a6e57a41-78c5-4d54-9b38-5ac8e2f81e3c",
+      "title": "Oath of the Horatii",
+      "artist": "Jacques-Louis David",
+      "year": 1784,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "bce8b61c-3e90-4a3b-98f3-d67b31f927b2",
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
+      "period": "Neoclassicism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": "jacques-louis-david-the-death-of-socrates.jpg"
+    },
+    {
+      "id": "eacbdb03-1b93-4052-8f6d-20571d51dd45",
+      "title": "The Death of Marat",
+      "artist": "Jacques-Louis David",
+      "year": 1793,
+      "period": "Neoclassicism",
+      "museum": "Royal Museums of Fine Arts of Belgium",
+      "location": "Brussels, Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "77229d0e-8e47-45c2-bfd1-13b2726118a5",
+      "title": "Napoleon Crossing the Alps",
+      "artist": "Jacques-Louis David",
+      "year": 1801,
+      "period": "Neoclassicism",
+      "museum": "Château de Malmaison",
+      "location": "Rueil-Malmaison, France",
+      "imageName": ""
+    },
+    {
+      "id": "d41240e4-3b23-46f0-bc02-517948e6bb7b",
+      "title": "The Coronation of Napoleon",
+      "artist": "Jacques-Louis David",
+      "year": 1807,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "jacques-louis-david-the-coronation-of-napoleon.jpg"
+    },
+    {
+      "id": "d4c11a64-93d3-4ff4-91c8-fc8e83b567d4",
+      "title": "Brutus Receiving the Bodies of His Sons",
+      "artist": "Jacques-Louis David",
+      "year": 1789,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "e0a681b3-65a3-4ff0-9b39-3a2d7f61c8cb",
+      "title": "Madame Récamier",
+      "artist": "Jacques-Louis David",
+      "year": 1800,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "f5c14cc2-2888-4ac4-878e-8b75b3a6a249",
+      "title": "Grande Odalisque",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1814,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "jean-auguste-dominique-ingres-grande-odalisque.jpg"
+    },
+    {
+      "id": "15a4e7da-bc9a-4aa5-8ed3-f6352c2a40e2",
+      "title": "The Apotheosis of Homer",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1827,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "jean-auguste-dominique-ingres-the-apotheosis-of-homer.jpg"
+    },
+    {
+      "id": "cc8dc52a-b05b-4047-a52a-d541c97c3ff9",
+      "title": "Portrait of Monsieur Bertin",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1832,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "0a228496-d08a-4a6b-9e57-7d204e18ed3a",
+      "title": "La Grande Baigneuse (The Valpinçon Bather)",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1808,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "2a00e199-b70c-4b4b-baf8-8e68c5d78fcb",
+      "title": "Self-Portrait at the Easel",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1790,
+      "period": "Neoclassicism",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "b0e1d248-f3c3-4ef0-a0f8-5a436f7261b7",
+      "title": "Cornelia Presenting Her Children as Her Treasures",
+      "artist": "Angelica Kauffmann",
+      "year": 1785,
+      "period": "Neoclassicism",
+      "museum": "Virginia Museum of Fine Arts",
+      "location": "Richmond, USA",
+      "imageName": ""
+    },
+    {
+      "id": "bc30a209-ec38-4b2a-8781-2d67b0da2c0a",
+      "title": "The Artist Hesitating Between the Arts of Music and Painting",
+      "artist": "Angelica Kauffmann",
+      "year": 1794,
+      "period": "Neoclassicism",
+      "museum": "Kenwood House",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "beebae77-1b4c-4e10-a38f-23c56e60b30a",
+      "title": "Venus Anadyomene",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1848,
+      "period": "Neoclassicism",
+      "museum": "Musée Condé, Chantilly",
+      "location": "Chantilly, France",
+      "imageName": "jean-auguste-dominique-ingres-venus-anadyomene.jpg"
+    },
+    {
+      "id": "a3e1ec6b-d34b-470a-a5d9-8f3b489b9fd0",
+      "title": "Portrait of Napoleon on the Imperial Throne",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1806,
+      "period": "Neoclassicism",
+      "museum": "Musée de l'Armée",
+      "location": "Paris, France",
+      "imageName": "jean-auguste-dominique-ingres-portrait-of-napoleon-on-the-imperial-throne.jpg"
+    },
+    {
+      "id": "0ac57064-3a1d-4cc4-b8b2-3e17a606b7b0",
+      "title": "The Death of General Wolfe",
+      "artist": "Benjamin West",
+      "year": 1770,
+      "period": "Neoclassicism",
+      "museum": "National Gallery of Canada",
+      "location": "Ottawa, Canada",
+      "imageName": "benjamin-west-the-death-of-general-wolfe.jpg"
+    },
+    {
+      "id": "c41f8f0b-7b32-4586-a087-f9f6f9c6b00c",
+      "title": "Agrippina Landing at Brundisium with the Ashes of Germanicus",
+      "artist": "Benjamin West",
+      "year": 1772,
+      "period": "Neoclassicism",
+      "museum": "Yale Center for British Art",
+      "location": "New Haven, USA",
+      "imageName": ""
+    },
+    {
+      "id": "5094161e-2d88-44c4-a788-d23441739f13",
+      "title": "Cupid and Psyche",
+      "artist": "Jacques-Louis David",
+      "year": 1817,
+      "period": "Neoclassicism",
+      "museum": "Hermitage Museum",
+      "location": "St. Petersburg, Russia",
+      "imageName": "jacques-louis-david-cupid-and-psyche.jpg"
+    },
+    {
+      "id": "8308eb59-d9c8-4763-b4d1-94c8a602f195",
+      "title": "The Intervention of the Sabine Women",
+      "artist": "Jacques-Louis David",
+      "year": 1799,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "jacques-louis-david-the-intervention-of-the-sabine-women.jpg"
+    },
+    {
+      "id": "3075e2da-4d2a-4785-b52c-6c856c4fbc86",
+      "title": "Portrait of Madame Moitessier",
+      "artist": "Jean-Auguste-Dominique Ingres",
+      "year": 1856,
+      "period": "Neoclassicism",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "3b91c43e-6c9c-4d5b-90b2-38b2fc63a44a",
+      "title": "Pauline Bonaparte as Venus Victrix",
+      "artist": "Antonio Canova",
+      "year": 1808,
+      "period": "Neoclassicism",
+      "museum": "Galleria Borghese",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "6e6df4cb-77b1-476b-bc84-d3b88467a32f",
+      "title": "Portrait of a Lady as a Vestal Virgin",
+      "artist": "Angelica Kauffmann",
+      "year": 1780,
+      "period": "Neoclassicism",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "de6ac51c-4cf3-4b2e-8de2-3518efbdf92b",
+      "title": "The Battle of the Romans and the Sabines",
+      "artist": "Jacques-Louis David",
+      "year": 1799,
+      "period": "Neoclassicism",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    }
+  ]
+}

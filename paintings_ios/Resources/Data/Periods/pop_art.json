@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "4fd20c6b-c02f-4f3e-b25d-58b493fdf92e",
+      "title": "Marilyn Diptych",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "andy-warhol-marilyn-diptych.jpg"
+    },
+    {
+      "id": "f4c26a74-70f1-44cb-b9c8-4b66cf5a9a38",
+      "title": "Campbell’s Soup Cans",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "andy-warhol-campbells-soup-cans.jpg"
+    },
+    {
+      "id": "b6274dc1-0104-4cc2-8577-567814f6e8b9",
+      "title": "Eight Elvises",
+      "artist": "Andy Warhol",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "af7802e0-1e02-456a-b5da-7bcb54a05815",
+      "title": "Gold Marilyn Monroe",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "andy-warhol-gold-marilyn-monroe.jpg"
+    },
+    {
+      "id": "d1b4ad89-19f4-4dfc-8d41-33e17bb04bdb",
+      "title": "Green Coca-Cola Bottles",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Whitney Museum of American Art",
+      "location": "New York City, USA",
+      "imageName": "andy-warhol-green-coca-cola-bottles.jpg"
+    },
+    {
+      "id": "6e9a3cbe-b154-46a8-9858-d366f60ff3d5",
+      "title": "Whaam!",
+      "artist": "Roy Lichtenstein",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "roy-lichtenstein-whaam.jpg"
+    },
+    {
+      "id": "b2c0f02e-6074-45ff-b8e0-623fa3ad5976",
+      "title": "Drowning Girl",
+      "artist": "Roy Lichtenstein",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "roy-lichtenstein-drowning-girl.jpg"
+    },
+    {
+      "id": "0f68103f-4a65-4429-9b54-2fc94645e5b7",
+      "title": "Oh, Jeff...I Love You, Too...But...",
+      "artist": "Roy Lichtenstein",
+      "year": 1964,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "e9fa37e3-4a3c-42a2-9343-9a37cf59a14f",
+      "title": "Look Mickey",
+      "artist": "Roy Lichtenstein",
+      "year": 1961,
+      "period": "Pop Art",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": "roy-lichtenstein-look-mickey.jpg"
+    },
+    {
+      "id": "31a7b39e-46f1-46d5-949f-00d58fba236f",
+      "title": "Masterpiece",
+      "artist": "Roy Lichtenstein",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "db81cb17-9513-496b-80a1-60234ec7015d",
+      "title": "Just what is it that makes today's homes so different, so appealing?",
+      "artist": "Richard Hamilton",
+      "year": 1956,
+      "period": "Pop Art",
+      "museum": "Kunsthalle Tübingen",
+      "location": "Tübingen, Germany",
+      "imageName": "richard-hamilton-just-what-is-it-that-makes-todays-homes-so-different-so-appealing.jpg"
+    },
+    {
+      "id": "2b06b7b2-cc44-43a5-8f36-65b22cc8f62d",
+      "title": "Interior II",
+      "artist": "Richard Hamilton",
+      "year": 1964,
+      "period": "Pop Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom",
+      "imageName": "richard-hamilton-interior-ii.jpg"
+    },
+    {
+      "id": "d9302f03-9ff7-4200-bb58-1e9c6613a6cb",
+      "title": "A Bigger Splash",
+      "artist": "David Hockney",
+      "year": 1967,
+      "period": "Pop Art",
+      "museum": "Tate Britain",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "4a41b68b-c9ab-4dc3-b0c4-e22f70b98a3a",
+      "title": "Portrait of an Artist (Pool with Two Figures)",
+      "artist": "David Hockney",
+      "year": 1972,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "d15c7e4f-8b50-4e3c-b9f0-62b7c3657a13",
+      "title": "Peter Getting Out of Nick’s Pool",
+      "artist": "David Hockney",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Walker Art Gallery",
+      "location": "Liverpool, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "3e29d5f4-9891-49ff-b6cb-d99e10c519d9",
+      "title": "LOVE",
+      "artist": "Robert Indiana",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Indianapolis Museum of Art",
+      "location": "Indianapolis, USA",
+      "imageName": ""
+    },
+    {
+      "id": "2a0d65e2-46ed-4e4b-8150-03d6a542c75e",
+      "title": "Hope",
+      "artist": "Robert Indiana",
+      "year": 2008,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": "robert-indiana-hope.jpg"
+    },
+    {
+      "id": "54a0d30b-38b2-4ab3-975d-0b76da37de19",
+      "title": "Still Life #30",
+      "artist": "Tom Wesselmann",
+      "year": 1963,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "5ff6160a-3d08-402b-9f4e-81d3db8a7490",
+      "title": "Bedroom Painting #41",
+      "artist": "Tom Wesselmann",
+      "year": 1978,
+      "period": "Pop Art",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "45e0b2b2-05e7-4ed1-8ac3-893554f013a4",
+      "title": "I Was a Rich Man’s Plaything",
+      "artist": "Eduardo Paolozzi",
+      "year": 1947,
+      "period": "Pop Art",
+      "museum": "Tate Modern",
+      "location": "London, United Kingdom",
+      "imageName": "eduardo-paolozzi-i-was-a-rich-mans-plaything.jpg"
+    },
+    {
+      "id": "ba0e1394-dfae-4032-8a15-2c188d4b8a18",
+      "title": "Blam",
+      "artist": "Roy Lichtenstein",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Yale University Art Gallery",
+      "location": "New Haven, USA",
+      "imageName": "roy-lichtenstein-blam.jpg"
+    },
+    {
+      "id": "4d20aa3b-56cc-4d74-816b-7c9318ee47db",
+      "title": "100 Cans",
+      "artist": "Andy Warhol",
+      "year": 1962,
+      "period": "Pop Art",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA",
+      "imageName": "andy-warhol-100-cans.jpg"
+    },
+    {
+      "id": "54de4c39-f2a5-4e4f-baf2-98851cf0cb15",
+      "title": "Brushstrokes",
+      "artist": "Roy Lichtenstein",
+      "year": 1965,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "roy-lichtenstein-brushstrokes.jpg"
+    },
+    {
+      "id": "f63053d1-b8a5-4f6f-b3a3-50c3b06cb8fc",
+      "title": "Banana",
+      "artist": "Andy Warhol",
+      "year": 1966,
+      "period": "Pop Art",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    }
+  ]
+}

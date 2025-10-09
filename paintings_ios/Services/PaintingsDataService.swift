@@ -24,18 +24,55 @@ class PaintingsDataService {
 
     private init() {}
 
-    // Load paintings from bundled JSON file
+    // Load paintings from bundled JSON files (one per period)
     func loadPaintings() async throws -> [Painting] {
-        guard let url = Bundle.main.url(forResource: "paintings", withExtension: "json") else {
-            throw DataServiceError.fileNotFound
-        }
+        let periodFiles = [
+            "renaissance",
+            "baroque",
+            "rococo",
+            "neoclassicism",
+            "realism",
+            "impressionism",
+            "post-impressionism",
+            "expressionism",
+            "cubism",
+            "surrealism",
+            "abstract_expressionism",
+            "futurism",
+            "minimalism",
+            "pop_art",
+            "symbolism",
+            "contemporary_conceptual_art"
+        ]
 
-        let data = try Data(contentsOf: url)
+        var allPaintings: [Painting] = []
         let decoder = JSONDecoder()
         decoder.dateDecodingStrategy = .iso8601
 
-        let response = try decoder.decode(PaintingsResponse.self, from: data)
-        return response.paintings
+        for periodFile in periodFiles {
+            guard let url = Bundle.main.url(
+                forResource: periodFile,
+                withExtension: "json",
+                subdirectory: "Data/Periods"
+            ) else {
+                print("⚠️ Warning: Could not find \(periodFile).json")
+                continue
+            }
+
+            do {
+                let data = try Data(contentsOf: url)
+                let response = try decoder.decode(PaintingsResponse.self, from: data)
+                allPaintings.append(contentsOf: response.paintings)
+            } catch {
+                print("⚠️ Warning: Could not decode \(periodFile).json - \(error)")
+            }
+        }
+
+        guard !allPaintings.isEmpty else {
+            throw DataServiceError.fileNotFound
+        }
+
+        return allPaintings
     }
 
     // Save paintings to local storage

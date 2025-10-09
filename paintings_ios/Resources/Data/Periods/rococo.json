@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "a967d1d9-4c7a-46c9-80fc-f9e7eb1f8831",
+      "title": "The Swing",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1767,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "2140f1e4-57f1-4d5a-87dc-3197283e0297",
+      "title": "The Progress of Love: The Meeting",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1773,
+      "period": "Rococo",
+      "museum": "Frick Collection",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "9b80e5f8-2c49-422a-8587-3c4ffb66e8fd",
+      "title": "The Progress of Love: The Lover Crowned",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1771,
+      "period": "Rococo",
+      "museum": "Frick Collection",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "cd3d3bb3-f52a-4e13-93d0-b1293a6a4a0e",
+      "title": "The Lock",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1777,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "1f6b07ff-3c37-4b6a-9d1d-73a9b5f75b26",
+      "title": "The Bathers",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1765,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "ac073163-604b-4bfc-b9b5-57de30debcf7",
+      "title": "Diana Leaving the Bath",
+      "artist": "François Boucher",
+      "year": 1742,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "ec32e46a-4977-4784-9c7f-dc93b77737b4",
+      "title": "The Toilet of Venus",
+      "artist": "François Boucher",
+      "year": 1751,
+      "period": "Rococo",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "8738d453-227d-4a72-9b3a-934dd158dd59",
+      "title": "Madame de Pompadour",
+      "artist": "François Boucher",
+      "year": 1756,
+      "period": "Rococo",
+      "museum": "Alte Pinakothek",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "ce0af142-b1b9-4bb2-88cf-1e7ee15fd1d9",
+      "title": "Cupid a Captive",
+      "artist": "François Boucher",
+      "year": 1754,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "5e452b39-df74-4d32-9318-4a6d3cc7ce9c",
+      "title": "The Embarkation for Cythera",
+      "artist": "Antoine Watteau",
+      "year": 1717,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "antoine-watteau-the-embarkation-for-cythera.jpg"
+    },
+    {
+      "id": "71af0733-58a1-4635-b165-cc529598dd38",
+      "title": "Gilles (Pierrot)",
+      "artist": "Antoine Watteau",
+      "year": 1718,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "antoine-watteau-gilles.jpg"
+    },
+    {
+      "id": "545d24d7-88ba-499e-9f6c-2614ecbde9a9",
+      "title": "The Signboard of Gersaint",
+      "artist": "Antoine Watteau",
+      "year": 1721,
+      "period": "Rococo",
+      "museum": "Charlottenburg Palace",
+      "location": "Berlin, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "cc52e0a7-289d-4f8e-9cdb-9a6f07b16e18",
+      "title": "Breakfast Scene",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1739,
+      "period": "Rococo",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "fc81d1d5-0c77-4f35-8ec5-9b66e3ce92b7",
+      "title": "The Ray",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1728,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "8b348b6d-b70d-4d57-b247-9cfbebf9a5ea",
+      "title": "The House of Cards",
+      "artist": "Jean-Baptiste-Siméon Chardin",
+      "year": 1737,
+      "period": "Rococo",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "d9a6e313-7a35-4b2d-b08f-182dfbda2c56",
+      "title": "The Morning Toilet",
+      "artist": "François Boucher",
+      "year": 1742,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "f59b83b5-4d80-4b02-937d-fd2d4b7ef69c",
+      "title": "Self-Portrait with Her Daughter",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1789,
+      "period": "Rococo",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "cba3b5b9-ec19-4d5c-a9f2-6b0f63ff6eb6",
+      "title": "Marie Antoinette and Her Children",
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "year": 1787,
+      "period": "Rococo",
+      "museum": "Versailles Palace",
+      "location": "Versailles, France",
+      "imageName": ""
+    },
+    {
+      "id": "1e3da6a4-8cfb-43cb-8a24-fad4820d41e3",
+      "title": "Portrait of Madame de Pompadour",
+      "artist": "François Boucher",
+      "year": 1759,
+      "period": "Rococo",
+      "museum": "Fogg Art Museum",
+      "location": "Cambridge, USA",
+      "imageName": ""
+    },
+    {
+      "id": "bba60d50-d4f2-4b7e-bb21-25ec2647a3eb",
+      "title": "The Music Lesson",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1769,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "3f3a3d18-d9b4-4b2d-89a0-7db8c7c273c1",
+      "title": "The Love Letter",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1770,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "709f3f6f-bd33-4c61-9b9e-3ce6b63df1d1",
+      "title": "The Fountain of Love",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1785,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "c4583e7b-556b-4bb4-8f5e-ef38b5f6f779",
+      "title": "The Interrupted Sleep",
+      "artist": "François Boucher",
+      "year": 1750,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "e9e679e1-8e9d-4f13-b28b-85e5a4e9cb4f",
+      "title": "Pastoral Scene",
+      "artist": "François Boucher",
+      "year": 1749,
+      "period": "Rococo",
+      "museum": "Wallace Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    }
+  ]
+}

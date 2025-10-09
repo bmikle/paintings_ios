@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "7fd8ac5d-4b4f-4c15-9d8a-25a9f1a7dc21",
+      "title": "No. 5, 1948",
+      "artist": "Jackson Pollock",
+      "year": 1948,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "1b9e5bcf-8011-4e89-8b75-ef505c29a5b1",
+      "title": "Autumn Rhythm (Number 30)",
+      "artist": "Jackson Pollock",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "a4c7e944-86ab-4a10-b26b-49ef22d6a7a4",
+      "title": "Blue Poles",
+      "artist": "Jackson Pollock",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Australia",
+      "location": "Canberra, Australia",
+      "imageName": ""
+    },
+    {
+      "id": "d02dc4fa-13e0-4cf0-9625-1c1b6c688a10",
+      "title": "Convergence",
+      "artist": "Jackson Pollock",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "Albright-Knox Art Gallery",
+      "location": "Buffalo, USA",
+      "imageName": "jackson-pollock-convergence.jpg"
+    },
+    {
+      "id": "e90f0e5c-90d4-47b5-878a-5134e32c2827",
+      "title": "Lavender Mist (Number 1)",
+      "artist": "Jackson Pollock",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "c84707b5-6671-4b3b-a1e5-2069a2c01a44",
+      "title": "No. 61 (Rust and Blue)",
+      "artist": "Mark Rothko",
+      "year": 1953,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Contemporary Art",
+      "location": "Los Angeles, USA",
+      "imageName": ""
+    },
+    {
+      "id": "07c38f12-14b0-48c7-8b39-f445eae50f5f",
+      "title": "Orange, Red, Yellow",
+      "artist": "Mark Rothko",
+      "year": 1961,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "fa6c3f0a-fd77-4b94-83d0-05997a2c85a5",
+      "title": "No. 14, 1960",
+      "artist": "Mark Rothko",
+      "year": 1960,
+      "period": "Abstract Expressionism",
+      "museum": "San Francisco Museum of Modern Art",
+      "location": "San Francisco, USA",
+      "imageName": "mark-rothko-no-14-1960.jpg"
+    },
+    {
+      "id": "bca77e7c-5928-4201-97a8-8e8f91e5c3f2",
+      "title": "White Center (Yellow, Pink and Lavender on Rose)",
+      "artist": "Mark Rothko",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": "mark-rothko-white-center.jpg"
+    },
+    {
+      "id": "27f2e5c7-89e8-4a43-a1a7-0e90ed3f4143",
+      "title": "Untitled (Black on Grey)",
+      "artist": "Mark Rothko",
+      "year": 1970,
+      "period": "Abstract Expressionism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "mark-rothko-untitled.jpg"
+    },
+    {
+      "id": "db3c8c4e-80d2-4b62-9b0c-19f02879bb85",
+      "title": "Woman I",
+      "artist": "Willem de Kooning",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": ""
+    },
+    {
+      "id": "f27a6c63-80f0-47dc-9fd1-3a52cf7870cc",
+      "title": "Excavation",
+      "artist": "Willem de Kooning",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Art Institute of Chicago",
+      "location": "Chicago, USA",
+      "imageName": ""
+    },
+    {
+      "id": "d5ef94f5-2e11-4717-83f1-8c46a9cfc1b8",
+      "title": "Woman III",
+      "artist": "Willem de Kooning",
+      "year": 1953,
+      "period": "Abstract Expressionism",
+      "museum": "Private Collection",
+      "location": "USA",
+      "imageName": ""
+    },
+    {
+      "id": "e12c68b8-60b8-46d1-8ed1-0a9d69c1b6cb",
+      "title": "Gotham News",
+      "artist": "Willem de Kooning",
+      "year": 1955,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "8e7480da-746b-4dc4-9511-4baf9e078a6d",
+      "title": "Elegy to the Spanish Republic No. 110",
+      "artist": "Robert Motherwell",
+      "year": 1971,
+      "period": "Abstract Expressionism",
+      "museum": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "robert-motherwell-elegy-to-the-spanish-republic-no-110.jpg"
+    },
+    {
+      "id": "f016e91a-52e0-4c6c-b201-4d32d01a4d7f",
+      "title": "Pancho Villa, Dead and Alive",
+      "artist": "Robert Motherwell",
+      "year": 1943,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "robert-motherwell-pancho-villa-dead-and-alive.jpg"
+    },
+    {
+      "id": "415e734c-2e3c-465b-97c8-cb42289f58c0",
+      "title": "Vir Heroicus Sublimis",
+      "artist": "Barnett Newman",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "barnett-newman-vir-heroicus-sublimis.jpg"
+    },
+    {
+      "id": "b78b2dc0-1e33-4ec7-95b5-40a83b02ee6f",
+      "title": "Onement I",
+      "artist": "Barnett Newman",
+      "year": 1948,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "barnett-newman-onement-i.jpg"
+    },
+    {
+      "id": "d4ff653e-2586-4c83-8e37-dce0f33d7342",
+      "title": "Cathedra",
+      "artist": "Barnett Newman",
+      "year": 1951,
+      "period": "Abstract Expressionism",
+      "museum": "Detroit Institute of Arts",
+      "location": "Detroit, USA",
+      "imageName": ""
+    },
+    {
+      "id": "0c8b1f8c-08a1-4fd8-a21d-cce3b3654cd7",
+      "title": "Mahoning",
+      "artist": "Franz Kline",
+      "year": 1956,
+      "period": "Abstract Expressionism",
+      "museum": "Solomon R. Guggenheim Museum",
+      "location": "New York City, USA",
+      "imageName": "franz-kline-mahoning.jpg"
+    },
+    {
+      "id": "f5a3f44b-9537-4af9-b88f-ef12d14b8e79",
+      "title": "Chief",
+      "artist": "Franz Kline",
+      "year": 1950,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "franz-kline-chief.jpg"
+    },
+    {
+      "id": "22adad49-2539-41a1-bb0b-b8af39457f80",
+      "title": "Cubi XVIII",
+      "artist": "David Smith",
+      "year": 1964,
+      "period": "Abstract Expressionism",
+      "museum": "Smithsonian American Art Museum",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "bb2c88f9-8f49-4cfa-b9f3-9f71a3ee9b77",
+      "title": "Mountains and Sea",
+      "artist": "Helen Frankenthaler",
+      "year": 1952,
+      "period": "Abstract Expressionism",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": "helen-frankenthaler-mountains-and-sea.jpg"
+    },
+    {
+      "id": "46b4f0b7-53cb-4d6f-b705-398381af4968",
+      "title": "Cool White (Thrust)",
+      "artist": "Lee Krasner",
+      "year": 1959,
+      "period": "Abstract Expressionism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "lee-krasner-cool-white.jpg"
+    }
+  ]
+}

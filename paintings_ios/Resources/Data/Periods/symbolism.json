@@ -1,0 +1,244 @@
+{
+  "paintings": [
+    {
+      "id": "d3a4e04a-836e-4a1a-a22c-3f98aebd01bb",
+      "title": "Jupiter and Semele",
+      "artist": "Gustave Moreau",
+      "year": 1895,
+      "period": "Symbolism",
+      "museum": "Musée Gustave Moreau",
+      "location": "Paris, France",
+      "imageName": "gustave-moreau-jupiter-and-semele.jpg"
+    },
+    {
+      "id": "cd1df94e-b4ac-42e8-bb1f-07932ec3e0d2",
+      "title": "Salome Dancing before Herod",
+      "artist": "Gustave Moreau",
+      "year": 1876,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "gustave-moreau-salome-dancing-before-herod.jpg"
+    },
+    {
+      "id": "8e2415ab-b523-4b12-999b-f16df1da4b7a",
+      "title": "The Apparition",
+      "artist": "Gustave Moreau",
+      "year": 1876,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "gustave-moreau-the-apparition.jpg"
+    },
+    {
+      "id": "607a358b-69ae-4e39-b13d-4f7a56c4f1ed",
+      "title": "The Cyclops",
+      "artist": "Odilon Redon",
+      "year": 1914,
+      "period": "Symbolism",
+      "museum": "Kröller-Müller Museum",
+      "location": "Otterlo, Netherlands",
+      "imageName": "odilon-redon-the-cyclops.jpg"
+    },
+    {
+      "id": "efc7363e-e27a-4b9f-b931-bef71d32a544",
+      "title": "Ophelia among the Flowers",
+      "artist": "Odilon Redon",
+      "year": 1905,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "fe257ac7-5a71-4b91-828b-8f75bde14e76",
+      "title": "Spirit of the Forest",
+      "artist": "Odilon Redon",
+      "year": 1890,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": "odilon-redon-spirit-of-the-forest.jpg"
+    },
+    {
+      "id": "a417ee63-0df9-43db-8c81-067d40d0a9c5",
+      "title": "Isle of the Dead",
+      "artist": "Arnold Böcklin",
+      "year": 1883,
+      "period": "Symbolism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": ""
+    },
+    {
+      "id": "cdab264b-6efc-4c44-90d7-6bda7e0d4305",
+      "title": "Self-Portrait with Death Playing the Fiddle",
+      "artist": "Arnold Böcklin",
+      "year": 1872,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "f0c92e94-251c-4639-80ec-8cf1e6d24a84",
+      "title": "The Silence",
+      "artist": "Fernand Khnopff",
+      "year": 1890,
+      "period": "Symbolism",
+      "museum": "Musées Royaux des Beaux-Arts de Belgique",
+      "location": "Brussels, Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "b13e9b59-4f42-4fa7-871f-7b6d2b8f8821",
+      "title": "I Lock My Door Upon Myself",
+      "artist": "Fernand Khnopff",
+      "year": 1891,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany",
+      "imageName": "fernand-khnopff-i-lock-my-door-upon-myself.jpg"
+    },
+    {
+      "id": "fcba343d-e1f2-4374-a5cf-5cd1ed72b0e1",
+      "title": "Caress of the Sphinx",
+      "artist": "Fernand Khnopff",
+      "year": 1896,
+      "period": "Symbolism",
+      "museum": "Musées Royaux des Beaux-Arts de Belgique",
+      "location": "Brussels, Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "7b23af84-49a3-4c74-9544-d4d38f5da727",
+      "title": "Hope I",
+      "artist": "Gustav Klimt",
+      "year": 1903,
+      "period": "Symbolism",
+      "museum": "National Gallery of Canada",
+      "location": "Ottawa, Canada",
+      "imageName": "gustav-klimt-hope-i.jpg"
+    },
+    {
+      "id": "feac67b2-bb52-4e4f-b16a-f9b9984747a7",
+      "title": "The Kiss",
+      "artist": "Gustav Klimt",
+      "year": 1908,
+      "period": "Symbolism",
+      "museum": "Österreichische Galerie Belvedere",
+      "location": "Vienna, Austria",
+      "imageName": ""
+    },
+    {
+      "id": "34e3e04e-d5f2-4b8d-8881-1d889b7ec10b",
+      "title": "Judith and the Head of Holofernes",
+      "artist": "Gustav Klimt",
+      "year": 1901,
+      "period": "Symbolism",
+      "museum": "Belvedere Museum",
+      "location": "Vienna, Austria",
+      "imageName": ""
+    },
+    {
+      "id": "dce40412-b12a-4d42-bf65-0c98689b15f8",
+      "title": "The Golden Knight (Life is a Struggle)",
+      "artist": "Franz von Stuck",
+      "year": 1897,
+      "period": "Symbolism",
+      "museum": "Museum Villa Stuck",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "15d55db9-69f9-49f0-81f3-3f4d8cf2a5bc",
+      "title": "The Sin",
+      "artist": "Franz von Stuck",
+      "year": 1893,
+      "period": "Symbolism",
+      "museum": "Neue Pinakothek",
+      "location": "Munich, Germany",
+      "imageName": "franz-von-stuck-the-sin.jpg"
+    },
+    {
+      "id": "03258b2e-5a2b-4a83-9fd2-52c009e4cf25",
+      "title": "The Bride of the Wind",
+      "artist": "Oskar Kokoschka",
+      "year": 1914,
+      "period": "Symbolism",
+      "museum": "Kunstmuseum Basel",
+      "location": "Basel, Switzerland",
+      "imageName": ""
+    },
+    {
+      "id": "6d9ef583-ecf0-4fdf-8c45-16e1cbce7c90",
+      "title": "The Evil Mothers",
+      "artist": "Giovanni Segantini",
+      "year": 1894,
+      "period": "Symbolism",
+      "museum": "Galleria d’Arte Moderna",
+      "location": "Milan, Italy",
+      "imageName": "giovanni-segantini-the-evil-mothers.jpg"
+    },
+    {
+      "id": "74493171-90e2-4d27-8fa7-1eaf0b5b9a4e",
+      "title": "The Punishment of Lust",
+      "artist": "Giovanni Segantini",
+      "year": 1891,
+      "period": "Symbolism",
+      "museum": "Walker Art Gallery",
+      "location": "Liverpool, United Kingdom",
+      "imageName": "giovanni-segantini-the-punishment-of-lust.jpg"
+    },
+    {
+      "id": "2f7ed8e5-0488-4672-85ea-0c46a452f0c4",
+      "title": "The Vision",
+      "artist": "Lucien Lévy-Dhurmer",
+      "year": 1895,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "d925825d-c47c-4c86-99a7-f6adf5b08b9d",
+      "title": "The Dream",
+      "artist": "Henri Rousseau",
+      "year": 1910,
+      "period": "Symbolism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "henri-rousseau-the-dream.jpg"
+    },
+    {
+      "id": "f22d2d1a-1e0d-45a5-a21c-b6e2a16a8902",
+      "title": "The Sleeping Gypsy",
+      "artist": "Henri Rousseau",
+      "year": 1897,
+      "period": "Symbolism",
+      "museum": "Museum of Modern Art",
+      "location": "New York City, USA",
+      "imageName": "henri-rousseau-the-sleeping-gypsy.jpg"
+    },
+    {
+      "id": "a5eb58a7-4cde-43dc-9d90-daa0f40d920a",
+      "title": "The Sacred Grove",
+      "artist": "Pierre Puvis de Chavannes",
+      "year": 1884,
+      "period": "Symbolism",
+      "museum": "Musée d'Orsay",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "4dcba8b1-36c0-4b1e-8f42-ea877d39e510",
+      "title": "Young Girls by the Sea",
+      "artist": "Pierre Puvis de Chavannes",
+      "year": 1879,
+      "period": "Symbolism",
+      "museum": "Metropolitan Museum of Art",
+      "location": "New York City, USA",
+      "imageName": "pierre-puvis-de-chavannes-young-girls-by-the-sea.jpg"
+    }
+  ]
+}

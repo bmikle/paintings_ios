@@ -1,0 +1,294 @@
+{
+  "paintings": [
+    {
+      "id": "bfc5a452-b68c-4e3a-8d65-80c5a1dc6129",
+      "title": "The Calling of Saint Matthew",
+      "artist": "Caravaggio",
+      "year": 1600,
+      "period": "Baroque",
+      "museum": "Contarelli Chapel, San Luigi dei Francesi",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "3de1a6b0-278a-4bc0-9a1c-34932adfcb94",
+      "title": "Judith Beheading Holofernes",
+      "artist": "Caravaggio",
+      "year": 1599,
+      "period": "Baroque",
+      "museum": "Galleria Nazionale d'Arte Antica",
+      "location": "Rome, Italy",
+      "imageName": "caravaggio-judith-beheading-holofernes.jpg"
+    },
+    {
+      "id": "8f58ad17-04cd-42ad-a357-d0e7e635e3d1",
+      "title": "The Supper at Emmaus",
+      "artist": "Caravaggio",
+      "year": 1601,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "7f10de6a-d74f-4951-90d7-5e3cfb3c3c81",
+      "title": "David with the Head of Goliath",
+      "artist": "Caravaggio",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "Galleria Borghese",
+      "location": "Rome, Italy",
+      "imageName": "caravaggio-david-with-the-head-of-goliath.jpg"
+    },
+    {
+      "id": "ef9f661e-f09a-4d59-8c3b-d167da7465ae",
+      "title": "The Night Watch",
+      "artist": "Rembrandt van Rijn",
+      "year": 1642,
+      "period": "Baroque",
+      "museum": "Rijksmuseum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": ""
+    },
+    {
+      "id": "bbd4e0fa-d56d-42a8-9ec8-96d39513ec4a",
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt van Rijn",
+      "year": 1632,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands",
+      "imageName": "rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp.jpg"
+    },
+    {
+      "id": "6b85b17a-0c64-4c5e-bc72-d474ffdc4e89",
+      "title": "The Return of the Prodigal Son",
+      "artist": "Rembrandt van Rijn",
+      "year": 1669,
+      "period": "Baroque",
+      "museum": "Hermitage Museum",
+      "location": "St. Petersburg, Russia",
+      "imageName": "rembrandt-van-rijn-the-return-of-the-prodigal-son.jpg"
+    },
+    {
+      "id": "45a6cb3f-fc4c-45f9-b8e5-1c4f8996e749",
+      "title": "The Jewish Bride",
+      "artist": "Rembrandt van Rijn",
+      "year": 1667,
+      "period": "Baroque",
+      "museum": "Rijksmuseum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": ""
+    },
+    {
+      "id": "e1d9fae9-38a5-4627-a9d8-4fef2b92f240",
+      "title": "Las Meninas",
+      "artist": "Diego Velázquez",
+      "year": 1656,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "d44a7991-9172-495a-95e0-9b77dd0c90f7",
+      "title": "The Surrender of Breda",
+      "artist": "Diego Velázquez",
+      "year": 1635,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "f5d54f0f-f727-4d74-897c-3f5c86ed2ab1",
+      "title": "The Rokeby Venus",
+      "artist": "Diego Velázquez",
+      "year": 1651,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "e8e8a2f0-4569-40b7-8f1b-92d8b78e03d0",
+      "title": "Portrait of Innocent X",
+      "artist": "Diego Velázquez",
+      "year": 1650,
+      "period": "Baroque",
+      "museum": "Galleria Doria Pamphilj",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "c3b61c7b-c6b3-4fbb-86c8-1a1290e0f8e4",
+      "title": "The Elevation of the Cross",
+      "artist": "Peter Paul Rubens",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "Cathedral of Our Lady",
+      "location": "Antwerp, Belgium",
+      "imageName": "peter-paul-rubens-the-elevation-of-the-cross.jpg"
+    },
+    {
+      "id": "8f6abdd1-c803-4825-a154-0a597ca7d213",
+      "title": "The Descent from the Cross",
+      "artist": "Peter Paul Rubens",
+      "year": 1612,
+      "period": "Baroque",
+      "museum": "Cathedral of Our Lady",
+      "location": "Antwerp, Belgium",
+      "imageName": "peter-paul-rubens-the-descent-from-the-cross.jpg"
+    },
+    {
+      "id": "cb97e41e-8799-46f7-91b7-7f00dc3f87cc",
+      "title": "The Garden of Love",
+      "artist": "Peter Paul Rubens",
+      "year": 1633,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain",
+      "imageName": "peter-paul-rubens-the-garden-of-love.jpg"
+    },
+    {
+      "id": "eb38cb8a-6b43-4f10-bae3-88f3c3b9e56c",
+      "title": "Samson and Delilah",
+      "artist": "Peter Paul Rubens",
+      "year": 1610,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "peter-paul-rubens-samson-and-delilah.jpg"
+    },
+    {
+      "id": "0f88e79c-034b-4b63-9a21-99c60d9f34d8",
+      "title": "The Triumph of Bacchus",
+      "artist": "Diego Velázquez",
+      "year": 1628,
+      "period": "Baroque",
+      "museum": "Museo del Prado",
+      "location": "Madrid, Spain",
+      "imageName": ""
+    },
+    {
+      "id": "be91bc74-86a7-4d53-b02b-ecddbcf87164",
+      "title": "The Rape of the Daughters of Leucippus",
+      "artist": "Peter Paul Rubens",
+      "year": 1618,
+      "period": "Baroque",
+      "museum": "Alte Pinakothek",
+      "location": "Munich, Germany",
+      "imageName": ""
+    },
+    {
+      "id": "b2d80830-0ac4-4fd7-9150-0300d23049f2",
+      "title": "The Conversion of Saint Paul",
+      "artist": "Caravaggio",
+      "year": 1601,
+      "period": "Baroque",
+      "museum": "Santa Maria del Popolo",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "067f1d8f-6f14-48f3-9f5a-6e7f9e0e3138",
+      "title": "The Inspiration of Saint Matthew",
+      "artist": "Caravaggio",
+      "year": 1602,
+      "period": "Baroque",
+      "museum": "Contarelli Chapel, San Luigi dei Francesi",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "d44a52f2-c6c3-48f4-bdbc-8ff5fc7a9807",
+      "title": "The Ecstasy of Saint Teresa",
+      "artist": "Gian Lorenzo Bernini",
+      "year": 1652,
+      "period": "Baroque",
+      "museum": "Santa Maria della Vittoria",
+      "location": "Rome, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "b3c85f6a-dcdb-487d-84f3-94e2f23174b5",
+      "title": "Judith Slaying Holofernes",
+      "artist": "Artemisia Gentileschi",
+      "year": 1620,
+      "period": "Baroque",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": "artemisia-gentileschi-judith-slaying-holofernes.jpg"
+    },
+    {
+      "id": "e3142d6b-4c9f-45d7-bb88-f18b2b2c60b4",
+      "title": "Self-Portrait as the Allegory of Painting",
+      "artist": "Artemisia Gentileschi",
+      "year": 1638,
+      "period": "Baroque",
+      "museum": "Royal Collection",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "139fe228-1995-4b4b-b5cb-cdf4c7e22b78",
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "year": 1665,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands",
+      "imageName": "johannes-vermeer-girl-with-a-pearl-earring.jpg"
+    },
+    {
+      "id": "79a93692-8d36-4c5c-a9f4-beb407f6df16",
+      "title": "The Milkmaid",
+      "artist": "Johannes Vermeer",
+      "year": 1658,
+      "period": "Baroque",
+      "museum": "Rijksmuseum",
+      "location": "Amsterdam, Netherlands",
+      "imageName": "johannes-vermeer-the-milkmaid.jpg"
+    },
+    {
+      "id": "1acbe594-ff61-4d8b-b75e-f01a6b4ec9de",
+      "title": "View of Delft",
+      "artist": "Johannes Vermeer",
+      "year": 1660,
+      "period": "Baroque",
+      "museum": "Mauritshuis",
+      "location": "The Hague, Netherlands",
+      "imageName": ""
+    },
+    {
+      "id": "e60ef76e-d83b-4b1c-bb8b-60dbb3218c90",
+      "title": "Woman Holding a Balance",
+      "artist": "Johannes Vermeer",
+      "year": 1664,
+      "period": "Baroque",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": ""
+    },
+    {
+      "id": "b9e54fc0-faa5-4d69-8f63-3ebc31a2526a",
+      "title": "The Music Lesson",
+      "artist": "Johannes Vermeer",
+      "year": 1662,
+      "period": "Baroque",
+      "museum": "Royal Collection",
+      "location": "London, United Kingdom",
+      "imageName": "johannes-vermeer-the-music-lesson.jpg"
+    },
+    {
+      "id": "a5131a08-3a5e-4cdb-9638-3c4b1633b164",
+      "title": "Christ in the House of Martha and Mary",
+      "artist": "Diego Velázquez",
+      "year": 1618,
+      "period": "Baroque",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    }
+  ]
+}

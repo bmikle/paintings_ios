@@ -1,0 +1,304 @@
+{
+  "paintings": [
+    {
+      "id": "c95ab6d3-54b4-4cf2-9ad1-47e12996e501",
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "period": "Renaissance",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": "leonardo-da-vinci-mona-lisa.jpg"
+    },
+    {
+      "id": "a3e70c2e-df24-478d-a79c-9e8ed4e55c11",
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "year": 1498,
+      "period": "Renaissance",
+      "museum": "Santa Maria delle Grazie",
+      "location": "Milan, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "7e13e41c-8b68-4f08-b099-b69e11f3f6ef",
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "year": 1485,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": "sandro-botticelli-the-birth-of-venus.jpg"
+    },
+    {
+      "id": "8d1a92de-0322-4954-9dc2-14e92cb9392a",
+      "title": "Primavera",
+      "artist": "Sandro Botticelli",
+      "year": 1482,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "2cb17d87-7864-4797-b76b-bae86e62ad9e",
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "year": 1511,
+      "period": "Renaissance",
+      "museum": "Vatican Museums",
+      "location": "Vatican City",
+      "imageName": "raphael-the-school-of-athens.jpg"
+    },
+    {
+      "id": "9f21d802-69cb-49df-98b0-50d6eb3ec4c8",
+      "title": "Sistine Madonna",
+      "artist": "Raphael",
+      "year": 1513,
+      "period": "Renaissance",
+      "museum": "Gemäldegalerie Alte Meister",
+      "location": "Dresden, Germany",
+      "imageName": "raphael-sistine-madonna.jpg"
+    },
+    {
+      "id": "f12eec7a-6eb0-4f43-b0c4-7a31a71e1cc2",
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "year": 1512,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City",
+      "imageName": "michelangelo-the-creation-of-adam.jpg"
+    },
+    {
+      "id": "c02cecb8-64db-4dcb-8f9e-64c6e1f25a24",
+      "title": "The Last Judgment",
+      "artist": "Michelangelo",
+      "year": 1541,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City",
+      "imageName": ""
+    },
+    {
+      "id": "cd69ab09-5cf8-4b9f-833a-5ad680e0ec84",
+      "title": "The Annunciation",
+      "artist": "Leonardo da Vinci",
+      "year": 1475,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "1a6f0a35-13a0-4514-930d-69dc9a3e60b5",
+      "title": "Lady with an Ermine",
+      "artist": "Leonardo da Vinci",
+      "year": 1489,
+      "period": "Renaissance",
+      "museum": "Czartoryski Museum",
+      "location": "Kraków, Poland",
+      "imageName": ""
+    },
+    {
+      "id": "251d237c-5d75-4013-9a52-430dc3ab776a",
+      "title": "Adoration of the Magi",
+      "artist": "Leonardo da Vinci",
+      "year": 1481,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "734cbe9a-d0c7-46ee-a33a-4e98a77720b4",
+      "title": "The Arnolfini Portrait",
+      "artist": "Jan van Eyck",
+      "year": 1434,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "ad4f6a0c-d0a0-4d29-bf8a-f12c6168917d",
+      "title": "The Ghent Altarpiece",
+      "artist": "Jan van Eyck",
+      "year": 1432,
+      "period": "Renaissance",
+      "museum": "St. Bavo’s Cathedral",
+      "location": "Ghent, Belgium",
+      "imageName": "jan-van-eyck-the-ghent-altarpiece.jpg"
+    },
+    {
+      "id": "f8c66563-c1dc-4a52-8d09-f252705ea454",
+      "title": "The Adoration of the Lamb (detail from Ghent Altarpiece)",
+      "artist": "Hubert and Jan van Eyck",
+      "year": 1432,
+      "period": "Renaissance",
+      "museum": "St. Bavo’s Cathedral",
+      "location": "Ghent, Belgium",
+      "imageName": ""
+    },
+    {
+      "id": "84a9eaf2-17c9-49c1-92e4-c76f8dc0b2cf",
+      "title": "The Tribute Money",
+      "artist": "Masaccio",
+      "year": 1425,
+      "period": "Renaissance",
+      "museum": "Brancacci Chapel, Santa Maria del Carmine",
+      "location": "Florence, Italy",
+      "imageName": "masaccio-the-tribute-money.jpg"
+    },
+    {
+      "id": "3b2368f7-4f5f-4c29-975c-38c62373c9f0",
+      "title": "The Holy Trinity",
+      "artist": "Masaccio",
+      "year": 1427,
+      "period": "Renaissance",
+      "museum": "Santa Maria Novella",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "df2b9980-5e1f-4ab3-9b32-053dc81fcd84",
+      "title": "The Delivery of the Keys to Saint Peter",
+      "artist": "Perugino",
+      "year": 1482,
+      "period": "Renaissance",
+      "museum": "Sistine Chapel, Vatican Museums",
+      "location": "Vatican City",
+      "imageName": ""
+    },
+    {
+      "id": "c112d39e-0c3c-4bb1-a957-3897b46d786b",
+      "title": "The Tempest",
+      "artist": "Giorgione",
+      "year": 1508,
+      "period": "Renaissance",
+      "museum": "Gallerie dell’Accademia",
+      "location": "Venice, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "eb38b07b-2984-4e48-8b70-b6aef3cb9a68",
+      "title": "Assumption of the Virgin",
+      "artist": "Titian",
+      "year": 1518,
+      "period": "Renaissance",
+      "museum": "Basilica di Santa Maria Gloriosa dei Frari",
+      "location": "Venice, Italy",
+      "imageName": "titian-assumption-of-the-virgin.jpg"
+    },
+    {
+      "id": "89c0438b-96fc-4d21-a0df-f9d57f47a579",
+      "title": "Venus of Urbino",
+      "artist": "Titian",
+      "year": 1538,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": "titian-venus-of-urbino.jpg"
+    },
+    {
+      "id": "d874df91-6b0f-463f-b5c0-1246b2b5e0f8",
+      "title": "Madonna of the Meadow",
+      "artist": "Raphael",
+      "year": 1506,
+      "period": "Renaissance",
+      "museum": "Kunsthistorisches Museum",
+      "location": "Vienna, Austria",
+      "imageName": ""
+    },
+    {
+      "id": "5832d33c-f146-492b-91f3-305b3a929b0d",
+      "title": "The Battle of San Romano",
+      "artist": "Paolo Uccello",
+      "year": 1438,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": "paolo-uccello-the-battle-of-san-romano.jpg"
+    },
+    {
+      "id": "2c171093-9eab-40cc-91d5-4ef44cb9e1da",
+      "title": "The Adoration of the Magi",
+      "artist": "Gentile da Fabriano",
+      "year": 1423,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "4baf7dc9-1e03-40b1-b007-dfa1c47eb3b8",
+      "title": "Portrait of a Man with a Blue Sleeve",
+      "artist": "Titian",
+      "year": 1512,
+      "period": "Renaissance",
+      "museum": "National Gallery",
+      "location": "London, United Kingdom",
+      "imageName": ""
+    },
+    {
+      "id": "44f7c816-8d38-4a7a-b66f-2c7d9d3c6e12",
+      "title": "The Madonna of the Rocks",
+      "artist": "Leonardo da Vinci",
+      "year": 1486,
+      "period": "Renaissance",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "cbad1f8c-02f5-4a91-8e53-7ebd9a55316f",
+      "title": "Portrait of Baldassare Castiglione",
+      "artist": "Raphael",
+      "year": 1515,
+      "period": "Renaissance",
+      "museum": "Louvre Museum",
+      "location": "Paris, France",
+      "imageName": ""
+    },
+    {
+      "id": "f807dbb7-0cb1-4cf1-84ec-8e0d9dfb3a38",
+      "title": "Madonna and Child with Two Angels",
+      "artist": "Filippo Lippi",
+      "year": 1465,
+      "period": "Renaissance",
+      "museum": "Uffizi Gallery",
+      "location": "Florence, Italy",
+      "imageName": "filippo-lippi-madonna-and-child-with-two-angels.jpg"
+    },
+    {
+      "id": "a4cf9e31-1bb6-4f94-b51e-04a2c5e05a76",
+      "title": "Saint George and the Dragon",
+      "artist": "Raphael",
+      "year": 1506,
+      "period": "Renaissance",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": "raphael-saint-george-and-the-dragon.jpg"
+    },
+    {
+      "id": "1b3a9378-9084-41da-9ef8-d9a233eb54b8",
+      "title": "The Dead Christ",
+      "artist": "Andrea Mantegna",
+      "year": 1480,
+      "period": "Renaissance",
+      "museum": "Pinacoteca di Brera",
+      "location": "Milan, Italy",
+      "imageName": ""
+    },
+    {
+      "id": "90dfb379-4b25-4fa9-9ad4-c1a8a6fa00b5",
+      "title": "Portrait of a Young Man",
+      "artist": "Sandro Botticelli",
+      "year": 1480,
+      "period": "Renaissance",
+      "museum": "National Gallery of Art",
+      "location": "Washington, D.C., USA",
+      "imageName": "sandro-botticelli-portrait-of-a-young-man.jpg"
+    }
+  ]
+}
